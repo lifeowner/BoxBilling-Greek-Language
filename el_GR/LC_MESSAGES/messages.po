@@ -1,0 +1,6728 @@
+# en_US translation of BoxBilling Application
+# Copyright 2011 -2015 BoxBilling <info@boxbilling.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 4\n"
+"POT-Creation-Date: 2015-02-27 08:07+0000\n"
+"PO-Revision-Date: 2021-12-01 04:43+0200\n"
+"Language-Team: BoxBilling TM <info@boxbilling.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: el\n"
+
+msgid "sq_AL"
+msgstr "Albanian (Albania)"
+
+msgid "ar_DZ"
+msgstr "Arabic (Algeria)"
+
+msgid "ar_BH"
+msgstr "Arabic (Bahrain)"
+
+msgid "ar_EG"
+msgstr "Arabic (Egypt)"
+
+msgid "ar_IQ"
+msgstr "Arabic (Iraq)"
+
+msgid "ar_JO"
+msgstr "Arabic (Jordan)"
+
+msgid "ar_KW"
+msgstr "Arabic (Kuwait)"
+
+msgid "ar_LB"
+msgstr "Arabic (Lebanon)"
+
+msgid "ar_LY"
+msgstr "Arabic (Libya)"
+
+msgid "ar_MA"
+msgstr "Arabic (Morocco)"
+
+msgid "ar_OM"
+msgstr "Arabic (Oman)"
+
+msgid "ar_QA"
+msgstr "Arabic (Qatar)"
+
+msgid "ar_SA"
+msgstr "Arabic (Saudi Arabia)"
+
+msgid "ar_SD"
+msgstr "Arabic (Sudan)"
+
+msgid "ar_SY"
+msgstr "Arabic (Syria)"
+
+msgid "ar_TN"
+msgstr "Arabic (Tunisia)"
+
+msgid "ar_AE"
+msgstr "Arabic (United Arab Emirates)"
+
+msgid "ar_YE"
+msgstr "Arabic (Yemen)"
+
+msgid "be_BY"
+msgstr "Belarusian (Belarus)"
+
+msgid "bg_BG"
+msgstr "Bulgarian (Bulgaria)"
+
+msgid "ca_ES"
+msgstr "Catalan (Spain)"
+
+msgid "zh_CN"
+msgstr "Chinese (China)"
+
+msgid "zh_HK"
+msgstr "Chinese (Hong Kong)"
+
+msgid "zh_SG"
+msgstr "Chinese (Singapore)"
+
+msgid "zh_TW"
+msgstr "Chinese (Taiwan)"
+
+msgid "hr_HR"
+msgstr "Croatian (Croatia)"
+
+msgid "cs_CZ"
+msgstr "Czech (Czech Republic)"
+
+msgid "da_DK"
+msgstr "Danish (Denmark)"
+
+msgid "nl_BE"
+msgstr "Dutch (Belgium)"
+
+msgid "nl_NL"
+msgstr "Dutch (Netherlands)"
+
+msgid "en_AU"
+msgstr "English (Australia)"
+
+msgid "en_CA"
+msgstr "English (Canada)"
+
+msgid "en_IN"
+msgstr "English (India)"
+
+msgid "en_IE"
+msgstr "English (Ireland)"
+
+msgid "en_MT"
+msgstr "English (Malta)"
+
+msgid "en_NZ"
+msgstr "English (New Zealand)"
+
+msgid "en_PH"
+msgstr "English (Philippines)"
+
+msgid "en_SG"
+msgstr "English (Singapore)"
+
+msgid "en_ZA"
+msgstr "English (South Africa)"
+
+msgid "en_GB"
+msgstr "English (United Kingdom)"
+
+msgid "en_US"
+msgstr "English (United States)"
+
+msgid "et_EE"
+msgstr "Estonian (Estonia)"
+
+msgid "fi_FI"
+msgstr "Finnish (Finland)"
+
+msgid "fr_BE"
+msgstr "French (Belgium)"
+
+msgid "fr_CA"
+msgstr "French (Canada)"
+
+msgid "fr_FR"
+msgstr "French (France)"
+
+msgid "fr_LU"
+msgstr "French (Luxembourg)"
+
+msgid "fr_CH"
+msgstr "French (Switzerland)"
+
+msgid "de_AT"
+msgstr "German (Austria)"
+
+msgid "de_DE"
+msgstr "German (Germany)"
+
+msgid "de_LU"
+msgstr "German (Luxembourg)"
+
+msgid "de_CH"
+msgstr "German (Switzerland)"
+
+msgid "el_CY"
+msgstr "Greek (Cyprus)"
+
+msgid "el_GR"
+msgstr "Ελληνικά (Ελλάδα)"
+
+msgid "iw_IL"
+msgstr "Hebrew (Israel)"
+
+msgid "hi_IN"
+msgstr "Hindi (India)"
+
+msgid "hu_HU"
+msgstr "Hungarian (Hungary)"
+
+msgid "is_IS"
+msgstr "Icelandic (Iceland)"
+
+msgid "in_ID"
+msgstr "Indonesian (Indonesia)"
+
+msgid "ga_IE"
+msgstr "Irish (Ireland)"
+
+msgid "it_IT"
+msgstr "Italian (Italy)"
+
+msgid "it_CH"
+msgstr "Italian (Switzerland)"
+
+msgid "ja_JP"
+msgstr "Japanese (Japan)"
+
+msgid "ja_JP_JP"
+msgstr "Japanese (Japan,JP)"
+
+msgid "ko_KR"
+msgstr "Korean (South Korea)"
+
+msgid "lv_LV"
+msgstr "Latvian (Latvia)"
+
+msgid "lt_LT"
+msgstr "Lithuanian (Lithuania)"
+
+msgid "mk_MK"
+msgstr "Macedonian (Macedonia)"
+
+msgid "ms_MY"
+msgstr "Malay (Malaysia)"
+
+msgid "mt_MT"
+msgstr "Maltese (Malta)"
+
+msgid "no_NO"
+msgstr "Norwegian (Norway)"
+
+msgid "no_NO_NY"
+msgstr "Norwegian (Norway,Nynorsk)"
+
+msgid "pl_PL"
+msgstr "Polish (Poland)"
+
+msgid "pt_BR"
+msgstr "Portuguese (Brazil)"
+
+msgid "pt_PT"
+msgstr "Portuguese (Portugal)"
+
+msgid "ro_RO"
+msgstr "Romanian (Romania)"
+
+msgid "ru_RU"
+msgstr "Russian (Russia)"
+
+msgid "sr_BA"
+msgstr "Serbian (Bosnia and Herzegovina)"
+
+msgid "sr_ME"
+msgstr "Serbian (Montenegro)"
+
+msgid "sr_CS"
+msgstr "Serbian (Serbia and Montenegro)"
+
+msgid "sr_RS"
+msgstr "Serbian (Serbia)"
+
+msgid "sk_SK"
+msgstr "Slovak (Slovakia)"
+
+msgid "sl_SI"
+msgstr "Slovenian (Slovenia)"
+
+msgid "es_AR"
+msgstr "Spanish (Argentina)"
+
+msgid "es_BO"
+msgstr "Spanish (Bolivia)"
+
+msgid "es_CL"
+msgstr "Spanish (Chile)"
+
+msgid "es_CO"
+msgstr "Spanish (Colombia)"
+
+msgid "es_CR"
+msgstr "Spanish (Costa Rica)"
+
+msgid "es_DO"
+msgstr "Spanish (Dominican Republic)"
+
+msgid "es_EC"
+msgstr "Spanish (Ecuador)"
+
+msgid "es_SV"
+msgstr "Spanish (El Salvador)"
+
+msgid "es_GT"
+msgstr "Spanish (Guatemala)"
+
+msgid "es_HN"
+msgstr "Spanish (Honduras)"
+
+msgid "es_MX"
+msgstr "Spanish (Mexico)"
+
+msgid "es_NI"
+msgstr "Spanish (Nicaragua)"
+
+msgid "es_PA"
+msgstr "Spanish (Panama)"
+
+msgid "es_PY"
+msgstr "Spanish (Paraguay)"
+
+msgid "es_PE"
+msgstr "Spanish (Peru)"
+
+msgid "es_PR"
+msgstr "Spanish (Puerto Rico)"
+
+msgid "es_ES"
+msgstr "Spanish (Spain)"
+
+msgid "es_US"
+msgstr "Spanish (United States)"
+
+msgid "es_UY"
+msgstr "Spanish (Uruguay)"
+
+msgid "es_VE"
+msgstr "Spanish (Venezuela)"
+
+msgid "sv_SE"
+msgstr "Swedish (Sweden)"
+
+msgid "th_TH"
+msgstr "Thai (Thailand)"
+
+msgid "tr_TR"
+msgstr "Turkish (Turkey)"
+
+msgid "uk_UA"
+msgstr "Ukrainian (Ukraine)"
+
+msgid "vi_VN"
+msgstr "Vietnamese (Vietnam)"
+
+msgid "Mod object is not set for the service"
+msgstr "Το αντικείμενο Mod δεν έχει οριστεί για την υπηρεσία"
+
+msgid "Method :method must contain underscore"
+msgstr "Μέθοδος :method πρέπει να περιέχει υπογράμμιση"
+
+msgid "Invalid module name"
+msgstr "Μη έγκυρο όνομα ενότητας"
+
+msgid "BoxBilling module :mod is not installed/activated"
+msgstr "Η ενότητα BoxBilling :mod δεν είναι εγκατεστημένη/ενεργοποιημένη"
+
+msgid "You do not have access to :mod module"
+msgstr "Δεν έχετε πρόσβαση στο :mod module"
+
+msgid "Api class must be instance of Api_Abstract"
+msgstr "Η κλάση Api πρέπει να είναι παράδειγμα της Api_Abstract"
+
+msgid ":type API call :method does not exist in module :module"
+msgstr ":type API call :method δεν υπάρχει στην ενότητα :module"
+
+msgid "Page :url not found"
+msgstr "Σελίδα :url δεν βρέθηκε"
+
+msgid "Page not found"
+msgstr "Η σελίδα δεν βρέθηκε"
+
+msgid "php mcrypt extension must be enabled on your server"
+msgstr ""
+"Η επέκταση php mcrypt πρέπει να είναι ενεργοποιημένη στο διακομιστή σας"
+
+msgid "CURL extension is not enabled"
+msgstr "Η επέκταση CURL δεν είναι ενεργοποιημένη"
+
+msgid "Unable to connect to BoxBilling extensions site."
+msgstr "Δεν είναι δυνατή η σύνδεση με τον ιστότοπο επεκτάσεων BoxBilling."
+
+msgid ""
+"FTP extension is not enabled in PHP. You will not be able to use automatic "
+"updates and other automation."
+msgstr ""
+"Η επέκταση FTP δεν είναι ενεργοποιημένη στην PHP. Δεν θα μπορείτε να "
+"χρησιμοποιήσετε αυτόματες ενημερώσεις και άλλους αυτοματισμούς."
+
+msgid "The ftp PHP extension is not available"
+msgstr "Η επέκταση ftp PHP δεν είναι διαθέσιμη"
+
+msgid "FTP hostname is required"
+msgstr "Απαιτείται όνομα κεντρικού υπολογιστή FTP"
+
+msgid "FTP username is required"
+msgstr "Απαιτείται όνομα χρήστη FTP"
+
+msgid "FTP password is required"
+msgstr "Απαιτείται κωδικός πρόσβασης FTP"
+
+msgid "Failed to connect to FTP Server :host : :port"
+msgstr "Απέτυχε να συνδεθεί στον διακομιστή FTP :host : :port"
+
+msgid "FTP Username/Password incorrect for :usernmae"
+msgstr "Όνομα χρήστη FTP/Κωδικός πρόσβασης λανθασμένος για :usernmae"
+
+msgid "BoxBilling license key must be defined in bb-config.php file."
+msgstr ""
+"Το κλειδί άδειας χρήσης του BoxBilling πρέπει να οριστεί στο αρχείο bb-"
+"config.php."
+
+msgid "License is not valid"
+msgstr "Η άδεια δεν είναι έγκυρη"
+
+msgid "Missing log message"
+msgstr "Έλλειψη μηνύματος καταγραφής"
+
+msgid "Bad log priority"
+msgstr "Κακή προτεραιότητα καταγραφής"
+
+msgid "Resource is not a stream"
+msgstr "Ο πόρος δεν είναι ρεύμα"
+
+msgid "Mode cannot be changed on existing streams"
+msgstr "Η λειτουργία δεν μπορεί να αλλάξει σε υπάρχουσες ροές"
+
+msgid ":stream cannot be opened with mode :mode"
+msgstr ":stream δεν μπορεί να ανοιχτεί με mode :mode"
+
+msgid "Unable to write to stream"
+msgstr "Αδυναμία εγγραφής στη ροή"
+
+msgid "Unknown mail transport: :transport"
+msgstr "Άγνωστη μεταφορά αλληλογραφίας: :transport"
+
+msgid "SMTP host not configured"
+msgstr "Ο κεντρικός υπολογιστής SMTP δεν έχει ρυθμιστεί"
+
+msgid "SMTP port not configured"
+msgstr "Η θύρα SMTP δεν έχει ρυθμιστεί"
+
+msgid "SMTP hostname is not configured."
+msgstr "Το όνομα κεντρικού υπολογιστή SMTP δεν έχει ρυθμιστεί."
+
+msgid "Module :mod manifest file is missing"
+msgstr "Το αρχείο μανιφέστου της ενότητας :mod λείπει"
+
+msgid ""
+"Module :mod manifest file is not valid. Check file syntax and permissions."
+msgstr ""
+"Η ενότητα :mod manifest file δεν είναι έγκυρη. Ελέγξτε τη σύνταξη και τα "
+"δικαιώματα του αρχείου."
+
+msgid "Module :mod does not have service class"
+msgstr "Η ενότητα :mod δεν έχει κλάση υπηρεσίας"
+
+msgid "Module :mod Client controller class was not found"
+msgstr "Η ενότητα :mod Client controller class δεν βρέθηκε"
+
+msgid "Module :mod Admin controller class was not found"
+msgstr "Η ενότητα :mod Admin controller class δεν βρέθηκε"
+
+msgid "Core module can not be updated"
+msgstr "Η βασική ενότητα δεν μπορεί να ενημερωθεί"
+
+msgid "Invalid period code. Period definition must be 2 chars length"
+msgstr ""
+"Μη έγκυρος κωδικός περιόδου. Ο ορισμός περιόδου πρέπει να έχει μήκος 2 "
+"χαρακτήρες"
+
+msgid "Period Error. Unit :unit is not defined"
+msgstr "Σφάλμα περιόδου. Μονάδα :η μονάδα δεν έχει οριστεί"
+
+msgid ""
+"Invalid period quantity :qty for unit :unit. Allowed range is from :from to :"
+"to"
+msgstr ""
+"Μη έγκυρη ποσότητα περιόδου :qty για τη μονάδα :unit. Το επιτρεπόμενο εύρος "
+"είναι από :from έως :to"
+
+msgid "Every week"
+msgstr "Κάθε εβδομάδα"
+
+msgid "Every month"
+msgstr "Κάθε μήνα"
+
+msgid "Every 3 months"
+msgstr "Κάθε 3 μήνες"
+
+msgid "Every 6 months"
+msgstr "Κάθε 6 μήνες"
+
+msgid "Every year"
+msgstr "Κάθε χρόνο"
+
+msgid "Every 2 years"
+msgstr "Κάθε 2 χρόνια"
+
+msgid "Every 3 years"
+msgstr "Κάθε 3 χρόνια"
+
+msgid "Every :number day"
+msgstr "Κάθε :number day"
+
+msgid "Every :number week(s)"
+msgstr "Κάθε :αριθμό εβδομάδων"
+
+msgid "Every :number months"
+msgstr "Κάθε :number μηνών"
+
+msgid "Every :number years"
+msgstr "Κάθε :number ετών"
+
+msgid "Unit not defined"
+msgstr "Μονάδα που δεν έχει οριστεί"
+
+msgid "Can not determine months amount from unit"
+msgstr "Δεν μπορεί να προσδιοριστεί το ποσό των μηνών από τη μονάδα"
+
+msgid "Service class :class was not found in :path"
+msgstr "Η κλάση υπηρεσίας :class δεν βρέθηκε στη διαδρομή :path"
+
+msgid "second"
+msgstr "δευτερόλεπτο"
+
+msgid "minute"
+msgstr "λεπτό"
+
+msgid "hour"
+msgstr "ώρα"
+
+msgid "day"
+msgstr "μέρα"
+
+msgid "week"
+msgstr "βδομάδα"
+
+msgid "month"
+msgstr "μήνα"
+
+msgid "year"
+msgstr "χρόνο"
+
+msgid "decade"
+msgstr "δεκαετία"
+
+msgid "Missing mods param for Box_TwigLoader"
+msgstr "Λείπει η παράμετρος mods για το Box_TwigLoader"
+
+msgid "Missing theme param for Box_TwigLoader"
+msgstr "Λείπει η παράμετρος θέματος για το Box_TwigLoader"
+
+msgid "Missing type param for Box_TwigLoader"
+msgstr "Λείπει παράμετρος τύπου για το Box_TwigLoader"
+
+msgid "Email is not valid"
+msgstr "Το email δεν είναι έγκυρο"
+
+msgid "Password too short!"
+msgstr "Ο κωδικός πρόσβασης είναι πολύ σύντομος!"
+
+msgid "Password must include at least one number!"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει τουλάχιστον έναν αριθμό!"
+
+msgid "Password must include at least one letter!"
+msgstr "Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει τουλάχιστον ένα γράμμα!"
+
+msgid "File :file does not exist"
+msgstr "Αρχείο :file δεν υπάρχει"
+
+msgid "Invalid zip file"
+msgstr "Μη έγκυρο αρχείο zip"
+
+msgid "Zip extraction failed"
+msgstr "Η εξαγωγή zip απέτυχε"
+
+msgid ""
+"This is a last message in topic. Remove topic in order to remove this "
+"message."
+msgstr ""
+"Αυτό είναι το τελευταίο μήνυμα στο θέμα. Αφαιρέστε το θέμα για να αφαιρέσετε "
+"αυτό το μήνυμα."
+
+msgid "Could not determine domain price. Domain action is missing"
+msgstr ""
+"Δεν μπόρεσε να προσδιορίσει την τιμή του τομέα. Η δράση του τομέα λείπει"
+
+msgid "Unknown TLD. Could not determine registration price"
+msgstr "Άγνωστος TLD. Δεν μπόρεσε να προσδιορίσει την τιμή εγγραφής"
+
+msgid "Domain product can not be removed."
+msgstr "Το προϊόν τομέα δεν μπορεί να αφαιρεθεί."
+
+msgid "Unknown period selected "
+msgstr "Άγνωστη επιλεγμένη περίοδος "
+
+msgid "Product pricing could not be determined. "
+msgstr "Η τιμολόγηση του προϊόντος δεν κατέστη δυνατό να προσδιοριστεί. "
+
+msgid "Unknown Period selected for setup price"
+msgstr "Άγνωστη περίοδος που επιλέχθηκε για την τιμή ρύθμισης"
+
+msgid "Product :id payment type is recurrent, but period was not selected"
+msgstr ""
+"Προϊόν :id Ο τύπος πληρωμής είναι επαναλαμβανόμενος, αλλά η περίοδος δεν "
+"έχει επιλεγεί"
+
+msgid "Unknown Period selected for price"
+msgstr "Άγνωστη Περίοδος που επιλέχθηκε για την τιμή"
+
+msgid "Payment for invoice :serie:id [:title]"
+msgstr "Πληρωμή για τιμολόγιο :serie:id [:title]"
+
+msgid "Card number"
+msgstr "Αριθμός κάρτας"
+
+msgid "CVV2"
+msgstr ""
+
+msgid "Expiration Date"
+msgstr "Ημερομηνία λήξης"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "State"
+msgstr "Κράτος"
+
+msgid "Zipcode"
+msgstr "Ταχυδρομικός κώδικας"
+
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+msgid "Email"
+msgstr ""
+
+msgid "Pay now"
+msgstr "Πληρώστε τώρα"
+
+msgid "Redirecting to PayPal.com"
+msgstr "Επανακατεύθυνση στο PayPal.com"
+
+msgid "Redirecting to Payza.com"
+msgstr "Επανακατεύθυνση στο Payza.com"
+
+msgid "Redirecting to 2Checkout.com"
+msgstr "Ανακατεύθυνση στο 2Checkout.com"
+
+msgid "Payment amount is too small."
+msgstr "Το ποσό πληρωμής είναι πολύ μικρό."
+
+msgid "Payment amount is too big."
+msgstr "Το ποσό πληρωμής είναι πολύ μεγάλο."
+
+msgid "Selected currency is not available."
+msgstr "Το επιλεγμένο νόμισμα δεν είναι διαθέσιμο."
+
+msgid "Amount or currency is missing."
+msgstr "Το ποσό ή το νόμισμα λείπει."
+
+msgid "projectId is missing or such ID does not exist."
+msgstr "Το projectId λείπει ή δεν υπάρχει τέτοιο αναγνωριστικό."
+
+msgid ""
+"Testing mode is turned off, but you have still tried to make a test payment."
+msgstr ""
+"Η δοκιμαστική λειτουργία είναι απενεργοποιημένη, αλλά εξακολουθήσατε να "
+"προσπαθείτε να πραγματοποιήσετε μια δοκιμαστική πληρωμή."
+
+msgid "You have banned this way of payment."
+msgstr "Έχετε απαγορεύσει αυτόν τον τρόπο πληρωμής."
+
+msgid "Coding of variable \"paytext\" is not suitable (has to be utf-8)."
+msgstr ""
+"Η κωδικοποίηση της μεταβλητής \"paytext\" δεν είναι κατάλληλη (πρέπει να "
+"είναι utf-8)."
+
+msgid "Empty or not correctly filled \"orderID\"."
+msgstr "Κενό ή μη σωστά συμπληρωμένο \"orderID\"."
+
+msgid "Project has not been checked by our administrator."
+msgstr "Το έργο δεν έχει ελεγχθεί από τον διαχειριστή μας."
+
+msgid ""
+"Accepturl, cancellurl, callbacurl or referer base address differs from the "
+"addresses confirmed in the project."
+msgstr ""
+"Η διεύθυνση βάσης Accepturl, cancellurl, callbacurl ή referer διαφέρει από "
+"τις διευθύνσεις που έχουν επιβεβαιωθεί στο έργο."
+
+msgid "Invalid \"sign\" parameter."
+msgstr "Μη έγκυρη παράμετρος \"sign\"."
+
+msgid ""
+"At least one of these parameters is incorrect: cancelurl, accepturl, "
+"callbackurl."
+msgstr ""
+"Τουλάχιστον μία από αυτές τις παραμέτρους είναι εσφαλμένη: cancelurl, "
+"accepturl, callbackurl."
+
+msgid "Parameter time_limit is not valid (wrong format or not valid value)"
+msgstr ""
+"Η παράμετρος time_limit δεν είναι έγκυρη (λανθασμένη μορφή ή μη έγκυρη τιμή)"
+
+msgid "Unknown error"
+msgstr "Άγνωστο σφάλμα"
+
+#, php-format
+msgid "'%s' is required but missing."
+msgstr "Το '%s' απαιτείται αλλά λείπει."
+
+#, php-format
+msgid "'%s' value '%s' is too long, %d characters allowed."
+msgstr "Η τιμή '%s' '%s' είναι πολύ μεγάλη, επιτρέπονται %d χαρακτήρες."
+
+#, php-format
+msgid "'%s' value '%s' is invalid."
+msgstr "Η τιμή '%s' '%s' είναι άκυρη."
+
+#, php-format
+msgid "Can't get openssl public key for %s"
+msgstr "Δεν μπορείτε να λάβετε το δημόσιο κλειδί openssl για το %s"
+
+#, php-format
+msgid "Can't verify SS2 for %s"
+msgstr "Δεν είναι δυνατή η επαλήθευση του SS2 για %s"
+
+#, php-format
+msgid ""
+"'%s' must exists in array of second parameter of checkResponse() method."
+msgstr ""
+"'%s' πρέπει να υπάρχει στον πίνακα της δεύτερης παραμέτρου της μεθόδου "
+"checkResponse()."
+
+#, php-format
+msgid "'%s' yours and requested value is not equal ('%s' != '%s') "
+msgstr "'%s' η δική σας και η ζητούμενη τιμή δεν είναι ίσες ('%s' != '%s') "
+
+msgid "Can't verify SS1 v2"
+msgstr "Δεν μπορεί να επαληθεύσει το SS1 v2"
+
+msgid "Directory "
+msgstr "Κατάλογος "
+
+#, php-format
+msgid "Can't connect to %s"
+msgstr "Δεν μπορεί να συνδεθεί στο %s"
+
+msgid "fsockopen fail!"
+msgstr "fsockopen fail!"
+
+#, php-format
+msgid "Incompatible library and response versions: libwebtopay %s, response %s"
+msgstr ""
+"Μη συμβατές εκδόσεις βιβλιοθηκών και απαντήσεων: libwebtopay %s, response %s"
+
+#, php-format
+msgid "Bad projectid: libwebtopay %s, response %s"
+msgstr "Bad projectid: libwebtopay %s, απάντηση %s"
+
+#, php-format
+msgid "Returned transaction status is %d, successful status should be 1."
+msgstr ""
+"Η επιστρεφόμενη κατάσταση συναλλαγής είναι %d, η επιτυχής κατάσταση θα "
+"έπρεπε να είναι 1."
+
+#, php-format
+msgid "Can't write to logfile: %s"
+msgstr "Δεν μπορεί να γράψει στο αρχείο καταγραφής: %s"
+
+#, php-format
+msgid "Error: %s"
+msgstr "Σφάλμα: %s"
+
+msgid "No whois server for this tld in list!"
+msgstr "Δεν υπάρχει διακομιστής whois για αυτή την κατάληξη στη λίστα!"
+
+msgid "Whois server "
+msgstr "Διακομιστής Whois "
+
+msgid "Could not connect to whois :server server"
+msgstr "Δεν μπόρεσε να συνδεθεί στο whois :server server server"
+
+msgid "ID is required"
+msgstr "Απαιτείται ταυτότητα"
+
+msgid "Event not found"
+msgstr "Το συμβάν δεν βρέθηκε"
+
+msgid "Unknown API call :call"
+msgstr "Άγνωστη κλήση API :call"
+
+msgid "Unauthorized IP"
+msgstr "Μη εξουσιοδοτημένη IP"
+
+msgid "Request limit reached"
+msgstr "Επίτευξη ορίου αιτήσεων"
+
+msgid "Invalid request. Make sure request origin is :from"
+msgstr ""
+"Μη έγκυρο αίτημα. Βεβαιωθείτε ότι η προέλευση του αιτήματος είναι :from"
+
+msgid "Currency not found"
+msgstr "Νόμισμα δεν βρέθηκε"
+
+msgid "Promo code is expired or does not exist"
+msgstr "Ο κωδικός προσφοράς έχει λήξει ή δεν υπάρχει"
+
+msgid "Promo can not be applied to your account"
+msgstr "Η προσφορά δεν μπορεί να εφαρμοστεί στο λογαριασμό σας"
+
+msgid "Period parameter not passed"
+msgstr "Η παράμετρος περίοδος δεν έχει περάσει"
+
+msgid "Selected billing period is not valid"
+msgstr "Η επιλεγμένη περίοδος χρέωσης δεν είναι έγκυρη"
+
+msgid "I'm afraid we are out of stock."
+msgstr "Φοβάμαι ότι δεν έχουμε απόθεμα."
+
+msgid "Addon period parameter not passed"
+msgstr "Η παράμετρος περιόδου του πρόσθετου δεν έχει περάσει"
+
+msgid "Selected billing period is not valid for addon"
+msgstr "Η επιλεγμένη περίοδος χρέωσης δεν ισχύει για το πρόσθετο"
+
+msgid "Product not found"
+msgstr "Το προϊόν δεν βρέθηκε"
+
+msgid "Add products to cart before applying promo code"
+msgstr "Προσθέστε τα προϊόντα στο καλάθι πριν εφαρμόσετε τον κωδικό προσφοράς"
+
+msgid "Promo not found"
+msgstr "Promo δεν βρέθηκε"
+
+msgid ""
+"You have already used this promo code. Please remove promo code and checkout "
+"again."
+msgstr ""
+"Έχετε ήδη χρησιμοποιήσει αυτόν τον κωδικό προσφοράς. Παρακαλούμε αφαιρέστε "
+"τον κωδικό προσφοράς και κάντε ξανά checkout."
+
+msgid "Can not checkout empty cart."
+msgstr "Δεν μπορείτε να κάνετε ταμείο με άδειο καλάθι."
+
+msgid ""
+"Selected currency :selected does not match your profile currency :code. "
+"Please change cart currency to continue."
+msgstr ""
+"Το επιλεγμένο νόμισμα :selected δεν ταιριάζει με το νόμισμα του προφίλ σας :"
+"code. Παρακαλώ αλλάξτε το νόμισμα του καλαθιού για να συνεχίσετε."
+
+msgid ":product setup"
+msgstr ":product setup"
+
+msgid ":product_title"
+msgstr ""
+
+msgid "ID required"
+msgstr "Απαιτείται ταυτότητα"
+
+msgid "Client not found"
+msgstr "Ο πελάτης δεν βρέθηκε"
+
+msgid "Email required"
+msgstr "Απαιτείται email"
+
+msgid "First name is required"
+msgstr "Το ονοματεπώνυμο είναι υποχρεωτικό"
+
+msgid "Email is already registered."
+msgstr "Το email είναι ήδη καταχωρημένο."
+
+msgid "Client id is missing"
+msgstr "Το αναγνωριστικό πελάτη λείπει"
+
+msgid "Id required"
+msgstr "Απαιτούμενο αναγνωριστικό"
+
+msgid "Can not change email. It is already registered."
+msgstr "Δεν μπορώ να αλλάξω το email. Είναι ήδη καταχωρημένο."
+
+msgid "Invalid birth date value"
+msgstr "Μη έγκυρη τιμή ημερομηνίας γέννησης"
+
+msgid "Client ID is required"
+msgstr "Απαιτείται αναγνωριστικό πελάτη"
+
+msgid "Password required"
+msgstr "Απαιτείται κωδικός πρόσβασης"
+
+msgid "Password confirmation required"
+msgstr "Απαιτείται επιβεβαίωση κωδικού πρόσβασης"
+
+msgid "Passwords do not match"
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+
+msgid "Balance line not found"
+msgstr "Η γραμμή ισορροπίας δεν βρέθηκε"
+
+msgid "Amount is required"
+msgstr "Απαιτείται ποσό"
+
+msgid "Description is required"
+msgstr "Απαιτείται περιγραφή"
+
+msgid "Group title is missing"
+msgstr "Ο τίτλος της ομάδας λείπει"
+
+msgid "Group id is missing"
+msgstr "Το αναγνωριστικό ομάδας λείπει"
+
+msgid "Group not found"
+msgstr "Ομάδα δεν βρέθηκε"
+
+msgid "Email can not be changed"
+msgstr "Το email δεν μπορεί να αλλάξει"
+
+msgid "Passwords do not match."
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν."
+
+msgid "New registrations are temporary disabled"
+msgstr "Οι νέες εγγραφές είναι προσωρινά απενεργοποιημένες"
+
+msgid "First name required"
+msgstr "Απαιτούμενο όνομα"
+
+msgid "It is required that you provide details for field \":field\""
+msgstr "Απαιτείται να παρέχετε λεπτομέρειες για το πεδίο \":field\"."
+
+msgid ""
+"Email is already registered. You may want to login instead of registering."
+msgstr "Απαιτείται να παρέχετε λεπτομέρειες για το πεδίο \":field\"."
+
+msgid ""
+"Account has been created. Please check your mailbox and confirm email "
+"address."
+msgstr ""
+"Ο λογαριασμός έχει δημιουργηθεί. Παρακαλούμε ελέγξτε το γραμματοκιβώτιό σας "
+"και επιβεβαιώστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου."
+
+msgid "Please check your login details"
+msgstr "Ελέγξτε τα στοιχεία σύνδεσής σας"
+
+msgid "Email not found in our database"
+msgstr "Το email δεν βρέθηκε στη βάση δεδομένων μας"
+
+msgid "Hash required"
+msgstr "Απαιτείται κατακερματισμός"
+
+msgid "The link have expired or you have already confirmed password reset."
+msgstr ""
+"Ο σύνδεσμος έχει λήξει ή έχετε ήδη επιβεβαιώσει την επαναφορά του κωδικού "
+"πρόσβασης."
+
+msgid "Country code is required"
+msgstr "Απαιτείται κωδικός χώρας"
+
+msgid "Email address was confirmed"
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου επιβεβαιώθηκε"
+
+msgid "Invalid email confirmation link"
+msgstr "Μη έγκυρος σύνδεσμος επιβεβαίωσης email"
+
+msgid "Currency can not be changed. Client already have invoices issued."
+msgstr ""
+"Το νόμισμα δεν μπορεί να αλλάξει. Ο πελάτης έχει ήδη εκδώσει τιμολόγια."
+
+msgid "Currency can not be changed. Client already have orders."
+msgstr "Το νόμισμα δεν μπορεί να αλλάξει. Ο πελάτης έχει ήδη παραγγελίες."
+
+msgid "Define clients currency before adding funds."
+msgstr "Καθορίστε το νόμισμα των πελατών πριν από την προσθήκη κεφαλαίων."
+
+msgid "Funds amount is not valid"
+msgstr "Το ποσό των κεφαλαίων δεν είναι έγκυρο"
+
+msgid "Funds description is not valid"
+msgstr "Η περιγραφή των κεφαλαίων δεν είναι έγκυρη"
+
+msgid "Client ID or email is required"
+msgstr "Απαιτείται αναγνωριστικό πελάτη ή email"
+
+msgid "Can not remove group with clients"
+msgstr "Δεν μπορείτε να αφαιρέσετε ομάδα με πελάτες"
+
+msgid "Please check your mailbox and confirm email address."
+msgstr ""
+"Ελέγξτε το γραμματοκιβώτιό σας και επιβεβαιώστε τη διεύθυνση ηλεκτρονικού "
+"ταχυδρομείου."
+
+msgid "Currency code is missing"
+msgstr "Ο κωδικός νομίσματος λείπει"
+
+msgid "Currency format is missing"
+msgstr "Η μορφή νομίσματος λείπει"
+
+msgid "Currency already registered"
+msgstr "Νόμισμα ήδη καταχωρημένο"
+
+msgid "Currency code is not valid"
+msgstr "Ο κωδικός νομίσματος δεν είναι έγκυρος"
+
+msgid "Currency conversion rate can not be zero"
+msgstr "Η ισοτιμία μετατροπής νομίσματος δεν μπορεί να είναι μηδενική"
+
+msgid "Currency code not provided"
+msgstr "Δεν παρέχεται κωδικός νομίσματος"
+
+msgid "Can not remove default currency"
+msgstr "Δεν μπορεί να αφαιρέσει το προεπιλεγμένο νόμισμα"
+
+msgid "Currency code not found"
+msgstr "Ο κωδικός νομίσματος δεν βρέθηκε"
+
+msgid "Currency rate is not valid"
+msgstr "Η συναλλαγματική ισοτιμία δεν ισχύει"
+
+msgid "Email ID is required"
+msgstr "Απαιτείται email ID"
+
+msgid "Receiver Email is required"
+msgstr "Απαιτείται email παραλήπτη"
+
+msgid "Receiver Name is required"
+msgstr "Απαιτείται όνομα παραλήπτη"
+
+msgid "Sender Name is required"
+msgstr "Το όνομα του αποστολέα είναι υποχρεωτικό"
+
+msgid "Sender email is required"
+msgstr "Απαιτείται email αποστολέα"
+
+msgid "Email subject is required"
+msgstr "Το θέμα του email είναι υποχρεωτικό"
+
+msgid "Email content is required"
+msgstr "Απαιτείται περιεχόμενο ηλεκτρονικού ταχυδρομείου"
+
+msgid "Email not found"
+msgstr "Το email δεν βρέθηκε"
+
+msgid "Email template ID is required"
+msgstr "Απαιτείται αναγνωριστικό προτύπου ηλεκτρονικού ταχυδρομείου"
+
+msgid "Email template not found"
+msgstr "Το πρότυπο email δεν βρέθηκε"
+
+msgid "Email template code is required"
+msgstr "Απαιτείται κωδικός προτύπου ηλεκτρονικού ταχυδρομείου"
+
+msgid "Email template subject is required"
+msgstr "Το θέμα του προτύπου ηλεκτρονικού ταχυδρομείου είναι υποχρεωτικό"
+
+msgid "Email template content is required"
+msgstr "Απαιτείται περιεχόμενο προτύπου ηλεκτρονικού ταχυδρομείου"
+
+msgid "Email template code was not passed"
+msgstr "Ο κωδικός προτύπου email δεν πέρασε"
+
+msgid "Template code not passed"
+msgstr "Ο κωδικός προτύπου δεν έχει περάσει"
+
+msgid "Receiver is not defined. Define to or to_client or to_staff parameter"
+msgstr ""
+"Ο αποδέκτης δεν ορίζεται. Ορίστε την παράμετρο to ή to_client ή to_staff"
+
+msgid "From email address can not be empty"
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου από δεν μπορεί να είναι κενή"
+
+msgid "Email template :code was not found"
+msgstr "Το πρότυπο email :code δεν βρέθηκε"
+
+msgid "You have failed to login too many times. Contact support."
+msgstr ""
+"Έχετε αποτύχει να συνδεθείτε πάρα πολλές φορές. Επικοινωνήστε με την "
+"υποστήριξη."
+
+msgid "You have latest version of BoxBilling. You do not need to update."
+msgstr ""
+"Έχετε την τελευταία έκδοση του BoxBilling. Δεν χρειάζεται να ενημερώσετε."
+
+msgid "Extension id was not passed"
+msgstr "Το αναγνωριστικό επέκτασης δεν πέρασε"
+
+msgid "Extension type was not passed"
+msgstr "Ο τύπος επέκτασης δεν μεταβιβάστηκε"
+
+msgid "Parameter ext was not passed"
+msgstr "Η παράμετρος ext δεν πέρασε"
+
+msgid "Extension not found"
+msgstr "Η επέκταση δεν βρέθηκε"
+
+msgid "Parameter ext is missing"
+msgstr "Η παράμετρος ext λείπει"
+
+msgid "Could not retrieve version information for extension :ext"
+msgstr "Δεν μπόρεσε να ανακτήσει πληροφορίες έκδοσης για την επέκταση :ext"
+
+msgid "Latest :mod version installed. No need to update"
+msgstr "Τελευταία έκδοση :mod εγκατεστημένη. Δεν χρειάζεται να ενημερώσετε"
+
+msgid "Could not retrieve :ext information"
+msgstr "Δεν μπόρεσε να ανακτήσει πληροφορίες :ext"
+
+msgid "Visit extension site for update information."
+msgstr "Επισκεφθείτε τον ιστότοπο επέκτασης για πληροφορίες ενημέρωσης."
+
+msgid "BoxBilling core modules can not be managed"
+msgstr "Οι βασικές ενότητες του BoxBilling δεν μπορούν να διαχειριστούν"
+
+msgid "Could not extract extension zip file"
+msgstr "Δεν μπόρεσε να εξαγάγει το αρχείο zip επέκτασης"
+
+msgid "Module already installed."
+msgstr "Η ενότητα είναι ήδη εγκατεστημένη."
+
+msgid ""
+"Extension can not be moved. Make sure your server write permissions to bb-"
+"modules folder."
+msgstr ""
+"Η επέκταση δεν μπορεί να μετακινηθεί. Βεβαιωθείτε ότι ο διακομιστής σας έχει "
+"δικαιώματα εγγραφής στο φάκελο bb-modules."
+
+msgid ""
+"Extension can not be moved. Make sure your server write permissions to bb-"
+"themes folder."
+msgstr ""
+"Η επέκταση δεν μπορεί να μετακινηθεί. Βεβαιωθείτε ότι ο διακομιστής σας έχει "
+"δικαιώματα εγγραφής στο φάκελο bb-themes."
+
+msgid ""
+"Extension can not be moved. Make sure your server write permissions to bb-"
+"locale folder."
+msgstr ""
+"Η επέκταση δεν μπορεί να μετακινηθεί. Βεβαιωθείτε ότι ο διακομιστής σας έχει "
+"δικαιώματα εγγραφής στο φάκελο bb-locale."
+
+msgid ""
+"Extension does not support auto-install feature. Extension must be installed "
+"manually"
+msgstr ""
+"Η επέκταση δεν υποστηρίζει τη λειτουργία αυτόματης εγκατάστασης. Η επέκταση "
+"πρέπει να εγκατασταθεί χειροκίνητα"
+
+msgid "BoxBilling core modules can not be installed or removed"
+msgstr ""
+"Οι βασικές ενότητες του BoxBilling δεν μπορούν να εγκατασταθούν ή να "
+"αφαιρεθούν"
+
+msgid ""
+"Module can not be installed. It requires at least :min version of "
+"BoxBilling. You are using :v"
+msgstr ""
+"Η μονάδα δεν μπορεί να εγκατασταθεί. Απαιτεί τουλάχιστον την έκδοση :min του "
+"BoxBilling. Χρησιμοποιείτε :v"
+
+msgid "path parameter is missing"
+msgstr "Η παράμετρος path λείπει"
+
+msgid "Data parameter is missing"
+msgstr "Η παράμετρος δεδομένων λείπει"
+
+msgid "Path parameter is missing"
+msgstr "Η παράμετρος Path λείπει"
+
+msgid "Type parameter is missing"
+msgstr "Η παράμετρος Type λείπει"
+
+msgid "To parameter is missing"
+msgstr "Η παράμετρος To λείπει"
+
+msgid "File does not exist"
+msgstr "Το αρχείο δεν υπάρχει"
+
+msgid "Directory already exists"
+msgstr "Ο κατάλογος υπάρχει ήδη"
+
+msgid "Unknown item type"
+msgstr "Άγνωστος τύπος αντικειμένου"
+
+msgid "Form name was not provided"
+msgstr "Το όνομα της φόρμας δεν δόθηκε"
+
+msgid "Form style was not found in predefined list"
+msgstr "Το στυλ φόρμας δεν βρέθηκε στην προκαθορισμένη λίστα"
+
+msgid "Form field type is not valid"
+msgstr "Ο τύπος πεδίου της φόρμας δεν είναι έγκυρος"
+
+msgid "This input type must have unique values"
+msgstr "Αυτός ο τύπος εισόδου πρέπει να έχει μοναδικές τιμές"
+
+msgid "Form id was not passed"
+msgstr "Το id της φόρμας δεν πέρασε"
+
+msgid "Field id was not passed"
+msgstr "Το id του πεδίου δεν μεταβιβάστηκε"
+
+msgid "Form name was not passed"
+msgstr "Το όνομα της φόρμας δεν πέρασε"
+
+msgid "Form type was not passed"
+msgstr "Ο τύπος της φόρμας δεν πέρασε"
+
+msgid "Field type not supported"
+msgstr "Ο τύπος πεδίου δεν υποστηρίζεται"
+
+msgid "Field name can not start with number."
+msgstr "Το όνομα του πεδίου δεν μπορεί να αρχίζει με αριθμό."
+
+msgid ""
+"Field name can not be empty. Please make sure it is not empty and does not "
+"contain special characters."
+msgstr ""
+"Το όνομα του πεδίου δεν μπορεί να είναι κενό. Βεβαιωθείτε ότι δεν είναι κενό "
+"και ότι δεν περιέχει ειδικούς χαρακτήρες."
+
+msgid ""
+"Unfortunately field with this name exists in this form already. Form must "
+"have different field names."
+msgstr ""
+"Δυστυχώς το πεδίο με αυτό το όνομα υπάρχει ήδη σε αυτή τη φόρμα. Η φόρμα "
+"πρέπει να έχει διαφορετικά ονόματα πεδίων."
+
+msgid " values must be unique"
+msgstr " οι τιμές πρέπει να είναι μοναδικές"
+
+msgid " labels must be unique"
+msgstr " οι ετικέτες πρέπει να είναι μοναδικές"
+
+msgid "Textarea size options must be integer values"
+msgstr ""
+"Οι επιλογές μεγέθους της περιοχής κειμένου πρέπει να είναι ακέραιες τιμές"
+
+msgid "Form not found"
+msgstr "Η φόρμα δεν βρέθηκε"
+
+msgid "Field was not found"
+msgstr "Το πεδίο δεν βρέθηκε"
+
+msgid "Forum id missing"
+msgstr "Το αναγνωριστικό του φόρουμ λείπει"
+
+msgid "Forum title is missing"
+msgstr "Ο τίτλος του φόρουμ λείπει"
+
+msgid "priority params is missing"
+msgstr "params προτεραιότητας λείπει"
+
+msgid "Topic id is missing"
+msgstr "Το id του θέματος λείπει"
+
+msgid "Forum ID not passed"
+msgstr "Το ID του φόρουμ δεν έχει περάσει"
+
+msgid "Forum topic title not passed"
+msgstr "Ο τίτλος του θέματος του φόρουμ δεν έχει περάσει"
+
+msgid "Forum topic message not passed"
+msgstr "Μήνυμα θέματος φόρουμ δεν πέρασε"
+
+msgid "Your message is too short"
+msgstr "Το μήνυμά σας είναι πολύ σύντομο"
+
+msgid "Forum topic id missing"
+msgstr "Το αναγνωριστικό του θέματος του φόρουμ λείπει"
+
+msgid "Forum Topic message ID not passed"
+msgstr "Το αναγνωριστικό μηνύματος θέματος φόρουμ δεν έχει περάσει"
+
+msgid "Forum Topic ID not passed"
+msgstr "Το αναγνωριστικό θέματος φόρουμ δεν έχει περάσει"
+
+msgid "Topic message not passed"
+msgstr "Το μήνυμα θέματος δεν πέρασε"
+
+msgid "Message ID not passed"
+msgstr "Το αναγνωριστικό μηνύματος δεν έχει περάσει"
+
+msgid "Client ID not passed"
+msgstr "Το αναγνωριστικό πελάτη δεν έχει περάσει"
+
+msgid "Amount not passed"
+msgstr "Ποσό που δεν πέρασε"
+
+msgid "ID or slug is missing"
+msgstr "Το ID ή το slug λείπει"
+
+msgid "Forum not found"
+msgstr "Το φόρουμ δεν βρέθηκε"
+
+msgid "Forum Topic not found"
+msgstr "Το θέμα του φόρουμ δεν βρέθηκε"
+
+msgid "Forum topic not passed"
+msgstr "Το θέμα του φόρουμ δεν έχει περάσει"
+
+msgid "Forum message not passed"
+msgstr "Το μήνυμα του φόρουμ δεν πέρασε"
+
+msgid "Forum is locked. No new topics can be started"
+msgstr "Το φόρουμ είναι κλειδωμένο. Δεν μπορούν να ξεκινήσουν νέα θέματα"
+
+msgid "Forum topic is locked. No new message can be posted"
+msgstr ""
+"Το θέμα του φόρουμ είναι κλειδωμένο. Δεν μπορεί να αναρτηθεί νέο μήνυμα"
+
+msgid "Enter some keywords for search"
+msgstr "Εισάγετε κάποιες λέξεις-κλειδιά για αναζήτηση"
+
+msgid "Search keyword must be longer than 3 characters"
+msgstr "Η λέξη-κλειδί αναζήτησης πρέπει να είναι μεγαλύτερη από 3 χαρακτήρες"
+
+msgid "Message not found"
+msgstr "Το μήνυμα δεν βρέθηκε"
+
+msgid "Hook event not passed"
+msgstr "Το συμβάν Hook δεν έχει περάσει"
+
+msgid "Param mod not passed"
+msgstr "Param mod δεν πέρασε"
+
+msgid "Order :id is free. No need to generate invoice."
+msgstr ""
+"Η παραγγελία :id είναι δωρεάν. Δεν χρειάζεται να δημιουργήσετε τιμολόγιο."
+
+msgid ""
+"Client currency must match subscription currency. Check if clients currency "
+"is defined."
+msgstr ""
+"Το νόμισμα του πελάτη πρέπει να ταιριάζει με το νόμισμα της συνδρομής. "
+"Ελέγξτε αν έχει οριστεί το νόμισμα των πελατών."
+
+msgid "Subscription id not passed"
+msgstr "Το αναγνωριστικό συνδρομής δεν έχει περάσει"
+
+msgid "Subscription sid not passed"
+msgstr "Συνδρομή sid δεν πέρασε"
+
+msgid "Subscription not found"
+msgstr "Η συνδρομή δεν βρέθηκε"
+
+msgid "Invoice was not found"
+msgstr "Το τιμολόγιο δεν βρέθηκε"
+
+msgid "Paid Invoice can not be modified"
+msgstr "Το πληρωμένο τιμολόγιο δεν μπορεί να τροποποιηθεί"
+
+msgid "Order not found"
+msgstr "Η παραγγελία δεν βρέθηκε"
+
+msgid "You need to enter numeric value"
+msgstr "Πρέπει να εισαγάγετε αριθμητική τιμή"
+
+msgid "Invoice hash not passed. Missing param hash"
+msgstr "Το hash του τιμολογίου δεν έχει περάσει. Λείπει η παράμετρος hash"
+
+msgid "Payment method not found. Missing param gateway_id"
+msgstr "Η μέθοδος πληρωμής δεν βρέθηκε. Λείπει η παράμετρος gateway_id"
+
+msgid "Invoice hash is missing"
+msgstr "Το hash του τιμολογίου λείπει"
+
+msgid "Can not refund invoice with negative amount"
+msgstr "Δεν μπορεί να επιστραφεί τιμολόγιο με αρνητικό ποσό"
+
+msgid "Invoice is related to order #:id. Please cancel order first."
+msgstr ""
+"Το τιμολόγιο σχετίζεται με την παραγγελία #:id. Παρακαλώ ακυρώστε πρώτα την "
+"παραγγελία."
+
+msgid "Invoices are not generated for 0 amount orders"
+msgstr "Τα τιμολόγια δεν δημιουργούνται για παραγγελίες 0 ποσών"
+
+msgid ""
+"You must have at least one active order before you can add funds so you "
+"cannot proceed at the current time!"
+msgstr ""
+"Πρέπει να έχετε τουλάχιστον μία ενεργή παραγγελία για να μπορέσετε να "
+"προσθέσετε χρήματα, οπότε δεν μπορείτε να προχωρήσετε αυτή τη στιγμή!"
+
+msgid "Amount is not valid"
+msgstr "Το ποσό δεν είναι έγκυρο"
+
+msgid "Invoice not found"
+msgstr "Το τιμολόγιο δεν βρέθηκε"
+
+msgid "Payment method not found"
+msgstr "Η μέθοδος πληρωμής δεν βρέθηκε"
+
+msgid "Payment method not enabled"
+msgstr "Η μέθοδος πληρωμής δεν είναι ενεργοποιημένη"
+
+msgid "Error converting image to .png"
+msgstr "Σφάλμα μετατροπής εικόνας σε .png"
+
+msgid "Invoice number: "
+msgstr "Αριθμός τιμολογίου: "
+
+msgid "Invoice date: "
+msgstr "Ημερομηνία τιμολογίου: "
+
+msgid "Due date: "
+msgstr "Ημερομηνία λήξης: "
+
+msgid "Invoice status: "
+msgstr "Κατάσταση τιμολογίου: "
+
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+msgid "Name: "
+msgstr "Όνομα: "
+
+msgid "Address: "
+msgstr "Διεύθυνση: "
+
+msgid "Phone: "
+msgstr "Τηλέφωνο: "
+
+msgid "Email: "
+msgstr "Ηλεκτρονικό ταχυδρομείο: "
+
+msgid "Company"
+msgstr "Εταιρεία"
+
+msgid "Company: "
+msgstr "Εταιρεία: "
+
+msgid "Billing and delivery address"
+msgstr "Διεύθυνση χρέωσης και παράδοσης"
+
+msgid "#"
+msgstr ""
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Discount "
+msgstr "Έκπτωση "
+
+msgid "Payment for invoice :serie:id"
+msgstr "Πληρωμή για τιμολόγιο :serie:id"
+
+msgid "Could not activate proforma item. Order :id not found"
+msgstr ""
+"Δεν μπόρεσε να ενεργοποιήσει το στοιχείο proforma. Παραγγελία :id δεν βρέθηκε"
+
+msgid "Invoice item title is missing"
+msgstr "Λείπει ο τίτλος του στοιχείου του τιμολογίου"
+
+msgid "Add funds to account"
+msgstr "Προσθήκη κεφαλαίων στο λογαριασμό"
+
+msgid "Payment gateway is not available for installation."
+msgstr "Η πύλη πληρωμών δεν είναι διαθέσιμη για εγκατάσταση."
+
+msgid "Payment gateway :adapter was not found"
+msgstr "Η πύλη πληρωμής :adapter δεν βρέθηκε"
+
+msgid "Transaction invoice id is missing"
+msgstr "Λείπει το αναγνωριστικό τιμολογίου συναλλαγής"
+
+msgid "Payment gateway id is missing"
+msgstr "Το αναγνωριστικό της πύλης πληρωμής λείπει"
+
+msgid "Gateway was not found"
+msgstr "Η πύλη δεν βρέθηκε"
+
+msgid "Transaction :id not found."
+msgstr "Η συναλλαγή :id δεν βρέθηκε."
+
+msgid ""
+"Could not determine transaction origin. Transaction payment gateway is "
+"unknown."
+msgstr ""
+"Δεν μπόρεσε να προσδιορίσει την προέλευση της συναλλαγής. Η πύλη πληρωμής "
+"της συναλλαγής είναι άγνωστη."
+
+msgid "Can not handle transaction received from unknown payment gateway: :id"
+msgstr ""
+"Δεν μπορεί να χειριστεί συναλλαγή που λήφθηκε από άγνωστη πύλη πληρωμής: :id"
+
+msgid "Payment adapter :adapter does not support action :action"
+msgstr "Προσαρμογέας πληρωμής :adapter δεν υποστηρίζει δράση :action"
+
+msgid "Unknown transaction #:id type: :type"
+msgstr "Άγνωστη συναλλαγή #:id type: :type"
+
+msgid "Transaction :id is not associated with an invoice."
+msgstr "Η συναλλαγή :id δεν συνδέεται με τιμολόγιο."
+
+msgid "Invoice #:id not found"
+msgstr "Τιμολόγιο #:id δεν βρέθηκε"
+
+msgid "Instant payment notification (IPN) did not pass gateway :id validation"
+msgstr ""
+"Η άμεση ειδοποίηση πληρωμής (IPN) δεν πέρασε την επικύρωση της πύλης :id"
+
+msgid ""
+"Payment gateway :id method getTransaction should return Payment_Transaction "
+"object"
+msgstr ""
+"Η μέθοδος getTransaction της πύλης πληρωμών :id θα πρέπει να επιστρέφει το "
+"αντικείμενο Payment_Transaction"
+
+msgid ""
+"Can not create subscription. Subscription id from payment gateway was not "
+"received"
+msgstr ""
+"Δεν μπορείτε να δημιουργήσετε συνδρομή. Το αναγνωριστικό συνδρομής από την "
+"πύλη πληρωμής δεν ελήφθη"
+
+msgid "Subscription #:id was not found. Could not unsubscribe"
+msgstr "Η συνδρομή #:id δεν βρέθηκε. Δεν ήταν δυνατή η διαγραφή"
+
+msgid "Only approved transaction can be processed"
+msgstr "Μόνο εγκεκριμένη συναλλαγή μπορεί να υποβληθεί σε επεξεργασία"
+
+msgid "Transaction currency :code do not match required currency :required"
+msgstr ""
+"Το νόμισμα συναλλαγής :code δεν ταιριάζει με το απαιτούμενο νόμισμα :required"
+
+msgid ""
+"Transaction status on payment gateway is Pending. Only Complete or Unknown "
+"transactions can be processed."
+msgstr ""
+"Η κατάσταση της συναλλαγής στην πύλη πληρωμών είναι Εκκρεμής. Μόνο οι "
+"ολοκληρωμένες ή άγνωστες συναλλαγές μπορούν να υποβληθούν σε επεξεργασία."
+
+msgid "Client currency do not match invoice currency"
+msgstr "Το νόμισμα του πελάτη δεν ταιριάζει με το νόμισμα του τιμολογίου"
+
+msgid "Can not add negative amount to client balance for debit transaction"
+msgstr ""
+"Δεν μπορεί να προστεθεί αρνητικό ποσό στο υπόλοιπο του πελάτη για χρεωστική "
+"συναλλαγή"
+
+msgid "Article id not passed"
+msgstr "Το id του άρθρου δεν έχει περάσει"
+
+msgid "Article not found"
+msgstr "Το άρθρο δεν βρέθηκε"
+
+msgid "Article category id not passed"
+msgstr "Το id της κατηγορίας του άρθρου δεν έχει περάσει"
+
+msgid "Article title not passed"
+msgstr "Ο τίτλος του άρθρου δεν πέρασε"
+
+msgid "Article id is missing"
+msgstr "Το id του άρθρου λείπει"
+
+msgid "Category id not passed"
+msgstr "Το αναγνωριστικό της κατηγορίας δεν έχει περάσει"
+
+msgid "Article Category not found"
+msgstr "Κατηγορία άρθρου δεν βρέθηκε"
+
+msgid "Category title not passed"
+msgstr "Ο τίτλος της κατηγορίας δεν έχει περάσει"
+
+msgid "Category id is missing"
+msgstr "Το αναγνωριστικό της κατηγορίας λείπει"
+
+msgid "Category not found"
+msgstr "Η κατηγορία δεν βρέθηκε"
+
+msgid "Article item not found"
+msgstr "Το στοιχείο του άρθρου δεν βρέθηκε"
+
+msgid "Category ID or slug is missing"
+msgstr "Το στοιχείο του άρθρου δεν βρέθηκε"
+
+msgid "Knowledge base category not found"
+msgstr "Το αναγνωριστικό της κατηγορίας ή το slug λείπει"
+
+msgid "Can not remove category which has articles"
+msgstr "Δεν μπορείτε να αφαιρέσετε κατηγορία που έχει άρθρα"
+
+msgid "Message from name can not be empty"
+msgstr "Το μήνυμα από το όνομα δεν μπορεί να είναι κενό"
+
+msgid "Message subject not passed"
+msgstr "Το θέμα του μηνύματος δεν πέρασε"
+
+msgid "Add some content before sending message"
+msgstr "Προσθέστε κάποιο περιεχόμενο πριν από την αποστολή του μηνύματος"
+
+msgid "Client ID needs to be configured in mass mailer settings."
+msgstr ""
+"Το αναγνωριστικό πελάτη πρέπει να ρυθμιστεί στις ρυθμίσεις μαζικής "
+"αλληλογραφίας."
+
+msgid "Message id not passed"
+msgstr "Το αναγνωριστικό μηνύματος δεν έχει περάσει"
+
+msgid "Post id not passed"
+msgstr "Post id δεν πέρασε"
+
+msgid "Post title not passed"
+msgstr "Ο τίτλος της ανάρτησης δεν πέρασε"
+
+msgid "News item not found"
+msgstr "Η είδηση δεν βρέθηκε"
+
+msgid "Notification id is missing"
+msgstr "Το αναγνωριστικό ειδοποίησης λείπει"
+
+msgid "Notification message was not found"
+msgstr "Το μήνυμα ειδοποίησης δεν βρέθηκε"
+
+msgid "Only suspended orders can be unsuspended"
+msgstr "Μόνο οι ανασταλμένες παραγγελίες μπορούν να ανασταλούν"
+
+msgid "Only canceled orders can be uncanceled"
+msgstr "Μόνο οι ακυρωμένες παραγγελίες μπορούν να ακυρωθούν"
+
+msgid "Order config not passed"
+msgstr "Η διαμόρφωση της παραγγελίας δεν έχει περάσει"
+
+msgid "Automatically issue renewal invoices"
+msgstr "Αυτόματη έκδοση τιμολογίων ανανέωσης"
+
+msgid "Issue invoices manually"
+msgstr "Χειροκίνητη έκδοση τιμολογίων"
+
+msgid "Only pending and failed setup orders can be deleted."
+msgstr ""
+"Μόνο εκκρεμείς και αποτυχημένες εντολές εγκατάστασης μπορούν να διαγραφούν."
+
+msgid "This feature is available in BoxBilling PRO version."
+msgstr "Αυτό το χαρακτηριστικό είναι διαθέσιμο στην έκδοση BoxBilling PRO."
+
+msgid "Currency could not be determined for order"
+msgstr "Το νόμισμα δεν μπόρεσε να προσδιοριστεί για την παραγγελία"
+
+msgid "Product :id is out of stock."
+msgstr "Προϊόν :Το id έχει εξαντληθεί."
+
+msgid "Group ID parameter is missing for addon product order"
+msgstr "Group ID parameter is missing for addon product order"
+
+msgid "Parent order :group_id was not found"
+msgstr "Η γονική σειρά :group_id δεν βρέθηκε"
+
+msgid "Only pending setup or failed orders can be activated"
+msgstr ""
+"Μπορούν να ενεργοποιηθούν μόνο εκκρεμείς ή αποτυχημένες εντολές ρύθμισης"
+
+msgid "Error creating "
+msgstr "Σφάλμα δημιουργίας "
+
+msgid "Service "
+msgstr "Υπηρεσία "
+
+msgid "Only active orders can be suspended"
+msgstr "Μόνο οι ενεργές παραγγελίες μπορούν να ανασταλούν"
+
+msgid "Can not cancel "
+msgstr "Δεν μπορείτε να ακυρώσετε "
+
+msgid "Title is required"
+msgstr "Απαιτείται τίτλος"
+
+msgid "type"
+msgstr "τύπος"
+
+msgid "You have already created domain product."
+msgstr "Έχετε ήδη δημιουργήσει προϊόν τομέα."
+
+msgid "Product type :type is not registered"
+msgstr "Τύπος προϊόντος :type is not registered"
+
+msgid "Addon id is required"
+msgstr "Απαιτείται Addon id"
+
+msgid "Addon not found"
+msgstr "Το πρόσθετο δεν βρέθηκε"
+
+msgid "Category title is missing"
+msgstr "Ο τίτλος της κατηγορίας λείπει"
+
+msgid "Promo code is missing"
+msgstr "Ο κωδικός προσφοράς λείπει"
+
+msgid "Promo type is missing"
+msgstr "Ο τύπος Promo λείπει"
+
+msgid "Promo value is missing"
+msgstr "Η τιμή Promo λείπει"
+
+msgid "Promo id is missing"
+msgstr "Το promo id λείπει"
+
+msgid "Product id not passed"
+msgstr "Το id του προϊόντος δεν έχει περάσει"
+
+msgid "Product ID or slug is missing"
+msgstr "Λείπει το αναγνωριστικό προϊόντος ή το slug"
+
+msgid "Pricing type is required"
+msgstr "Απαιτείται τύπος τιμολόγησης"
+
+msgid "Can not remove product which has active orders."
+msgstr "Δεν μπορείτε να αφαιρέσετε προϊόν που έχει ενεργές παραγγελίες."
+
+msgid "Can not remove product category with products"
+msgstr "Δεν μπορείτε να αφαιρέσετε την κατηγορία προϊόντων με προϊόντα"
+
+msgid "This promo code already exists."
+msgstr "Αυτός ο κωδικός προσφοράς υπάρχει ήδη."
+
+msgid "Queue message id is missing"
+msgstr "Το αναγνωριστικό μηνύματος ουράς λείπει"
+
+msgid "Queue message not found"
+msgstr "Μήνυμα ουράς δεν βρέθηκε"
+
+msgid "Queue name not provided"
+msgstr "Το όνομα ουράς δεν παρέχεται"
+
+msgid "Module name not provided"
+msgstr "Το όνομα της ενότητας δεν παρέχεται"
+
+msgid "Message handler function :method does not exists"
+msgstr "Η συνάρτηση χειρισμού μηνυμάτων :method δεν υπάρχει"
+
+msgid "Redirect id not passed"
+msgstr "Το id ανακατεύθυνσης δεν έχει περάσει"
+
+msgid "Redirect path not passed"
+msgstr "Η διαδρομή ανακατεύθυνσης δεν έχει περάσει"
+
+msgid "Redirect target not passed"
+msgstr "Ο στόχος ανακατεύθυνσης δεν έχει περάσει"
+
+msgid "Redirect not found"
+msgstr "Η ανακατεύθυνση δεν βρέθηκε"
+
+msgid "Order id is required"
+msgstr "Απαιτείται αναγνωριστικό παραγγελίας"
+
+msgid "BoxBilling license order not found"
+msgstr "Δεν βρέθηκε η παραγγελία άδειας BoxBilling"
+
+msgid "Order is not activated"
+msgstr "Η παραγγελία δεν έχει ενεργοποιηθεί"
+
+msgid "Could not activate order. Service was not created"
+msgstr ""
+"Δεν μπόρεσε να ενεργοποιήσει την παραγγελία. Η υπηρεσία δεν δημιουργήθηκε"
+
+msgid "Centova Cast order not found"
+msgstr "Centova Cast παραγγελία δεν βρέθηκε"
+
+msgid "Order :id is not activated"
+msgstr "Η παραγγελία :id δεν είναι ενεργοποιημένη"
+
+msgid "CentovaCast product is not configured properly. Field :field is missing"
+msgstr "Το προϊόν CentovaCast δεν έχει ρυθμιστεί σωστά. Το πεδίο :πεδίο λείπει"
+
+msgid "Could not suspend order. Service was not created"
+msgstr "Δεν μπόρεσε να αναστείλει την παραγγελία. Η υπηρεσία δεν δημιουργήθηκε"
+
+msgid "Could not unsuspend order. Service was not created"
+msgstr "Δεν μπόρεσε να αναστείλει την παραγγελία. Η υπηρεσία δεν δημιουργήθηκε"
+
+msgid "API call is missing arguments"
+msgstr "Από την κλήση API λείπουν τα ορίσματα"
+
+msgid "You must fill in all required fields. "
+msgstr "Πρέπει να συμπληρώσετε όλα τα υποχρεωτικά πεδία. "
+
+msgid "Field "
+msgstr "Πεδίο "
+
+msgid "Custom plugin method :method is forbidden"
+msgstr "Προσαρμοσμένη μέθοδος plugin :method is forbidden"
+
+msgid "Config must be an array"
+msgstr "Το Config πρέπει να είναι ένας πίνακας"
+
+msgid "Plugin class file :file was not found"
+msgstr "Το αρχείο κλάσης του πρόσθετου :file δεν βρέθηκε"
+
+msgid "Plugin :plugin does not support action :action"
+msgstr "Το πρόσθετο :plugin δεν υποστηρίζει την ενέργεια :action"
+
+msgid "Order :id has no active service"
+msgstr "Η παραγγελία :id δεν έχει ενεργή υπηρεσία"
+
+msgid "TLD is missing"
+msgstr "Το TLD λείπει"
+
+msgid "TLD not found"
+msgstr "TLD δεν βρέθηκε"
+
+msgid "Tld already registered"
+msgstr "Tld ήδη καταχωρημένη"
+
+msgid "TLD registrar id is missing"
+msgstr "Το αναγνωριστικό καταχωρητή TLD λείπει"
+
+msgid "Registration price is missing"
+msgstr "Η τιμή εγγραφής λείπει"
+
+msgid "Renewal price is missing"
+msgstr "Η τιμή ανανέωσης λείπει"
+
+msgid "Transfer price is missing"
+msgstr "Η τιμή μεταφοράς λείπει"
+
+msgid "Registrar code not passed"
+msgstr "Ο κωδικός καταχωρητή δεν πέρασε"
+
+msgid "Registrar is not available for installation."
+msgstr "Ο κωδικός καταχωρητή δεν πέρασε"
+
+msgid "Registrar id not passed"
+msgstr "Το αναγνωριστικό του καταχωρητή δεν έχει περάσει"
+
+msgid "Registrar not found"
+msgstr "Ο καταχωρητής δεν βρέθηκε"
+
+msgid "Registrar id is missing"
+msgstr "Το αναγνωριστικό καταχωρητή λείπει"
+
+msgid "Order id is missing"
+msgstr "Το αναγνωριστικό παραγγελίας λείπει"
+
+msgid "Domain order is not activated"
+msgstr "Η παραγγελία τομέα δεν είναι ενεργοποιημένη"
+
+msgid "Tld is required"
+msgstr "Απαιτείται Tld"
+
+msgid "Sld is required"
+msgstr "Απαιτείται Sld"
+
+msgid "Domain :domain is not valid"
+msgstr "Τομέας :Ο τομέας δεν είναι έγκυρος"
+
+msgid "Domain availability could not be determined. TLD is not active."
+msgstr ""
+"Η διαθεσιμότητα του τομέα δεν κατέστη δυνατό να προσδιοριστεί. Το TLD δεν "
+"είναι ενεργό."
+
+msgid "Domain is not available."
+msgstr "Ο τομέας δεν είναι διαθέσιμος."
+
+msgid "TLD is not active."
+msgstr "Το TLD δεν είναι ενεργό."
+
+msgid "Domain can not be transferred."
+msgstr "Ο τομέας δεν μπορεί να μεταφερθεί."
+
+msgid "Domain :domain registration"
+msgstr "Τομέας :domain τομέα"
+
+msgid "Domain :domain transfer"
+msgstr "Τομέας :domain τομέα"
+
+msgid ""
+"Are you registering new domain or transferring existing? Action parameter "
+"missing."
+msgstr ""
+"Καταχωρείτε νέο domain ή μεταφέρετε το υπάρχον; Λείπει η παράμετρος δράσης."
+
+msgid "Invalid domain action."
+msgstr "Μη έγκυρη ενέργεια τομέα."
+
+msgid "Order data must contain :field configuration field"
+msgstr ""
+"Τα δεδομένα της παραγγελίας πρέπει να περιέχουν το πεδίο :field "
+"configuration field"
+
+msgid "Domain name :domain is not valid"
+msgstr "Όνομα τομέα :domain δεν είναι έγκυρος"
+
+msgid "Domain TLD is not valid."
+msgstr "Το domain TLD δεν είναι έγκυρο."
+
+msgid "Domain name is required."
+msgstr "Απαιτείται όνομα τομέα."
+
+msgid "Transfer domain type (tld) is required."
+msgstr "Απαιτείται μεταφορά τύπου τομέα (tld)."
+
+msgid "Transfer domain name (sld) is required."
+msgstr "Απαιτείται μεταφορά ονόματος τομέα (sld)."
+
+msgid ":domain can not be transferred!"
+msgstr ":domain δεν μπορεί να μεταφερθεί!"
+
+msgid "Domain registration tld parameter missing."
+msgstr "Λείπει η παράμετρος tld εγγραφής τομέα."
+
+msgid "Domain registration sld parameter missing."
+msgstr "Λείπει η παράμετρος sld της εγγραφής τομέα."
+
+msgid "Years parameter is missing for domain configuration."
+msgstr "Η παράμετρος Years λείπει για τη διαμόρφωση του τομέα."
+
+msgid ":tld can be registered for at least :years years"
+msgstr ":tld μπορεί να καταχωρηθεί για τουλάχιστον :years χρόνια"
+
+msgid ":domain is already registered!"
+msgstr ":domain είναι ήδη καταχωρημένο!"
+
+msgid "Default domain nameservers are not configured"
+msgstr "Οι προεπιλεγμένοι διακομιστές ονομάτων τομέα δεν έχουν ρυθμιστεί"
+
+msgid "Nameserver 1 is required"
+msgstr "Απαιτείται ο διακομιστής ονομάτων 1"
+
+msgid "Nameserver 2 is required"
+msgstr "Απαιτείται διακομιστής ονομάτων 2"
+
+msgid "Required field contact is missing"
+msgstr "Το υποχρεωτικό πεδίο contact λείπει"
+
+msgid "Required field :field is missing"
+msgstr "Υποχρεωτικό πεδίο :το πεδίο λείπει"
+
+msgid "Domain name is not valid"
+msgstr "Το όνομα τομέα δεν είναι έγκυρο"
+
+msgid "Domain can not be transferred"
+msgstr "Ο τομέας δεν μπορεί να μεταφερθεί"
+
+msgid "Domain can not be registered"
+msgstr "Ο τομέας δεν μπορεί να καταχωρηθεί"
+
+msgid "Domain registrar :adapter was not found"
+msgstr "Ο καταχωρητής domain :adapter δεν βρέθηκε"
+
+msgid "Registrar :adapter was not found"
+msgstr "Ο καταχωρητής :adapter δεν βρέθηκε"
+
+msgid "Registrar adapter :adapter should extend Registrar_AdapterAbstract"
+msgstr ""
+"Προσαρμογέας καταχωρητή :adapter should extend Registrar_AdapterAbstract"
+
+msgid "Can not remove registrar which has domains"
+msgstr "Δεν μπορεί να αφαιρέσει καταχωρητή που έχει τομείς"
+
+msgid "File was not uploaded"
+msgstr "Το αρχείο δεν μεταφορτώθηκε"
+
+msgid "Product is not configured completely."
+msgstr "Το προϊόν δεν έχει διαμορφωθεί πλήρως."
+
+msgid "Filename is missing in product config."
+msgstr "Το όνομα αρχείου λείπει από τη ρύθμιση παραμέτρων του προϊόντος."
+
+msgid "Error uploading file"
+msgstr "Σφάλμα μεταφόρτωσης αρχείου"
+
+msgid "File can not be downloaded at the moment. Please contact support"
+msgstr ""
+"Το αρχείο δεν μπορεί να μεταφορτωθεί αυτή τη στιγμή. Παρακαλούμε "
+"επικοινωνήστε με την υποστήριξη"
+
+msgid "plan_id is missing"
+msgstr "Το plan_id λείπει"
+
+msgid "Hosting plan not found"
+msgstr "Το σχέδιο φιλοξενίας δεν βρέθηκε"
+
+msgid "Server name is missing"
+msgstr "Το όνομα του διακομιστή λείπει"
+
+msgid "Server IP is missing"
+msgstr "Η IP του διακομιστή λείπει"
+
+msgid "Server manager is missing"
+msgstr "Ο διαχειριστής διακομιστή λείπει"
+
+msgid "Server id is missing"
+msgstr "Το αναγνωριστικό του διακομιστή λείπει"
+
+msgid "Server not found"
+msgstr "Ο διακομιστής δεν βρέθηκε"
+
+msgid "Hosting plan id is missing"
+msgstr "Το id του προγράμματος φιλοξενίας λείπει"
+
+msgid "Hosting plan name is missing"
+msgstr "Το όνομα του προγράμματος φιλοξενίας λείπει"
+
+msgid "Hosting plan name can not be empty"
+msgstr "Το όνομα του προγράμματος φιλοξενίας δεν μπορεί να είναι κενό"
+
+msgid ":hosting for :domain"
+msgstr ":hosting για :domain"
+
+msgid ""
+"Hosting product is not configured completely. Configure server for hosting "
+"product."
+msgstr ""
+"Το προϊόν φιλοξενίας δεν έχει ρυθμιστεί πλήρως. Διαμορφώστε το διακομιστή "
+"για το προϊόν φιλοξενίας."
+
+msgid ""
+"Hosting product is not configured completely. Configure hosting plan for "
+"hosting product."
+msgstr ""
+"Το προϊόν φιλοξενίας δεν έχει ρυθμιστεί πλήρως. Διαμορφώστε το πακέτο "
+"φιλοξενίας για το προϊόν φιλοξενίας."
+
+msgid "Domain name is not valid."
+msgstr "Το όνομα τομέα δεν είναι έγκυρο."
+
+msgid "Domain extension is not valid."
+msgstr "Η επέκταση τομέα δεν είναι έγκυρη."
+
+msgid "Server from order configuration was not found"
+msgstr "Ο διακομιστής από τη ρύθμιση παραγγελιών δεν βρέθηκε"
+
+msgid "Hosting plan from order configuration was not found"
+msgstr "Το πρόγραμμα φιλοξενίας από τη διαμόρφωση της παραγγελίας δεν βρέθηκε"
+
+msgid "Account password is missing or is not valid"
+msgstr "Ο κωδικός πρόσβασης του λογαριασμού λείπει ή δεν είναι έγκυρος"
+
+msgid "Account ip is missing or is not valid"
+msgstr "Η ip του λογαριασμού λείπει ή δεν είναι έγκυρη"
+
+msgid "Domain sld or tld is missing"
+msgstr "Τομέας sld ή tld λείπει"
+
+msgid "Hosting product must have domain configuration"
+msgstr "Το προϊόν φιλοξενίας πρέπει να έχει διαμόρφωση τομέα"
+
+msgid "Domain action is missing"
+msgstr "Η δράση του τομέα λείπει"
+
+msgid "Hosting product must have defined register_sld parameter"
+msgstr "Το προϊόν φιλοξενίας πρέπει να έχει ορίσει την παράμετρο register_sld"
+
+msgid "Hosting product must have defined register_tld parameter"
+msgstr "Το προϊόν φιλοξενίας πρέπει να έχει ορίσει την παράμετρο register_tld"
+
+msgid "Hosting product must have defined transfer_sld parameter"
+msgstr "Το προϊόν φιλοξενίας πρέπει να έχει ορίσει την παράμετρο transfer_sld"
+
+msgid "Hosting product must have defined transfer_tld parameter"
+msgstr "Το προϊόν φιλοξενίας πρέπει να έχει ορίσει την παράμετρο transfer_tld"
+
+msgid "Invalid server manager. Server was not configured properly."
+msgstr ""
+"Μη έγκυρος διαχειριστής διακομιστή. Ο διακομιστής δεν έχει ρυθμιστεί σωστά."
+
+msgid "Server manager :adapter is not valid"
+msgstr "Διαχειριστής διακομιστή :adapter δεν είναι έγκυρος"
+
+msgid "Can not remove hosting plan which has active accounts"
+msgstr ""
+"Δεν μπορείτε να αφαιρέσετε σχέδιο φιλοξενίας που έχει ενεργούς λογαριασμούς"
+
+msgid "Could not find main domain product"
+msgstr "Δεν μπόρεσε να βρει το προϊόν του κύριου τομέα"
+
+msgid "License plugin :plugin was not found"
+msgstr "Άδεια plugin :plugin δεν βρέθηκε"
+
+msgid "License plugin do not have generate method"
+msgstr "Το πρόσθετο άδειας δεν έχει τη μέθοδο generate"
+
+msgid "Solusvm order not found"
+msgstr "Η παραγγελία Solusvm δεν βρέθηκε"
+
+msgid "Node is not selected for import."
+msgstr "Ο κόμβος δεν έχει επιλεγεί για εισαγωγή."
+
+msgid "No servers selected for import."
+msgstr "Δεν έχουν επιλεγεί διακομιστές για εισαγωγή."
+
+msgid "Select product for orders."
+msgstr "Επιλέξτε προϊόν για παραγγελίες."
+
+msgid ""
+"Product is not configured completely. Please provide solusvm node in product "
+"configuration page."
+msgstr ""
+"Το προϊόν δεν έχει διαμορφωθεί πλήρως. Παρακαλούμε δώστε τον κόμβο solusvm "
+"στη σελίδα διαμόρφωσης του προϊόντος."
+
+msgid ""
+"Product is not configured completely. Please provide solusvm plan in product "
+"configuration page."
+msgstr ""
+"Το προϊόν δεν έχει διαμορφωθεί πλήρως. Παρακαλούμε δώστε το σχέδιο solusvm "
+"στη σελίδα διαμόρφωσης του προϊόντος."
+
+msgid "No clients selected for import."
+msgstr "Δεν έχουν επιλεγεί πελάτες για εισαγωγή."
+
+msgid "No clients found on SolusVM server."
+msgstr "Δεν βρέθηκαν πελάτες στον διακομιστή SolusVM."
+
+msgid "Virtual private server :title"
+msgstr "Εικονικός ιδιωτικός διακομιστής :title"
+
+msgid "Please enter VPS hostname."
+msgstr "Παρακαλώ εισάγετε το όνομα κεντρικού υπολογιστή VPS."
+
+msgid "Hostname :hostname is not valid."
+msgstr "Hostname :hostname δεν είναι έγκυρο"
+
+msgid "Please select VPS template."
+msgstr "Παρακαλούμε επιλέξτε το πρότυπο VPS."
+
+msgid "SolusVM API ID is missing."
+msgstr "Το αναγνωριστικό API της SolusVM λείπει."
+
+msgid "SolusVM API KEY is missing."
+msgstr "Το SolusVM API KEY λείπει."
+
+msgid "SolusVM API ipaddress is missing."
+msgstr "Η διεύθυνση ipaddress του API SolusVM λείπει."
+
+msgid "SolusVM API secure is missing."
+msgstr "Το SolusVM API secure λείπει."
+
+msgid "SolusVM API port is missing."
+msgstr "The SolusVM secure API is missing."
+
+msgid "Could not activate order because ordered product does not exists"
+msgstr ""
+"Δεν ήταν δυνατή η ενεργοποίηση της παραγγελίας επειδή το προϊόν που "
+"παραγγέλθηκε δεν υπάρχει"
+
+msgid ""
+"Could not activate order. Product :id configuration is missing node parameter"
+msgstr ""
+"Δεν μπόρεσε να ενεργοποιήσει την παραγγελία. Λείπει η παράμετρος κόμβου στη "
+"διαμόρφωση του προϊόντος :id"
+
+msgid ""
+"Could not activate order. Product :id configuration is missing plan parameter"
+msgstr ""
+"Δεν μπόρεσε να ενεργοποιήσει την παραγγελία. Λείπει η παράμετρος σχεδίου για "
+"τη διαμόρφωση του προϊόντος :id"
+
+msgid ""
+"Could not activate order. Product :id configuration is missing "
+"virtualization type parameter"
+msgstr ""
+"Δεν μπόρεσε να ενεργοποιήσει την παραγγελία. Η παράμετρος virtualization "
+"type της διαμόρφωσης product :id λείπει"
+
+msgid ""
+"Could not activate order. Product :id configuration is missing ips amount "
+"parameter"
+msgstr ""
+"Δεν μπόρεσε να ενεργοποιήσει την παραγγελία. Από τη διαμόρφωση του "
+"προϊόντος :id λείπει η παράμετρος ips amount"
+
+msgid "Root password must be longer than 4 symbols"
+msgstr "Ο κωδικός πρόσβασης ρίζας πρέπει να είναι μεγαλύτερος από 4 σύμβολα"
+
+msgid "Plan name must not be empty"
+msgstr "Το όνομα του σχεδίου δεν πρέπει να είναι κενό"
+
+msgid "Hostname must not be empty"
+msgstr "Το όνομα κεντρικού υπολογιστή δεν πρέπει να είναι κενό"
+
+msgid "Template must not be empty"
+msgstr "Το πρότυπο δεν πρέπει να είναι κενό"
+
+msgid "Password must be longer than 4 symbols"
+msgstr "Ο κωδικός πρόσβασης πρέπει να είναι μεγαλύτερος από 4 σύμβολα"
+
+msgid "Please enter subdomain"
+msgstr "Παρακαλώ εισάγετε το subdomain"
+
+msgid "Please select master domain"
+msgstr "Παρακαλούμε επιλέξτε τον κύριο τομέα"
+
+msgid "Please enter domain value"
+msgstr "Παρακαλώ εισάγετε τιμή τομέα"
+
+msgid ":product for :domain"
+msgstr ":product για :domain"
+
+msgid "Unknown domain type."
+msgstr "Άγνωστος τύπος τομέα."
+
+msgid "Akismet API Key not set."
+msgstr "Το κλειδί API του Akismet δεν έχει οριστεί."
+
+msgid "Could not start new CURL instance"
+msgstr "Δεν μπόρεσε να ξεκινήσει νέα περίπτωση CURL"
+
+msgid "Could not close the CURL instance"
+msgstr "Δεν μπόρεσε να κλείσει η περίπτωση CURL"
+
+msgid "Could not send cURL request"
+msgstr "Δεν ήταν δυνατή η αποστολή αίτησης cURL"
+
+msgid "Could not open socket"
+msgstr "Δεν μπόρεσε να ανοίξει η υποδοχή"
+
+msgid "IP :ip is blocked"
+msgstr "IP :Η ip είναι μπλοκαρισμένη"
+
+msgid "Akismet detected this message is spam"
+msgstr "Το Akismet εντόπισε ότι αυτό το μήνυμα είναι spam"
+
+msgid ""
+"To use reCAPTCHA you must get an API key from <a href='https://www.google."
+"com/recaptcha/admin/create'>https://www.google.com/recaptcha/admin/create</a>"
+msgstr ""
+"Για να χρησιμοποιήσετε το reCAPTCHA πρέπει να λάβετε ένα κλειδί API από το "
+"<a href='https://www.google.com/recaptcha/admin/create'>https://www.google."
+"com/recaptcha/admin/create</a>."
+
+msgid "Captcha verification failed."
+msgstr "Η επαλήθευση Captcha απέτυχε."
+
+msgid "Your Username is blacklisted in global database"
+msgstr ""
+"Το όνομα χρήστη σας είναι στη μαύρη λίστα της παγκόσμιας βάσης δεδομένων"
+
+msgid "Your Email is blacklisted in global database"
+msgstr "Το Email σας είναι στη μαύρη λίστα της παγκόσμιας βάσης δεδομένων"
+
+msgid "Your IP is blacklisted in global database"
+msgstr "Η IP σας είναι στη μαύρη λίστα της παγκόσμιας βάσης δεδομένων"
+
+msgid "Administrator account already exists"
+msgstr "Ο λογαριασμός διαχειριστή υπάρχει ήδη"
+
+msgid "You are not allowed to login to admin area from :ip address"
+msgstr ""
+"Δεν επιτρέπεται η είσοδος στην περιοχή διαχείρισης από τη διεύθυνση :ip"
+
+msgid "Check your login details"
+msgstr "Ελέγξτε τα στοιχεία σύνδεσής σας"
+
+msgid "This administrator account is protected and can not be removed"
+msgstr ""
+"Αυτός ο λογαριασμός διαχειριστή προστατεύεται και δεν μπορεί να αφαιρεθεί"
+
+msgid "Staff member with email :email is already registered"
+msgstr "Μέλος του προσωπικού με email :email είναι ήδη εγγεγραμμένο"
+
+msgid "Administrators group can not be removed"
+msgstr "Η ομάδα Administrators δεν μπορεί να αφαιρεθεί"
+
+msgid "Can not remove group which has staff members"
+msgstr "Δεν μπορεί να αφαιρεθεί ομάδα που έχει μέλη του προσωπικού"
+
+msgid "Ticket not found"
+msgstr "Το εισιτήριο δεν βρέθηκε"
+
+msgid "Ticket can not be reopened."
+msgstr "Το εισιτήριο δεν μπορεί να ανοίξει ξανά."
+
+msgid "Please enter your message"
+msgstr "Παρακαλώ εισάγετε το μήνυμά σας"
+
+msgid "Can not remove helpdesk which has tickets"
+msgstr "Δεν μπορεί να αφαιρέσει το helpdesk που έχει εισιτήρια"
+
+msgid "We have already received this request."
+msgstr "Έχουμε ήδη λάβει αυτό το αίτημα."
+
+msgid "Identity is not valid"
+msgstr "Η ταυτότητα δεν είναι έγκυρη"
+
+msgid "Public ticket not found"
+msgstr "Δημόσιο εισιτήριο δεν βρέθηκε"
+
+msgid "Parameter key is missing"
+msgstr "Το κλειδί παραμέτρων λείπει"
+
+msgid "mod parameter not passed"
+msgstr "Η παράμετρος mod δεν έχει περάσει"
+
+msgid "Parameter :param does not exist"
+msgstr "Η παράμετρος :param δεν υπάρχει"
+
+msgid "Country :code phone code is not registered"
+msgstr "Ο τηλεφωνικός κωδικός χώρας :κωδικός δεν είναι καταχωρημένος"
+
+msgid ""
+"You have reached free version limit. Upgrade to PRO version of BoxBilling if "
+"you want this limit removed."
+msgstr ""
+"Έχετε φτάσει στο όριο της δωρεάν έκδοσης. Αναβαθμίστε στην έκδοση PRO του "
+"BoxBilling αν θέλετε να καταργηθεί αυτό το όριο."
+
+msgid "Theme code is missing"
+msgstr "Ο κώδικας του θέματος λείπει"
+
+msgid "Theme preset name is missing"
+msgstr "Λείπει το όνομα της προεπιλεγμένης θεματικής ρύθμισης"
+
+msgid ""
+"Theme \":name\" assets folder is not writable. Files can not be uploaded and "
+"settings can not be saved. Set folder permissions to 777"
+msgstr ""
+"Ο φάκελος περιουσιακών στοιχείων \":name\" του θέματος δεν είναι εγγράψιμος. "
+"Τα αρχεία δεν μπορούν να μεταφορτωθούν και οι ρυθμίσεις δεν μπορούν να "
+"αποθηκευτούν. Ορίστε τα δικαιώματα του φακέλου σε 777"
+
+msgid ""
+"Theme \":name\" assets folder is not writable. Set folder :folder "
+"permissions to 777"
+msgstr ""
+"Ο φάκελος περιουσιακών στοιχείων \":name\" του θέματος δεν είναι εγγράψιμος. "
+"Ορίστε τα δικαιώματα του φακέλου :folder σε 777"
+
+msgid "Theme \":name\" is not configurable"
+msgstr "Το θέμα \":name\" δεν είναι παραμετροποιήσιμο"
+
+msgid "Theme \":name\" does not exists"
+msgstr "Το θέμα \":name\" δεν υπάρχει"
+
+msgid "Error uploading file :file Error code: :error"
+msgstr "Σφάλμα μεταφόρτωσης αρχείου :file Κωδικός σφάλματος: :error"
+
+msgid "Theme was not found in path :path"
+msgstr "Το θέμα δεν βρέθηκε στη διαδρομή :path"
+
+msgid "Unable to decode theme manifest file :file"
+msgstr "Αδυναμία αποκωδικοποίησης του αρχείου δηλωτικού θέματος :file"
+
+msgid "Wysiwyg settings"
+msgstr "Ρυθμίσεις Wysiwyg"
+
+msgid "Home"
+msgstr "Αρχική σελίδα"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Configuration updated"
+msgstr "Ενημέρωση ρυθμίσεων"
+
+msgid "Default editor"
+msgstr "Προεπιλεγμένος συντάκτης"
+
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "Reset password"
+msgstr "Επαναφορά κωδικού πρόσβασης"
+
+msgid "Email Address"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
+
+msgid "Your email address"
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου σας"
+
+msgid "You must fill in your email."
+msgstr "Πρέπει να συμπληρώσετε το email σας."
+
+msgid ""
+"Enter your email to reset password. You will receive new password after "
+"reset link is confirmed."
+msgstr ""
+"Εισάγετε το email σας για να επαναφέρετε τον κωδικό πρόσβασης. Θα λάβετε νέο "
+"κωδικό πρόσβασης μετά την επιβεβαίωση του συνδέσμου επαναφοράς."
+
+msgid "Signup"
+msgstr "Εγγραφή"
+
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgid "Password reset confirmation email was sent"
+msgstr "Στάλθηκε email επιβεβαίωσης επαναφοράς κωδικού πρόσβασης"
+
+msgid "SEO settings"
+msgstr "Ρυθμίσεις SEO"
+
+msgid "Ping sitemap to Google"
+msgstr "Ping sitemap στο Google"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Ping sitemap to Yahoo"
+msgstr "Ping sitemap στο Yahoo"
+
+msgid "Ping sitemap to Bing"
+msgstr "Ping sitemap στο Bing"
+
+msgid "Help?"
+msgstr "Βοήθεια;"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Forum"
+msgstr "Φόρουμ"
+
+msgid "Report bug"
+msgstr "Αναφορά σφάλματος"
+
+msgid "Search:"
+msgstr "Αναζήτηση:"
+
+msgid "Enter search text.."
+msgstr "Εισάγετε το κείμενο αναζήτησης.."
+
+msgid "License settings"
+msgstr "Ρυθμίσεις άδειας χρήσης"
+
+msgid "Prefix"
+msgstr "Πρόθεμα"
+
+msgid "Length"
+msgstr "Μήκος"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Validate IP"
+msgstr "Επικύρωση IP"
+
+msgid "Validate Hostname"
+msgstr "Επικύρωση ονόματος κεντρικού υπολογιστή"
+
+msgid "Validate Version"
+msgstr "Επικύρωση έκδοσης"
+
+msgid "Validate Path"
+msgstr "Επικύρωση διαδρομής"
+
+msgid "License plugins"
+msgstr "Άδεια χρήσης plugins"
+
+msgid ""
+"BoxBilling gives you ability to provide your own license generation script. "
+"Follow instructions bellow to install new license plugin"
+msgstr ""
+"Το BoxBilling σας δίνει τη δυνατότητα να παρέχετε το δικό σας σενάριο "
+"παραγωγής αδειών. Ακολουθήστε τις παρακάτω οδηγίες για να εγκαταστήσετε το "
+"νέο πρόσθετο άδειας"
+
+msgid "License plugin is PHP class \"License_PluginName\" with one method"
+msgstr ""
+"Το πρόσθετο άδειας χρήσης είναι η κλάση PHP \"License_PluginName\" με μία "
+"μέθοδο"
+
+msgid "Take a look at default plugin at"
+msgstr "Ρίξτε μια ματιά στο προεπιλεγμένο πρόσθετο στο"
+
+msgid "Create your plugin and place it to"
+msgstr "Δημιουργήστε το πρόσθετό σας και τοποθετήστε το στο"
+
+msgid "BoxBilling will automatically detect new plugin"
+msgstr "Το BoxBilling θα ανιχνεύσει αυτόματα το νέο πρόσθετο"
+
+msgid "Read"
+msgstr "Διαβάστε"
+
+msgid "BoxBilling documentation"
+msgstr "Τεκμηρίωση BoxBilling"
+
+msgid "for more information."
+msgstr "για περισσότερες πληροφορίες."
+
+msgid "Client settings"
+msgstr "Ρυθμίσεις πελάτη"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "Custom Fields"
+msgstr "Προσαρμοσμένα πεδία"
+
+msgid "Allow new signups"
+msgstr "Επιτρέψτε νέες εγγραφές"
+
+msgid "Require email confirmation"
+msgstr "Απαιτείται επιβεβαίωση μέσω email"
+
+msgid "Allow email change"
+msgstr "Επιτρέψτε την αλλαγή email"
+
+msgid "Required fields"
+msgstr "Υποχρεωτικά πεδία"
+
+msgid "Select required fields"
+msgstr "Επιλέξτε τα απαιτούμενα πεδία"
+
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+msgid "Gender"
+msgstr "Φύλο"
+
+msgid "Birthday"
+msgstr "Γενέθλια"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Address Line 1"
+msgstr "Γραμμή διεύθυνσης 1"
+
+msgid "Address Line 2"
+msgstr "Γραμμή διεύθυνσης 2"
+
+msgid "Post code"
+msgstr "Ταχυδρομικός κώδικας"
+
+msgid "Custom_"
+msgstr ""
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Required"
+msgstr "Απαιτούμενο"
+
+msgid "Update profile"
+msgstr "Ενημέρωση προφίλ"
+
+msgid "Gateway"
+msgstr "Πύλη"
+
+msgid "Payment gateways"
+msgstr "Πύλες πληρωμών"
+
+msgid "Payment gateway configuration"
+msgstr "Ρύθμιση της πύλης πληρωμών"
+
+msgid "Payment gateway title"
+msgstr "Τίτλος πύλης πληρωμών"
+
+msgid ""
+"Select which currencies can accept this payment gateway (Select none to "
+"allow all currencies)"
+msgstr ""
+"Επιλέξτε ποια νομίσματα μπορεί να δεχτεί αυτή η πύλη πληρωμών (επιλέξτε "
+"κανένα για να επιτρέψετε όλα τα νομίσματα)"
+
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+msgid "Allow one time payments"
+msgstr "Επιτρέψτε εφάπαξ πληρωμές"
+
+msgid "Allow subscription payments"
+msgstr "Επιτρέψτε πληρωμές συνδρομής"
+
+msgid "Enable test mode"
+msgstr "Ενεργοποίηση λειτουργίας δοκιμής"
+
+msgid "IPN Callback URL"
+msgstr "IPN Callback URL"
+
+msgid "Register a new domain"
+msgstr "Καταχωρήστε ένα νέο domain"
+
+msgid "Enter new domain name to register"
+msgstr "Εισάγετε το νέο όνομα τομέα προς καταχώριση"
+
+msgid "Check"
+msgstr "Ελέγξτε το"
+
+msgid "I want to use my nameservers"
+msgstr "Θέλω να χρησιμοποιήσω τους nameservers μου"
+
+msgid "Nameserver 1"
+msgstr "Εξυπηρετητής ονομάτων 1"
+
+msgid "Nameserver 2"
+msgstr "Εξυπηρετητής ονομάτων 2"
+
+msgid "Nameserver 3"
+msgstr "Εξυπηρετητής ονομάτων 3"
+
+msgid "Nameserver 4"
+msgstr "Εξυπηρετητής ονομάτων 4"
+
+msgid " Year/s @ "
+msgstr " Έτος/ες @ "
+
+msgid "Order"
+msgstr "Παραγγελία"
+
+msgid "Client"
+msgstr "Πελάτης"
+
+msgid "Product"
+msgstr "Προϊόν"
+
+msgid "Support ticket"
+msgstr "Εισιτήριο υποστήριξης"
+
+msgid "Staff member"
+msgstr "Μέλος του προσωπικού"
+
+msgid "Announcement"
+msgstr "Ανακοίνωση"
+
+msgid "Forum topic"
+msgstr "Θέμα φόρουμ"
+
+msgid "Products"
+msgstr "Προϊόντα"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Category updated"
+msgstr "Ενημερωμένη κατηγορία"
+
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+msgid "Browse"
+msgstr "Περιηγηθείτε στο"
+
+msgid "Select icon and click OK"
+msgstr "Επιλέξτε το εικονίδιο και κάντε κλικ στο OK"
+
+msgid "Top level domains"
+msgstr "Τομείς ανωτάτου επιπέδου"
+
+msgid "New top level domain"
+msgstr "Νέος τομέας ανωτάτου επιπέδου"
+
+msgid "Registrars"
+msgstr "Καταχωρητές"
+
+msgid "New domain registrar"
+msgstr "Νέος καταχωρητής τομέων"
+
+msgid "Nameservers"
+msgstr "Διακομιστές ονομάτων"
+
+msgid "Manage TLDs"
+msgstr "Διαχείριση TLDs"
+
+msgid ""
+"Setup domain pricing and allowed operations. Assign specific domain "
+"registrars for each Top Level Domain (TLD)"
+msgstr ""
+"Ρύθμιση της τιμολόγησης και των επιτρεπόμενων λειτουργιών του τομέα. Ορισμός "
+"συγκεκριμένων καταχωρητών domain για κάθε Top Level Domain (TLD)"
+
+msgid "TLD"
+msgstr ""
+
+msgid "Registration"
+msgstr "Εγγραφή"
+
+msgid "Renew"
+msgstr "Ανανέωση"
+
+msgid "Transfer"
+msgstr "Μεταφορά"
+
+msgid "Operations"
+msgstr "Λειτουργίες"
+
+msgid "Registrar"
+msgstr "Καταχωρητής"
+
+msgid "Allow register:"
+msgstr "Επιτρέψτε την εγγραφή:"
+
+msgid "Allow transfer:"
+msgstr "Επιτρέψτε τη μεταφορά:"
+
+msgid "Active:"
+msgstr "Ενεργός:"
+
+msgid "Add new top level domain"
+msgstr "Προσθήκη νέου top level domain"
+
+msgid "Setup new TLD prices and properties"
+msgstr "Ρύθμιση νέων τιμών και ιδιοτήτων TLD"
+
+msgid "Tld"
+msgstr ""
+
+msgid "Registration price"
+msgstr "Τιμή εγγραφής"
+
+msgid "Renewal price"
+msgstr "Τιμή ανανέωσης"
+
+msgid "Transfer price"
+msgstr "Τιμή μεταφοράς"
+
+msgid "Minimum years of registration"
+msgstr "Ελάχιστα έτη εγγραφής"
+
+msgid "Allow registration"
+msgstr "Επιτρέψτε την εγγραφή"
+
+msgid "Allow transfer"
+msgstr "Επιτρέψτε τη μεταφορά"
+
+msgid "Add"
+msgstr "Προσθέστε"
+
+msgid "Domain registrars"
+msgstr "Καταχωρητές τομέων"
+
+msgid "Manage domain registrars"
+msgstr "Διαχείριση καταχωρητών τομέων"
+
+msgid ""
+"Setup default nameservers that will be used for new domain registrations if "
+"client have not provided his own nameservers in order form"
+msgstr ""
+"Ρύθμιση προεπιλεγμένων διακομιστών ονομάτων που θα χρησιμοποιούνται για νέες "
+"εγγραφές τομέων εάν ο πελάτης δεν έχει παράσχει τους δικούς του διακομιστές "
+"ονομάτων στη φόρμα παραγγελίας"
+
+msgid "Update nameservers"
+msgstr "Ενημέρωση διακομιστών ονομάτων"
+
+msgid "Adding new domain registrar"
+msgstr "Προσθήκη νέου καταχωρητή domain"
+
+msgid "Follow instructions below to install new domain registrar."
+msgstr ""
+"Ακολουθήστε τις παρακάτω οδηγίες για να εγκαταστήσετε τον νέο καταχωρητή "
+"domain."
+
+msgid "Check domain registrar you are looking for is available at"
+msgstr ""
+"Ελέγξτε τον καταχωρητή domain που ψάχνετε είναι διαθέσιμος στη διεύθυνση"
+
+msgid "Download domain registrar file and place to"
+msgstr "Κατεβάστε το αρχείο του καταχωρητή domain και τοποθετήστε το στο"
+
+msgid "Reload this page to see newly detected domain registrar"
+msgstr ""
+"Επαναφορτώστε αυτή τη σελίδα για να δείτε τον πρόσφατα εντοπισμένο "
+"καταχωρητή domain"
+
+msgid ""
+"Click on install button. Now you will be able to create top level domains "
+"with new domain registrar"
+msgstr ""
+"Κάντε κλικ στο κουμπί εγκατάστασης. Τώρα θα είστε σε θέση να δημιουργήσετε "
+"domains κορυφαίου επιπέδου με νέο καταχωρητή domains"
+
+msgid "For developers. Read"
+msgstr "Για προγραμματιστές. Διαβάστε"
+
+msgid "to learn how to create your own domain registrar."
+msgstr "για να μάθετε πώς να δημιουργήσετε τον δικό σας καταχωρητή τομέων."
+
+msgid "Code"
+msgstr "Κωδικός"
+
+msgid "Install"
+msgstr "Εγκαταστήστε το"
+
+msgid "All payment gateways installed"
+msgstr "Όλες οι πύλες πληρωμών εγκατεστημένες"
+
+msgid "Transactions"
+msgstr "Συναλλαγές"
+
+msgid "Transaction"
+msgstr "Συναλλαγή"
+
+msgid "Manage"
+msgstr "Διαχείριση"
+
+msgid "IPN"
+msgstr "IPN"
+
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+msgid "Transaction details"
+msgstr "Λεπτομέρειες συναλλαγής"
+
+msgid ""
+"If you are sure that this transaction is valid you can update transaction "
+"details in &quot;Manage&quot; tab and try processing transaction again"
+msgstr ""
+"Εάν είστε βέβαιοι ότι αυτή η συναλλαγή είναι έγκυρη, μπορείτε να ενημερώσετε "
+"τα στοιχεία της συναλλαγής στην καρτέλα &quot;Διαχείριση&quot; και να "
+"προσπαθήσετε να επεξεργαστείτε ξανά τη συναλλαγή."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Invoice Id"
+msgstr "Ταυτότητα τιμολογίου"
+
+msgid "Amount"
+msgstr "Ποσό"
+
+msgid "Payment gateway"
+msgstr "Πύλη πληρωμών"
+
+msgid "Transaction ID on payment gateway"
+msgstr "Αναγνωριστικό συναλλαγής στην πύλη πληρωμών"
+
+msgid "Transaction status on payment gateway"
+msgstr "Κατάσταση συναλλαγής στην πύλη πληρωμών"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "IP"
+msgstr ""
+
+msgid "Note"
+msgstr "Σημείωση"
+
+msgid "Received at"
+msgstr "Ελήφθη στο"
+
+msgid "Updated at"
+msgstr "Ενημερώθηκε στις"
+
+msgid "Process"
+msgstr "Διαδικασία"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Invoice ID"
+msgstr "Αναγνωριστικό τιμολογίου"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Transaction processing information"
+msgstr "Πληροφορίες επεξεργασίας συναλλαγών"
+
+msgid "Payment Gateway"
+msgstr "Πύλη πληρωμών"
+
+msgid "Validate IPN"
+msgstr "Επικύρωση IPN"
+
+msgid "Transaction information on payment gateway"
+msgstr "Πληροφορίες συναλλαγής στην πύλη πληρωμών"
+
+msgid "Transaction type"
+msgstr "Τύπος συναλλαγής"
+
+msgid "Transaction status on Payment Gateway"
+msgstr "Κατάσταση συναλλαγής στην πύλη πληρωμών"
+
+msgid "Transaction ID on Payment Gateway"
+msgstr "Αναγνωριστικό συναλλαγής στην πύλη πληρωμών"
+
+msgid "Note about this transaction"
+msgstr "Σημείωση σχετικά με αυτή τη συναλλαγή"
+
+msgid "GET"
+msgstr ""
+
+msgid "No GET parameters received"
+msgstr "Δεν ελήφθησαν παράμετροι GET"
+
+msgid "POST"
+msgstr ""
+
+msgid "No POST parameters received"
+msgstr "Δεν ελήφθησαν παράμετροι POST"
+
+msgid "SERVER"
+msgstr ""
+
+msgid "No SERVER parameters logged"
+msgstr "Δεν έχουν καταγραφεί παράμετροι SERVER"
+
+msgid "Currency settings"
+msgstr "Ρυθμίσεις νομίσματος"
+
+msgid "Currencies"
+msgstr "Νομίσματα"
+
+msgid "Add new currency"
+msgstr "Προσθήκη νέου νομίσματος"
+
+msgid "Manage currencies"
+msgstr "Διαχείριση νομισμάτων"
+
+msgid ""
+"Default currency is the one you manage all your prices in admin area. If "
+"your client in client area chooses other than default currency, prices will "
+"be recalculated according to conversion rate. You can have only one default "
+"currency. You can not add same currency once again. Changing default "
+"currency is not recommended when active orders are available. Nothing is "
+"recalculated on default currency change. Your income is calculated in "
+"default currency. Changing default currency after you have paid invoices "
+"will distort income statistics. Currency rates are taken from Yahoo."
+msgstr ""
+"Το προεπιλεγμένο νόμισμα είναι αυτό που διαχειρίζεστε όλες τις τιμές σας "
+"στην περιοχή διαχείρισης. Εάν ο πελάτης σας στην περιοχή πελατών επιλέξει "
+"άλλο νόμισμα από το προεπιλεγμένο, οι τιμές θα επαναϋπολογιστούν σύμφωνα με "
+"την ισοτιμία μετατροπής. Μπορείτε να έχετε μόνο ένα προεπιλεγμένο νόμισμα. "
+"Δεν μπορείτε να προσθέσετε ξανά το ίδιο νόμισμα. Η αλλαγή του προεπιλεγμένου "
+"νομίσματος δεν συνιστάται όταν υπάρχουν ενεργές παραγγελίες. Τίποτα δεν "
+"επανυπολογίζεται κατά την αλλαγή του προεπιλεγμένου νομίσματος. Το εισόδημά "
+"σας υπολογίζεται στο προεπιλεγμένο νόμισμα. Η αλλαγή του προεπιλεγμένου "
+"νομίσματος αφού έχετε πληρώσει τα τιμολόγια θα αλλοιώσει τα στατιστικά "
+"στοιχεία του εισοδήματος. Οι ισοτιμίες των νομισμάτων λαμβάνονται από το "
+"Yahoo.\n"
+"\n"
+"Translated with www.DeepL.com/Translator (free version)"
+
+msgid "ISO code"
+msgstr "Κωδικός ISO"
+
+msgid "Conversion rate"
+msgstr "Ποσοστό μετατροπής"
+
+msgid "Example price"
+msgstr "Παράδειγμα τιμής"
+
+msgid "The list is empty"
+msgstr "Ο κατάλογος είναι άδειος"
+
+msgid "Update Rates"
+msgstr "Ενημέρωση τιμών"
+
+msgid "Format"
+msgstr "Μορφή"
+
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+msgid "Email templates"
+msgstr "Πρότυπα email"
+
+msgid "New template"
+msgstr "Νέο πρότυπο"
+
+msgid "Email settings"
+msgstr "Ρυθμίσεις email"
+
+msgid "Extension"
+msgstr "Επέκταση"
+
+msgid ""
+"The list is empty. Depending on modules enabled email templates will be "
+"inserted after first event occurrence."
+msgstr ""
+"Ο κατάλογος είναι άδειος. Ανάλογα με τις ενότητες που είναι ενεργοποιημένες, "
+"τα πρότυπα email θα εισαχθούν μετά την πρώτη εμφάνιση συμβάντος."
+
+msgid "Configure email options"
+msgstr "Διαμόρφωση επιλογών email"
+
+msgid ""
+"BoxBilling sends emails using <em>sendmail</em> by default or you can "
+"configure your own SMTP server"
+msgstr ""
+"Το BoxBilling στέλνει μηνύματα ηλεκτρονικού ταχυδρομείου χρησιμοποιώντας "
+"<em>sendmail</em> από προεπιλογή ή μπορείτε να ρυθμίσετε το δικό σας "
+"διακομιστή SMTP."
+
+msgid "Send emails per cron run (0 = unlimited)"
+msgstr ""
+"Αποστολή μηνυμάτων ηλεκτρονικού ταχυδρομείου ανά εκτέλεση cron (0 = "
+"απεριόριστα)"
+
+msgid "Max email sending time in minutes (0 = unlimited, default 5 min.)"
+msgstr ""
+"Μέγιστος χρόνος αποστολής email σε λεπτά (0 = απεριόριστος, προεπιλογή 5 "
+"λεπτά)"
+
+msgid "Cancel sending email after unsuccessful tries (0 = do not cancel)"
+msgstr ""
+"Ακύρωση αποστολής email μετά από ανεπιτυχείς προσπάθειες (0 = μην ακυρώσετε)"
+
+msgid "Log sent emails to database"
+msgstr "Καταγραφή απεσταλμένων email στη βάση δεδομένων"
+
+msgid "Email transport"
+msgstr "Μεταφορά μέσω ηλεκτρονικού ταχυδρομείου"
+
+msgid "SendMail"
+msgstr ""
+
+msgid "SMTP"
+msgstr ""
+
+msgid "SMTP Hostname"
+msgstr "Όνομα κεντρικού υπολογιστή SMTP"
+
+msgid "SMTP Port"
+msgstr "Θύρα SMTP"
+
+msgid "SMTP Username"
+msgstr "Όνομα χρήστη SMTP"
+
+msgid "SMTP Password"
+msgstr "Κωδικός πρόσβασης SMTP"
+
+msgid "SMTP Security"
+msgstr "Ασφάλεια SMTP"
+
+msgid "Update email settings"
+msgstr "Ενημέρωση ρυθμίσεων email"
+
+msgid "Send test email to staff members"
+msgstr "Αποστολή δοκιμαστικού email σε μέλη του προσωπικού"
+
+msgid "Where I can use new email template?"
+msgstr "Πού μπορώ να χρησιμοποιήσω το νέο πρότυπο email;"
+
+msgid "Newly created email templates can be used in custom event hooks."
+msgstr ""
+"Τα πρόσφατα δημιουργημένα πρότυπα email μπορούν να χρησιμοποιηθούν σε "
+"προσαρμοσμένα άγκιστρα συμβάντων."
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Action code"
+msgstr "Κωδικός δράσης"
+
+msgid "Subject"
+msgstr "Θέμα"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Forum settings"
+msgstr "Ρυθμίσεις φόρουμ"
+
+msgid "Forum points"
+msgstr "Σημεία φόρουμ"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Give points for posting in selected forums"
+msgstr "Δώστε πόντους για αναρτήσεις σε επιλεγμένα φόρουμ"
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgid "Incorrect please try again"
+msgstr "Λάθος παρακαλώ δοκιμάστε ξανά"
+
+msgid "Enter the words above"
+msgstr "Εισάγετε τις παραπάνω λέξεις"
+
+msgid "Send"
+msgstr "Στείλτε"
+
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+msgid "New note"
+msgstr "Νέα σημείωση"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Are you sure?"
+msgstr "Είσαι σίγουρος;"
+
+msgid "Delete all messages"
+msgstr "Διαγραφή όλων των μηνυμάτων"
+
+msgid "Add note or todo task"
+msgstr "Προσθήκη σημείωσης ή εργασίας todo"
+
+msgid "Add note"
+msgstr "Προσθήκη σημείωσης"
+
+msgid "Domain configuration"
+msgstr "Διαμόρφωση τομέα"
+
+msgid "Subdomain"
+msgstr "Υποτομέας"
+
+msgid "Host my own domain"
+msgstr "Να φιλοξενήσω το δικό μου domain"
+
+msgid "Product promotions"
+msgstr "Προωθητικές ενέργειες προϊόντων"
+
+msgid "Promo"
+msgstr "Promo"
+
+msgid "New promo"
+msgstr "Νέα προωθητική ενέργεια"
+
+msgid "Discount"
+msgstr "Έκπτωση"
+
+msgid "Applies to"
+msgstr "Ισχύει για"
+
+msgid "Client groups"
+msgstr "Ομάδες πελατών"
+
+msgid "Valid period"
+msgstr "Ισχύουσα περίοδος"
+
+msgid "Usage"
+msgstr "Χρήση"
+
+msgid "Create new coupon code"
+msgstr "Δημιουργία νέου κωδικού κουπονιού"
+
+msgid "Create special offers for your clients by creating coupon codes."
+msgstr ""
+"Δημιουργήστε ειδικές προσφορές για τους πελάτες σας δημιουργώντας κωδικούς "
+"κουπονιών."
+
+msgid "Discount type"
+msgstr "Τύπος έκπτωσης"
+
+msgid "Absolute"
+msgstr "Απόλυτη"
+
+msgid "Percentage"
+msgstr "Ποσοστό"
+
+msgid "Recurring"
+msgstr "Επαναλαμβανόμενο"
+
+msgid "Free setup"
+msgstr "Δωρεάν εγκατάσταση"
+
+msgid "Promo code limitations"
+msgstr "Περιορισμοί του κωδικού προσφοράς"
+
+msgid "Once per client"
+msgstr "Μία φορά ανά πελάτη"
+
+msgid "Max uses (zero for unlimited)"
+msgstr "Μέγιστες χρήσεις (μηδέν για απεριόριστες)"
+
+msgid "Valid time (Leave blank for undefined time)"
+msgstr "Ισχύουσα ώρα (Αφήστε κενό για απροσδιόριστη ώρα)"
+
+msgid "Products (Select none to apply to all products)"
+msgstr "Προϊόντα (Επιλέξτε κανένα για να ισχύει για όλα τα προϊόντα)"
+
+msgid "Periods (Select none to apply to all periods)"
+msgstr "Περίοδοι (Επιλέξτε καμία για να εφαρμοστεί σε όλες τις περιόδους)"
+
+msgid "Client Groups (Select none to apply to all client groups)"
+msgstr ""
+"Ομάδες πελατών (Επιλέξτε καμία για να ισχύει για όλες τις ομάδες πελατών)"
+
+msgid "Processing payment ..."
+msgstr "Επεξεργασία πληρωμής ..."
+
+msgid "Thank you for your patience."
+msgstr "Σας ευχαριστώ για την υπομονή σας."
+
+msgid "Redirecting to payment gateway.."
+msgstr "Επανακατεύθυνση στην πύλη πληρωμής.."
+
+msgid ""
+"Please click here to continue if this page does not redirect automatically "
+"in 5 seconds"
+msgstr ""
+"Κάντε κλικ εδώ για να συνεχίσετε αν αυτή η σελίδα δεν ανακατευθυνθεί "
+"αυτόματα σε 5 δευτερόλεπτα"
+
+msgid "Hosting plans and servers"
+msgstr "Πακέτα φιλοξενίας και διακομιστές"
+
+msgid "New server"
+msgstr "Νέος διακομιστής"
+
+msgid "New hosting plan"
+msgstr "Νέο πακέτο φιλοξενίας"
+
+msgid "Servers"
+msgstr "Εξυπηρετητές"
+
+msgid "Server manager"
+msgstr "Διαχειριστής διακομιστή"
+
+msgid "Hosting plans"
+msgstr "Προγράμματα φιλοξενίας"
+
+msgid "Addon domains"
+msgstr "Πρόσθετοι τομείς"
+
+msgid "Disk space"
+msgstr "Χώρος στο δίσκο"
+
+msgid "Bandwidth"
+msgstr "Εύρος ζώνης"
+
+msgid "Unique name to identify this server"
+msgstr "Μοναδικό όνομα για την ταυτοποίηση αυτού του διακομιστή"
+
+msgid "Hostname"
+msgstr "Όνομα κεντρικού υπολογιστή"
+
+msgid "server1.yourserverdomain.com"
+msgstr ""
+
+msgid ""
+"Primary IP address of the server used to connect to it like: 123.123.123.123"
+msgstr ""
+"Πρωτεύουσα διεύθυνση IP του διακομιστή που χρησιμοποιείται για τη σύνδεσή "
+"του, όπως: 123.123.123.123"
+
+msgid "Assigned IP Addresses"
+msgstr "Εκχωρημένες διευθύνσεις IP"
+
+msgid "List the IP Addresses assigned to the server (One per line)"
+msgstr ""
+"Καταγράψτε τις διευθύνσεις IP που έχουν εκχωρηθεί στο διακομιστή (μία ανά "
+"γραμμή)"
+
+msgid "Enable/Disable"
+msgstr "Ενεργοποίηση/Απενεργοποίηση"
+
+msgid "ns1.yourdomain.com"
+msgstr ""
+
+msgid "ns2.yourdomain.com"
+msgstr ""
+
+msgid "ns3.yourdomain.com"
+msgstr ""
+
+msgid "ns4.yourdomain.com"
+msgstr ""
+
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgid "Login username to your server: root/reseller"
+msgstr "Όνομα χρήστη στον διακομιστή σας: root/reseller"
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Login password to your server"
+msgstr "Κωδικός πρόσβασης στο διακομιστή σας"
+
+msgid "Access Hash (Instead of password for cPanel servers)"
+msgstr "Access Hash (Αντί κωδικού πρόσβασης για διακομιστές cPanel)"
+
+msgid "Use Secure connection"
+msgstr "Χρήση ασφαλούς σύνδεσης"
+
+msgid "Add server"
+msgstr "Προσθήκη διακομιστή"
+
+msgid "Adding new hosting plan"
+msgstr "Προσθήκη νέου πακέτου φιλοξενίας"
+
+msgid ""
+"Depending on server manager used to setup hosting account you may require "
+"provide additional parameters in next step. In this step provide basic "
+"hosting plan information."
+msgstr ""
+"Ανάλογα με τον διαχειριστή διακομιστή που χρησιμοποιήθηκε για τη ρύθμιση του "
+"λογαριασμού φιλοξενίας, ενδέχεται να χρειαστεί να παρέχετε πρόσθετες "
+"παραμέτρους στο επόμενο βήμα. Σε αυτό το βήμα δώστε τις βασικές πληροφορίες "
+"του προγράμματος φιλοξενίας."
+
+msgid "Unique name to identify this hosting plan"
+msgstr "Μοναδικό όνομα για την αναγνώριση αυτού του πακέτου φιλοξενίας"
+
+msgid "Disk quota (MB)"
+msgstr "Ποσοστό δίσκου (MB)"
+
+msgid "Bandwidth (MB)"
+msgstr "Εύρος ζώνης (MB)"
+
+msgid "Create hosting plan"
+msgstr "Δημιουργία πακέτου φιλοξενίας"
+
+msgid "Tax rules"
+msgstr "Φορολογικοί κανόνες"
+
+msgid "New tax rule"
+msgstr "Νέος φορολογικός κανόνας"
+
+msgid "Tax settings"
+msgstr "Φορολογικές ρυθμίσεις"
+
+msgid "EU VAT"
+msgstr ""
+
+msgid "State/Region"
+msgstr "Πολιτεία/Περιφέρεια"
+
+msgid "Tax rate"
+msgstr "Φορολογικός συντελεστής"
+
+msgid "Actions"
+msgstr "Δράσεις"
+
+msgid "Applies to any country"
+msgstr "Ισχύει για κάθε χώρα"
+
+msgid "Applies to any state"
+msgstr "Ισχύει για κάθε κράτος"
+
+msgid "Enable tax support"
+msgstr "Ενεργοποίηση φορολογικής υποστήριξης"
+
+msgid "Automatic VAT Tax Rules Setup"
+msgstr "Αυτόματη ρύθμιση φορολογικών κανόνων ΦΠΑ"
+
+msgid ""
+"If you would like BoxBilling to automatically setup the EU VAT tax rules for "
+"you for all EU Member States then simply enter your VAT Label & local VAT "
+"rate below and click the submit button. <strong>This action will delete any "
+"existing tax rules</strong> and configure the VAT rates for all EU countries."
+msgstr ""
+"Εάν θέλετε το BoxBilling να ρυθμίσει αυτόματα τους κανόνες ΦΠΑ της ΕΕ για "
+"εσάς για όλα τα κράτη μέλη της ΕΕ, τότε απλά εισάγετε την ετικέτα ΦΠΑ και "
+"τον τοπικό συντελεστή ΦΠΑ παρακάτω και κάντε κλικ στο κουμπί υποβολής. "
+"<strong>Αυτή η ενέργεια θα διαγράψει τυχόν υπάρχοντες φορολογικούς κανόνες</"
+"strong> και θα ρυθμίσει τους συντελεστές ΦΠΑ για όλες τις χώρες της ΕΕ."
+
+msgid "Tax title"
+msgstr "Φορολογικός τίτλος"
+
+msgid "sales Tax"
+msgstr "Φόρος επί των πωλήσεων"
+
+msgid "18"
+msgstr ""
+
+msgid "Leave empty to apply to all states"
+msgstr "Αφήστε το κενό για να ισχύει για όλα τα κράτη"
+
+msgid "Example module"
+msgstr "Παράδειγμα ενότητας"
+
+msgid "Example module title"
+msgstr "Παράδειγμα τίτλου ενότητας"
+
+msgid "This is an example extension content"
+msgstr "Αυτό είναι ένα παράδειγμα περιεχομένου επέκτασης"
+
+msgid "Parameters from Controller"
+msgstr "Παράμετροι από τον ελεγκτή"
+
+msgid "Parameters from URL"
+msgstr "Παράμετροι από τη διεύθυνση URL"
+
+msgid "API example"
+msgstr "Παράδειγμα API"
+
+msgid "README"
+msgstr "README"
+
+msgid "Manage hosting account"
+msgstr "Διαχείριση λογαριασμού φιλοξενίας"
+
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+msgid "Domain"
+msgstr "Τομέας"
+
+msgid "Server IP"
+msgstr "IP διακομιστή"
+
+msgid "Server Hostname"
+msgstr "Όνομα κεντρικού υπολογιστή"
+
+msgid "Hosting plan"
+msgstr "Πρόγραμμα φιλοξενίας"
+
+msgid "per month"
+msgstr "ανά μήνα"
+
+msgid "Disk quota"
+msgstr "Ποσοστό δίσκου"
+
+msgid "Manage domain"
+msgstr "Διαχείριση τομέα"
+
+msgid "Jump to cPanel"
+msgstr "Μετάβαση στο cPanel"
+
+msgid "Reseller control panel"
+msgstr "Πίνακας ελέγχου μεταπωλητών"
+
+msgid "Change your FTP/cPanel/SSH password."
+msgstr "Αλλάξτε τον κωδικό πρόσβασης FTP/cPanel/SSH."
+
+msgid "Password Confirm"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+msgid "Change password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+msgid "Change domain"
+msgstr "Αλλαγή τομέα"
+
+msgid "New domain"
+msgstr "Νέος τομέας"
+
+msgid "Change username"
+msgstr "Αλλαγή ονόματος χρήστη"
+
+msgid "Subscriptions"
+msgstr "Συνδρομές"
+
+msgid "New subscription"
+msgstr "Νέα συνδρομή"
+
+msgid "Start typing clients name, email or ID"
+msgstr "Ξεκινήστε να πληκτρολογείτε το όνομα, το email ή το ID των πελατών"
+
+msgid "Subscription ID on payment gateway"
+msgstr "Αναγνωριστικό συνδρομής στην πύλη πληρωμών"
+
+msgid "Canceled"
+msgstr "Ακυρώθηκε"
+
+msgid "Period"
+msgstr "Περίοδος"
+
+msgid "Addons & extras"
+msgstr "Addons & πρόσθετα"
+
+msgid "Order now"
+msgstr "Παραγγείλετε τώρα"
+
+msgid "License"
+msgstr "Άδεια"
+
+msgid "Module settings"
+msgstr "Ρυθμίσεις ενότητας"
+
+msgid "Edit bb-config.php file"
+msgstr "Επεξεργαστείτε το αρχείο bb-config.php"
+
+msgid "Licensed to"
+msgstr "Άδεια χρήσης σε"
+
+msgid "Key"
+msgstr ""
+
+msgid "Expires at"
+msgstr "Λήγει στις"
+
+msgid "Create main administrator account"
+msgstr "Δημιουργία κύριου λογαριασμού διαχειριστή"
+
+msgid "Enter your email address"
+msgstr "Εισάγετε τη διεύθυνση email σας"
+
+msgid "Enter your password"
+msgstr "Εισάγετε τον κωδικό πρόσβασής σας"
+
+msgid "Create administrator account"
+msgstr "Δημιουργία λογαριασμού διαχειριστή"
+
+msgid "Remember me"
+msgstr "Να με θυμάσαι"
+
+msgid "Log me in"
+msgstr "Συνδεθείτε"
+
+msgid "Stock control settings"
+msgstr "Ρυθμίσεις ελέγχου αποθεμάτων"
+
+msgid "Enable stock control"
+msgstr "Ενεργοποίηση ελέγχου αποθεμάτων"
+
+msgid "Allow quantity select on order form"
+msgstr "Επιτρέψτε την επιλογή ποσότητας στη φόρμα παραγγελίας"
+
+msgid "Quantity in stock"
+msgstr "Ποσότητα σε απόθεμα"
+
+msgid "Plugin name"
+msgstr "Όνομα plugin"
+
+msgid "Update configuration fields"
+msgstr "Ενημέρωση πεδίων διαμόρφωσης"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Canned responses"
+msgstr "Κονσερβοποιημένες απαντήσεις"
+
+msgid "New response"
+msgstr "Νέα απάντηση"
+
+msgid "New category"
+msgstr "Νέα κατηγορία"
+
+msgid "Delete selected"
+msgstr "Διαγραφή επιλεγμένου"
+
+msgid "Sign up"
+msgstr "Εγγραφείτε"
+
+msgid "Account has been created"
+msgstr "Ο λογαριασμός έχει δημιουργηθεί"
+
+msgid "Please check your mailbox and confirm email address"
+msgstr ""
+"Ελέγξτε το γραμματοκιβώτιό σας και επιβεβαιώστε τη διεύθυνση ηλεκτρονικού "
+"ταχυδρομείου"
+
+msgid "First Name"
+msgstr "Όνομα"
+
+msgid "You are"
+msgstr "Είστε"
+
+msgid "Address 2"
+msgstr "Διεύθυνση 2"
+
+msgid "-- Select country --"
+msgstr "-- Επιλέξτε χώρα --"
+
+msgid "Zip/Postal Code"
+msgstr "Ταχυδρομικός/ταχυδρομικός κώδικας"
+
+msgid "Phone Number"
+msgstr "Αριθμός τηλεφώνου"
+
+msgid "Password confirm"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+msgid "YouHosting settings"
+msgstr "Ρυθμίσεις φιλοξενίας"
+
+msgid "Advanced"
+msgstr "Προχωρημένο"
+
+msgid "Your IP"
+msgstr "Η IP σας"
+
+msgid "WebHook URL"
+msgstr "URL WebHook"
+
+msgid "Api Key"
+msgstr ""
+
+msgid "Update settings"
+msgstr "Ενημέρωση ρυθμίσεων"
+
+msgid "Check connection"
+msgstr "Έλεγχος σύνδεσης"
+
+msgid "Import clients"
+msgstr "Εισαγωγή πελατών"
+
+msgid "Import clients, accounts and products"
+msgstr "Εισαγωγή πελατών, λογαριασμών και προϊόντων"
+
+msgid "Allowed IPs for Webhook listener"
+msgstr "Επιτρεπόμενες IP για τον ακροατή Webhook"
+
+msgid "Client Area"
+msgstr "Περιοχή πελάτη"
+
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+msgid "Tickets waiting your reply"
+msgstr "Εισιτήρια σε αναμονή της απάντησής σας"
+
+msgid "Id"
+msgstr ""
+
+msgid "Help desk"
+msgstr "Γραφείο βοήθειας"
+
+msgid "Submitted"
+msgstr "Υποβλήθηκε"
+
+msgid "Reply"
+msgstr "Απάντηση"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Balance"
+msgstr "Υπόλοιπο"
+
+msgid "Invoices"
+msgstr "Τιμολόγια"
+
+msgid "All Invoices"
+msgstr "Όλα τα τιμολόγια"
+
+msgid "Paid"
+msgstr "Πληρωμένο"
+
+msgid "Unpaid"
+msgstr "Απλήρωτη"
+
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+msgid "New order"
+msgstr "Νέα παραγγελία"
+
+msgid "All orders"
+msgstr "Όλες οι παραγγελίες"
+
+msgid "Expiring"
+msgstr "Λήξη"
+
+msgid "Tickets"
+msgstr "Εισιτήρια"
+
+msgid "New ticket"
+msgstr "Νέο εισιτήριο"
+
+msgid "All tickets"
+msgstr "Όλα τα εισιτήρια"
+
+msgid "Open"
+msgstr "Ανοιχτό"
+
+msgid "On Hold"
+msgstr "Σε αναμονή"
+
+msgid "Recent orders"
+msgstr "Πρόσφατες παραγγελίες"
+
+msgid "Recent emails"
+msgstr "Πρόσφατα emails"
+
+msgid "ago"
+msgstr "πριν"
+
+msgid "Filter transactions"
+msgstr "Φίλτρο συναλλαγών"
+
+msgid "ID on payment gateway"
+msgstr "ID στην πύλη πληρωμών"
+
+msgid "Filter"
+msgstr "Φίλτρο"
+
+msgid "Processed"
+msgstr "Επεξεργασμένο"
+
+msgid "Approved"
+msgstr "Εγκεκριμένο"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "API"
+msgstr ""
+
+msgid "Gravatar"
+msgstr ""
+
+msgid "Profile updated"
+msgstr "Ενημέρωση προφίλ"
+
+msgid "Signature"
+msgstr "Υπογραφή"
+
+msgid "Password changed"
+msgstr "Ο κωδικός πρόσβασης άλλαξε"
+
+msgid "API Key"
+msgstr ""
+
+msgid ""
+"API key allows integration with external applications. You will need this "
+"key for authentication."
+msgstr ""
+"Το κλειδί API επιτρέπει την ενσωμάτωση με εξωτερικές εφαρμογές. Θα "
+"χρειαστείτε αυτό το κλειδί για τον έλεγχο ταυτότητας."
+
+msgid ""
+"External application can control every aspect of BoxBilling using this API "
+"key."
+msgstr ""
+"Η εξωτερική εφαρμογή μπορεί να ελέγχει κάθε πτυχή του BoxBilling "
+"χρησιμοποιώντας αυτό το κλειδί API."
+
+msgid "Warning! Resetting the key will break existing applications using it."
+msgstr ""
+"Προειδοποίηση! Η επαναφορά του κλειδιού θα διακόψει τις υπάρχουσες εφαρμογές "
+"που το χρησιμοποιούν."
+
+msgid "Generate new key"
+msgstr "Δημιουργία νέου κλειδιού"
+
+msgid "Change your avatar at"
+msgstr "Αλλάξτε το avatar σας στο"
+
+msgid "Import existing"
+msgstr "Εισαγωγή υφιστάμενων"
+
+msgid "Account Id"
+msgstr "Αναγνωριστικό λογαριασμού"
+
+msgid "Support settings"
+msgstr "Ρυθμίσεις υποστήριξης"
+
+msgid "Helpdesk -"
+msgstr "Helpdesk -"
+
+msgid "Support help desk"
+msgstr "Γραφείο βοήθειας υποστήριξης"
+
+msgid ""
+"Help desk name will be visible for clients when submitting new ticket. "
+"Define very large number of hours to disable auto close ticket option"
+msgstr ""
+"Το όνομα του γραφείου βοήθειας θα είναι ορατό για τους πελάτες κατά την "
+"υποβολή νέου εισιτηρίου. Ορίστε πολύ μεγάλο αριθμό ωρών για να "
+"απενεργοποιήσετε την επιλογή αυτόματου κλεισίματος εισιτηρίου"
+
+msgid "Close after"
+msgstr "Κλείστε μετά"
+
+msgid "Can reopen"
+msgstr "Μπορεί να ανοίξει ξανά"
+
+msgid "Terms and Conditions"
+msgstr "Όροι και Προϋποθέσεις"
+
+msgid "Back to Homepage"
+msgstr "Επιστροφή στην αρχική σελίδα"
+
+msgid "Staff"
+msgstr "Προσωπικό"
+
+msgid "New staff member"
+msgstr "Νέο μέλος του προσωπικού"
+
+msgid "Manage groups"
+msgstr "Διαχείριση ομάδων"
+
+msgid "New group"
+msgstr "Νέα ομάδα"
+
+msgid "Group"
+msgstr "Ομάδα"
+
+msgid "Check login IP"
+msgstr "Έλεγχος σύνδεσης IP"
+
+msgid "Allowed IPs. One per line"
+msgstr "Επιτρεπόμενες IPs. Μία ανά γραμμή"
+
+msgid "Inactive"
+msgstr "Ανενεργό"
+
+msgid "Create group"
+msgstr "Δημιουργία ομάδας"
+
+msgid "Staff members logins history"
+msgstr "Ιστορικό συνδέσεων μελών του προσωπικού"
+
+msgid "Admin"
+msgstr "Διαχειριστής"
+
+msgid "SolusVM configuration"
+msgstr "Διαμόρφωση SolusVM"
+
+msgid "Virtualization type"
+msgstr "Τύπος εικονικοποίησης"
+
+msgid "Node"
+msgstr "Κόμβος"
+
+msgid ""
+"Make sure BoxBilling can connect to SolusVM master server and check if nodes "
+"are configured for selected virtualizator type. Refresh page if you have "
+"changed virtualization type to see new nodes."
+msgstr ""
+"Βεβαιωθείτε ότι το BoxBilling μπορεί να συνδεθεί στον κύριο διακομιστή "
+"SolusVM και ελέγξτε αν οι κόμβοι έχουν ρυθμιστεί για τον επιλεγμένο τύπο "
+"virtualizator. Ανανεώστε τη σελίδα αν έχετε αλλάξει τύπο εικονικοποίησης για "
+"να δείτε τους νέους κόμβους."
+
+msgid "Plan"
+msgstr "Σχέδιο"
+
+msgid ""
+"Make sure BoxBilling can connect to SolusVM master server and check if plans "
+"are configured for selected virtualizator type."
+msgstr ""
+"Βεβαιωθείτε ότι το BoxBilling μπορεί να συνδεθεί στον κύριο διακομιστή "
+"SolusVM και ελέγξτε αν τα σχέδια έχουν ρυθμιστεί για τον επιλεγμένο τύπο "
+"virtualizator."
+
+msgid "Plan parameters"
+msgstr "Παράμετροι σχεδίου"
+
+msgid "IPs amount"
+msgstr "Ποσό IPs"
+
+msgid "Guaranteed RAM"
+msgstr "Εγγυημένη μνήμη RAM"
+
+msgid "Hdd Space"
+msgstr "Χώρος Hdd"
+
+msgid "CPU cores"
+msgstr "Πυρήνες CPU"
+
+msgid "Custom extraip"
+msgstr "Προσαρμοσμένο extraip"
+
+msgid "HVMT"
+msgstr ""
+
+msgid "Issue cPanel License"
+msgstr "Έκδοση άδειας cPanel"
+
+msgid "Dedicated CPU"
+msgstr "Αφιερωμένη CPU"
+
+msgid "Dedicated RAM"
+msgstr "Αφιερωμένη μνήμη RAM"
+
+msgid "Network transfer"
+msgstr "Μεταφορά μέσω δικτύου"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Posts"
+msgstr "Δημοσιεύσεις"
+
+msgid "Topics"
+msgstr "Θέματα"
+
+msgid "Forums"
+msgstr "Φόρουμ"
+
+msgid "New topic"
+msgstr "Νέο θέμα"
+
+msgid "New forum"
+msgstr "Νέο φόρουμ"
+
+msgid "Replies"
+msgstr "Απαντήσεις"
+
+msgid "Views"
+msgstr "Προβολές"
+
+msgid "Sticky"
+msgstr "Αυτοκόλλητο"
+
+msgid "Locked"
+msgstr "Κλειδωμένο"
+
+msgid "Sorting"
+msgstr "Ταξινόμηση"
+
+msgid "Knowledge Base"
+msgstr "Βάση γνώσεων"
+
+msgid "Articles"
+msgstr "Άρθρα"
+
+msgid "New article"
+msgstr "Νέο άρθρο"
+
+msgid "Manage categories"
+msgstr "Διαχείριση κατηγοριών"
+
+msgid "Draft"
+msgstr "Σχέδιο"
+
+msgid "Category created"
+msgstr "Κατηγορία που δημιουργήθηκε"
+
+msgid "Membership settings"
+msgstr "Ρυθμίσεις μελών"
+
+msgid "Membership service does not have any configuration options"
+msgstr "Η υπηρεσία ιδιότητας μέλους δεν έχει επιλογές διαμόρφωσης"
+
+msgid "Recent posts"
+msgstr "Πρόσφατες αναρτήσεις"
+
+msgid "Enable forum points feature in extension configuration page"
+msgstr ""
+"Ενεργοποίηση της δυνατότητας σημείων φόρουμ στη σελίδα διαμόρφωσης επέκτασης"
+
+msgid "Order Button settings"
+msgstr "Ρυθμίσεις κουμπιού παραγγελίας"
+
+msgid "Order window settings"
+msgstr "Ρυθμίσεις παραθύρου παραγγελίας"
+
+msgid "Advanced settings"
+msgstr "Προηγμένες ρυθμίσεις"
+
+msgid "Order popup settings"
+msgstr "Ρυθμίσεις αναδυόμενου παραγγελιών"
+
+msgid "Configure how your popup window will look like"
+msgstr "Διαμορφώστε πώς θα μοιάζει το αναδυόμενο παράθυρό σας"
+
+msgid "Theme color"
+msgstr "Χρώμα θέματος"
+
+msgid "Green"
+msgstr "Πράσινο"
+
+msgid "Red"
+msgstr "Κόκκινο"
+
+msgid "Blue"
+msgstr "Μπλε"
+
+msgid "Dark"
+msgstr "Σκούρο"
+
+msgid "Border radius"
+msgstr "Ακτίνα συνόρων"
+
+msgid "Background"
+msgstr ""
+
+msgid "Color"
+msgstr "Χρώμα"
+
+msgid "Opacity"
+msgstr "Αδιαφάνεια"
+
+msgid "Loader (while content of popup is being loaded)"
+msgstr "Φορτωτής (ενώ φορτώνεται το περιεχόμενο του αναδυόμενου παραθύρου)"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "Close (ESC key by default)"
+msgstr "Κλείσιμο (πλήκτρο ESC από προεπιλογή)"
+
+msgid "Click on background closes popup"
+msgstr "Το κλικ στο φόντο κλείνει το αναδυόμενο παράθυρο"
+
+msgid "Show values of custom form before checkout"
+msgstr "Εμφάνιση τιμών της προσαρμοσμένης φόρμας πριν από το checkout"
+
+msgid "User input will be shown before checkout for custom form"
+msgstr ""
+"Η είσοδος του χρήστη θα εμφανιστεί πριν το checkout για την προσαρμοσμένη "
+"φόρμα"
+
+msgid "Order Button code"
+msgstr "Παραγγελία Κωδικός κουμπιού"
+
+msgid "Clicking on html element with classname or ID"
+msgstr "Κάνοντας κλικ σε στοιχείο html με όνομα κλάσης ή ID"
+
+msgid "will open popup window for"
+msgstr "θα ανοίξει αναδυόμενο παράθυρο για"
+
+msgid "symbols"
+msgstr "σύμβολα"
+
+msgid "IMPORTANT"
+msgstr "ΣΗΜΑΝΤΙΚΟ"
+
+msgid ""
+"You need to add ID (if you want to use it for one html element) or class (if "
+"you want to use it for multiple elements) in order for it to work"
+msgstr ""
+"Πρέπει να προσθέσετε ID (αν θέλετε να το χρησιμοποιήσετε για ένα στοιχείο "
+"html) ή class (αν θέλετε να το χρησιμοποιήσετε για πολλαπλά στοιχεία) για να "
+"λειτουργήσει."
+
+msgid ""
+"Add order-button class to your elements which must call popup. For example: "
+msgstr ""
+"Προσθέστε την κλάση order-button στα στοιχεία σας που πρέπει να καλέσουν το "
+"popup. Για παράδειγμα: "
+
+msgid ""
+"Add data-product attribute to your element to open specific product. For "
+"example:<br/>"
+msgstr ""
+"Προσθέστε το χαρακτηριστικό data-product στο στοιχείο σας για να ανοίξετε το "
+"συγκεκριμένο προϊόν. Για παράδειγμα:<br/>"
+
+msgid ""
+"data-product attribute value will be overiden if popup's product is selected "
+"from select-box above"
+msgstr ""
+"Η τιμή του χαρακτηριστικού data-product θα είναι overiden εάν το προϊόν του "
+"αναδυόμενου παραθύρου έχει επιλεγεί από το παραπάνω πλαίσιο επιλογής"
+
+msgid "Copy this code to your website"
+msgstr "Αντιγράψτε αυτόν τον κώδικα στον ιστότοπό σας"
+
+msgid "Try your popup"
+msgstr "Δοκιμάστε το αναδυόμενο παράθυρό σας"
+
+msgid "It must start with dot(.) if it is classname or with a hashtag(#)"
+msgstr "Πρέπει να ξεκινάει με τελεία(.) αν είναι classname ή με hashtag(#)"
+
+msgid ""
+"Add \"+selector+\" class to your elements which must call popup. For "
+"example: "
+msgstr ""
+"Προσθέστε την κλάση \"+selector+\" στα στοιχεία σας που πρέπει να καλέσουν "
+"το popup. Για παράδειγμα: "
+
+msgid ""
+"Add \"+selector+\" ID to your element which must call popup. For example: "
+msgstr ""
+"Προσθέστε το αναγνωριστικό \"+selector+\" στο στοιχείο σας που πρέπει να "
+"καλεί το αναδυόμενο παράθυρο. Για παράδειγμα: "
+
+msgid "Email history"
+msgstr "Ιστορικό ηλεκτρονικού ταχυδρομείου"
+
+msgid "INFORMATION"
+msgstr "ΠΛΗΡΟΦΟΡΙΕΣ"
+
+msgid ""
+"Email logging is not enabled. If you want to log sent mails to database, "
+"enable it in"
+msgstr ""
+"Η καταγραφή μέσω ηλεκτρονικού ταχυδρομείου δεν είναι ενεργοποιημένη. Αν "
+"θέλετε να καταγράφετε τα αποσταλμένα μηνύματα στη βάση δεδομένων, "
+"ενεργοποιήστε το στο"
+
+msgid "email settings."
+msgstr "ρυθμίσεις email."
+
+msgid "To"
+msgstr "Προς"
+
+msgid "From"
+msgstr "Από το"
+
+msgid "Node / ID / VMID"
+msgstr "Κόμβος / ID / VMID"
+
+msgid "Operating System"
+msgstr "Λειτουργικό σύστημα"
+
+msgid "IP address"
+msgstr "Διεύθυνση IP"
+
+msgid "Additional IP addresses"
+msgstr "Πρόσθετες διευθύνσεις IP"
+
+msgid "Root password"
+msgstr "Κωδικός πρόσβασης ρίζας"
+
+msgid "Client area username / password"
+msgstr "Όνομα χρήστη / κωδικός πρόσβασης περιοχής πελάτη"
+
+msgid "Console user / password"
+msgstr "Χρήστης / κωδικός πρόσβασης κονσόλας"
+
+msgid "Client area"
+msgstr "Περιοχή πελατών"
+
+msgid "Admin area"
+msgstr "Περιοχή διαχειριστή"
+
+msgid "Change root password"
+msgstr "Αλλαγή κωδικού πρόσβασης root"
+
+msgid "New password"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "Change"
+msgstr "Αλλαγή"
+
+msgid "Change hostname"
+msgstr "Αλλαγή ονόματος κεντρικού υπολογιστή"
+
+msgid "New hostname"
+msgstr "Νέο όνομα κεντρικού υπολογιστή"
+
+msgid "Change plan"
+msgstr "Σχέδιο αλλαγής"
+
+msgid "New plan"
+msgstr "Νέο σχέδιο"
+
+msgid "Rebuild"
+msgstr "Ανακατασκευή"
+
+msgid "Usage statistics"
+msgstr "Στατιστικά στοιχεία χρήσης"
+
+msgid "Used"
+msgstr "Μεταχειρισμένο"
+
+msgid "Free"
+msgstr ""
+
+msgid "Memory"
+msgstr "Μνήμη"
+
+msgid "Disk usage"
+msgstr "Χρήση δίσκου"
+
+msgid "Traffic"
+msgstr "Κυκλοφορία"
+
+msgid "Load"
+msgstr "Φορτίο"
+
+msgid ""
+"Master node is offline, order is not yet activated or API is not configured "
+"properly."
+msgstr ""
+"Ο κύριος κόμβος είναι εκτός σύνδεσης, η παραγγελία δεν έχει ακόμη "
+"ενεργοποιηθεί ή το API δεν έχει ρυθμιστεί σωστά."
+
+msgid "Service management"
+msgstr "Διαχείριση υπηρεσιών"
+
+msgid "Changing settings does not send actions to SolusVM server."
+msgstr "Η αλλαγή των ρυθμίσεων δεν στέλνει ενέργειες στο διακομιστή SolusVM."
+
+msgid "Template"
+msgstr "Πρότυπο"
+
+msgid "Main IP address"
+msgstr "Κύρια διεύθυνση IP"
+
+msgid "New payment gateway"
+msgstr "Νέα πύλη πληρωμών"
+
+msgid "Allow subscriptions"
+msgstr "Επιτρέψτε τις συνδρομές"
+
+msgid "Adding new payment gateway"
+msgstr "Προσθήκη νέας πύλης πληρωμών"
+
+msgid ""
+"Although BoxBilling ships with most popular payment gateways, you can "
+"install other gateways."
+msgstr ""
+"Παρόλο που το BoxBilling συνοδεύεται από τις πιο δημοφιλείς πύλες πληρωμών, "
+"μπορείτε να εγκαταστήσετε και άλλες πύλες."
+
+msgid "Follow these instructions to install new payment gateway."
+msgstr ""
+"Ακολουθήστε αυτές τις οδηγίες για να εγκαταστήσετε τη νέα πύλη πληρωμών."
+
+msgid "Check for payment gateway at"
+msgstr "Ελέγξτε για πύλη πληρωμών στο"
+
+msgid "for more payment gateways"
+msgstr "για περισσότερες πύλες πληρωμών"
+
+msgid "Download payment gateway extension file and place it to"
+msgstr "Κατεβάστε το αρχείο επέκτασης πύλης πληρωμών και τοποθετήστε το στο"
+
+msgid "After file is uploaded in place, reload this page."
+msgstr ""
+"Αφού το αρχείο μεταφορτωθεί στη θέση του, επαναφορτώστε αυτή τη σελίδα."
+
+msgid "Select uploaded file name and click on install."
+msgstr "Επιλέξτε το όνομα του ανεβασμένου αρχείου και κάντε κλικ στο install."
+
+msgid ""
+"Payment gateway will be installed in BoxBilling and can be configured in "
+"\"Payment gateways\" tab."
+msgstr ""
+"Η πύλη πληρωμών θα εγκατασταθεί στο BoxBilling και μπορεί να ρυθμιστεί στην "
+"καρτέλα \"Πύλες πληρωμών\"."
+
+msgid ""
+"to learn how to create your own payment gateway and share it with community"
+msgstr ""
+"για να μάθετε πώς να δημιουργήσετε τη δική σας πύλη πληρωμών και να τη "
+"μοιραστείτε με την κοινότητα"
+
+msgid "License details"
+msgstr "Λεπτομέρειες άδειας"
+
+msgid "Valid IPs"
+msgstr "Έγκυρες IPs"
+
+msgid "All ips"
+msgstr "Όλα τα ips"
+
+msgid "Valid Domains"
+msgstr "Έγκυροι τομείς"
+
+msgid "All hosts"
+msgstr "Όλοι οι οικοδεσπότες"
+
+msgid "Valid Versions"
+msgstr "Έγκυρες εκδόσεις"
+
+msgid "All versions"
+msgstr "Όλες οι εκδόσεις"
+
+msgid "Valid Install paths"
+msgstr "Έγκυρες διαδρομές εγκατάστασης"
+
+msgid "All paths"
+msgstr "Όλες οι διαδρομές"
+
+msgid "Reset license"
+msgstr "Επαναφορά άδειας χρήσης"
+
+msgid "You can reset your license parameters if you have changed your server"
+msgstr ""
+"Μπορείτε να επαναφέρετε τις παραμέτρους της άδειάς σας εάν έχετε αλλάξει τον "
+"διακομιστή σας"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Addons"
+msgstr "Προσθήκες"
+
+msgid "Edit product addon"
+msgstr "Επεξεργασία πρόσθετου προϊόντος"
+
+msgid "Activation"
+msgstr "Ενεργοποίηση"
+
+msgid "I will use my existing domain and update nameservers"
+msgstr ""
+"Θα χρησιμοποιήσω τον υπάρχοντα τομέα μου και θα ενημερώσω τους διακομιστές "
+"ονομάτων"
+
+msgid "I want to register a new domain"
+msgstr "Θέλω να κατοχυρώσω ένα νέο domain"
+
+msgid "mydomain"
+msgstr "mydomain"
+
+msgid "Started by"
+msgstr "Ξεκίνησε από"
+
+msgid "Messages"
+msgstr "Μηνύματα"
+
+msgid "Created at"
+msgstr "Δημιουργήθηκε στο"
+
+msgid "Slug"
+msgstr "γυμνοσάλιαγκας"
+
+msgid "Quote"
+msgstr "Απόσπασμα"
+
+msgid "Post"
+msgstr "Δημοσίευση"
+
+msgid "Edit field"
+msgstr "Επεξεργασία πεδίου"
+
+msgid ""
+"Please keep in mind that field name can not start with number. Special "
+"characters will be replaced with underscrore ( _ )"
+msgstr ""
+"Λάβετε υπόψη σας ότι το όνομα του πεδίου δεν μπορεί να αρχίζει με αριθμό. Οι "
+"ειδικοί χαρακτήρες θα αντικατασταθούν με υπογράμμιση ( _ )."
+
+msgid "Label"
+msgstr "Ετικέτα"
+
+msgid "options"
+msgstr "επιλογές"
+
+msgid "Value"
+msgstr "Αξία"
+
+msgid "+ Add new option"
+msgstr "+ Προσθήκη νέας επιλογής"
+
+msgid "Options"
+msgstr "Επιλογές"
+
+msgid "Hide label"
+msgstr "Απόκρυψη ετικέτας"
+
+msgid "Read only"
+msgstr "Μόνο ανάγνωση"
+
+msgid "Additional settings"
+msgstr "Πρόσθετες ρυθμίσεις"
+
+msgid "Prepend text"
+msgstr "Προσθήκη κειμένου"
+
+msgid "Append text"
+msgstr "Προσθήκη κειμένου"
+
+msgid "Textarea size"
+msgstr "Μέγεθος περιοχής κειμένου"
+
+msgid "px"
+msgstr "px"
+
+msgid "Height"
+msgstr "Ύψος"
+
+msgid "Default value/option"
+msgstr "Προεπιλεγμένη τιμή/επιλογή"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "BoxBilling license management"
+msgstr "Διαχείριση αδειών BoxBilling"
+
+msgid "License order ID"
+msgstr "ID παραγγελίας άδειας"
+
+msgid "Order status"
+msgstr "Κατάσταση παραγγελίας"
+
+msgid "License key"
+msgstr "Κλειδί άδειας χρήσης"
+
+msgid "Valid hostnames"
+msgstr "Έγκυρα ονόματα κεντρικών υπολογιστών"
+
+msgid "Valid versions"
+msgstr "Ισχύουσες εκδόσεις"
+
+msgid "Valid install paths"
+msgstr "Έγκυρες διαδρομές εγκατάστασης"
+
+msgid "Order is not activated or not found"
+msgstr "Η παραγγελία δεν έχει ενεργοποιηθεί ή δεν βρέθηκε"
+
+msgid "Create new order"
+msgstr "Δημιουργία νέας παραγγελίας"
+
+msgid "for"
+msgstr "για το"
+
+msgid "Invoice option"
+msgstr "Επιλογή τιμολογίου"
+
+msgid "Activate order"
+msgstr "Ενεργοποίηση παραγγελίας"
+
+msgid "Place new order"
+msgstr "Τοποθετήστε νέα παραγγελία"
+
+msgid "Selected price is 0.00"
+msgstr "Η επιλεγμένη τιμή είναι 0.00"
+
+msgid "Product is disabled in configuration"
+msgstr "Το προϊόν είναι απενεργοποιημένο στη διαμόρφωση"
+
+msgid "Forum details"
+msgstr "Λεπτομέρειες φόρουμ"
+
+msgid "Cart"
+msgstr "Καλάθι"
+
+msgid "Remove item"
+msgstr "Αφαίρεση αντικειμένου"
+
+msgid "setup"
+msgstr "ρύθμιση"
+
+msgid "Have coupon code?"
+msgstr "Έχετε κωδικό κουπονιού?"
+
+msgid "Enter code"
+msgstr "Πληκτρολογήστε τον κωδικό"
+
+msgid "Remove"
+msgstr "Αφαιρέστε το"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Subtotal:"
+msgstr "Υποσύνολο:"
+
+msgid "Discount:"
+msgstr "Έκπτωση:"
+
+msgid "VAT"
+msgstr "ΦΠΑ"
+
+msgid "Total:"
+msgstr "Σύνολο:"
+
+msgid "Pay by"
+msgstr "Πληρωμή με"
+
+msgid "Total amount will be deducted from account balance"
+msgstr "Το συνολικό ποσό θα αφαιρεθεί από το υπόλοιπο του λογαριασμού"
+
+msgid "Checkout"
+msgstr "Ταμείο"
+
+msgid "Promo code was removed"
+msgstr "Ο κωδικός Promo αφαιρέθηκε"
+
+msgid "Are you sure you want to remove this item from cart?"
+msgstr "Είστε σίγουροι ότι θέλετε να αφαιρέσετε αυτό το προϊόν από το καλάθι;"
+
+msgid "Item was removed from cart"
+msgstr "Το προϊόν αφαιρέθηκε από το καλάθι"
+
+msgid "File manager"
+msgstr "Διαχειριστής αρχείων"
+
+msgid "Full screen"
+msgstr "Πλήρης οθόνη"
+
+msgid "Domains management"
+msgstr "Διαχείριση τομέων"
+
+msgid "Clients"
+msgstr "Πελάτες"
+
+msgid "Filter clients"
+msgstr "Φίλτρο πελατών"
+
+msgid "Company name"
+msgstr "Επωνυμία εταιρείας"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Suspended"
+msgstr "Αναστολή"
+
+msgid "Registration date"
+msgstr "Ημερομηνία εγγραφής"
+
+msgid "New client"
+msgstr "Νέος πελάτης"
+
+msgid "Groups"
+msgstr "Ομάδες"
+
+msgid "Postcode"
+msgstr "Ταχυδρομικός κώδικας"
+
+msgid "Main website"
+msgstr "Κύρια ιστοσελίδα"
+
+msgid "Loading ..."
+msgstr "Φόρτωση ..."
+
+msgid ""
+"This staff member is used by BoxBilling to perform system tasks and can not "
+"be removed."
+msgstr ""
+"Αυτό το μέλος του προσωπικού χρησιμοποιείται από το BoxBilling για την "
+"εκτέλεση εργασιών του συστήματος και δεν μπορεί να αφαιρεθεί."
+
+msgid "Permissions"
+msgstr "Δικαιώματα"
+
+msgid "Manage staff member details"
+msgstr "Διαχειριστείτε τα στοιχεία των μελών του προσωπικού"
+
+msgid "This staff member updated."
+msgstr "Αυτό το μέλος του προσωπικού ενημέρωσε."
+
+msgid "%member_name% permissions"
+msgstr "%member_name% δικαιώματα"
+
+msgid "Administrator account is allowed to do everything"
+msgstr "Ο λογαριασμός διαχειριστή επιτρέπεται να κάνει τα πάντα"
+
+msgid "Permissions updated"
+msgstr "Ενημέρωση δικαιωμάτων"
+
+msgid "Module"
+msgstr "Ενότητα"
+
+msgid "Change staff member password"
+msgstr "Αλλαγή κωδικού πρόσβασης μέλους του προσωπικού"
+
+msgid "Staff member password changed"
+msgstr "Αλλαγή κωδικού πρόσβασης μέλους του προσωπικού"
+
+msgid "Repeat same password"
+msgstr "Επαναλάβετε τον ίδιο κωδικό πρόσβασης"
+
+msgid "Submit"
+msgstr "Υποβολή"
+
+msgid "Api key is used to manage system via other interfaces."
+msgstr ""
+"Το κλειδί Api χρησιμοποιείται για τη διαχείριση του συστήματος μέσω άλλων "
+"διεπαφών."
+
+msgid "API key"
+msgstr "Κλειδί API"
+
+msgid "Privacy policy"
+msgstr "Πολιτική απορρήτου"
+
+msgid "Payment type"
+msgstr "Τύπος πληρωμής"
+
+msgid "One time"
+msgstr "Μία φορά"
+
+msgid "Recurrent"
+msgstr "Επαναλαμβανόμενο"
+
+msgid "Setup price"
+msgstr "Τιμή εγκατάστασης"
+
+msgid "Price for period"
+msgstr "Τιμή για την περίοδο"
+
+msgid "First payment sum"
+msgstr "Πρώτο ποσό πληρωμής"
+
+msgid "On"
+msgstr "Στο"
+
+msgid "Weekly"
+msgstr "Εβδομαδιαία"
+
+msgid "Monthly"
+msgstr "Μηνιαία"
+
+msgid "Import SolusVM clients"
+msgstr "Εισαγωγή πελατών SolusVM"
+
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "Import selected SolusVM clients to BoxBilling"
+msgstr "Εισαγωγή επιλεγμένων πελατών SolusVM στο BoxBilling"
+
+msgid "Connection port"
+msgstr "Θύρα σύνδεσης"
+
+msgid "Update and test connection"
+msgstr "Ενημέρωση και δοκιμή σύνδεσης"
+
+msgid "Update server"
+msgstr "Ενημέρωση διακομιστή"
+
+msgid "Hosting settings"
+msgstr "Ρυθμίσεις φιλοξενίας"
+
+msgid "Server"
+msgstr "Διακομιστής"
+
+msgid "Reseller hosting"
+msgstr "Φιλοξενία μεταπωλητών"
+
+msgid "Free domain registration"
+msgstr "Δωρεάν καταχώριση domain"
+
+msgid "Free domain transfer"
+msgstr "Δωρεάν μεταφορά domain"
+
+msgid "Payments history"
+msgstr "Ιστορικό πληρωμών"
+
+msgid ""
+"Here you can track what you have been charged for and add more funds to your "
+"account"
+msgstr ""
+"Εδώ μπορείτε να παρακολουθείτε τι σας έχει χρεωθεί και να προσθέσετε "
+"περισσότερα χρήματα στο λογαριασμό σας."
+
+msgid "Add funds!"
+msgstr "Προσθέστε κεφάλαια!"
+
+msgid "Manage coupon code"
+msgstr "Διαχείριση κωδικού κουπονιού"
+
+msgid "Period when code is valid"
+msgstr "Περίοδος ισχύος του κωδικού"
+
+msgid "Client area languages"
+msgstr "Γλώσσες περιοχής πελατών"
+
+msgid "New language"
+msgstr "Νέα γλώσσα"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "BoxBilling in your language"
+msgstr "BoxBilling στη γλώσσα σας"
+
+msgid ""
+"Although BoxBilling displays in U.S. English by default, the software has "
+"the built-in capability to be used in any language. Follow instructions "
+"bellow to install new language."
+msgstr ""
+"Παρόλο που το BoxBilling εμφανίζεται εξ ορισμού στα αγγλικά των ΗΠΑ, το "
+"λογισμικό έχει την ενσωματωμένη δυνατότητα να χρησιμοποιείται σε οποιαδήποτε "
+"γλώσσα. Ακολουθήστε τις παρακάτω οδηγίες για να εγκαταστήσετε τη νέα γλώσσα."
+
+msgid "Check if your language translation file is available at"
+msgstr ""
+"Ελέγξτε αν το αρχείο μετάφρασης της γλώσσας σας είναι διαθέσιμο στη διεύθυνση"
+
+msgid "BoxBilling extensions site"
+msgstr "Τοποθεσία επεκτάσεων BoxBilling"
+
+msgid "Download language files and place them to"
+msgstr "Κατεβάστε τα αρχεία γλώσσας και τοποθετήστε τα στο"
+
+msgid ""
+"Language will be automatically available and can be changed in client area"
+msgstr ""
+"Η γλώσσα θα είναι αυτόματα διαθέσιμη και μπορεί να αλλάξει στην περιοχή του "
+"πελάτη."
+
+msgid "Installing BoxBilling in Your Language"
+msgstr "Εγκατάσταση του BoxBilling στη γλώσσα σας"
+
+msgid ""
+"to learn how to install files that will transform BoxBilling so it displays "
+"in your language."
+msgstr ""
+"για να μάθετε πώς να εγκαταστήσετε αρχεία που θα μετατρέψουν το BoxBilling "
+"ώστε να εμφανίζεται στη γλώσσα σας."
+
+msgid "Translations can be made with"
+msgstr "Οι μεταφράσεις μπορούν να γίνουν με"
+
+msgid "software"
+msgstr "λογισμικό"
+
+msgid "Changing default language"
+msgstr "Αλλαγή προεπιλεγμένης γλώσσας"
+
+msgid "Default language can be set in"
+msgstr "Η προεπιλεγμένη γλώσσα μπορεί να οριστεί στο"
+
+msgid "Removing language"
+msgstr "Αφαίρεση της γλώσσας"
+
+msgid ""
+"Removing languages from BoxBilling is really simple. Just delete language "
+"folder you wish from"
+msgstr ""
+"Η αφαίρεση γλωσσών από το BoxBilling είναι πολύ απλή. Απλά διαγράψτε το "
+"φάκελο γλώσσας που επιθυμείτε από το"
+
+msgid "Thank you"
+msgstr "Σας ευχαριστώ"
+
+msgid ""
+"Your payment is being processed right now. It can take up 5 minutes to "
+"complete."
+msgstr ""
+"Η πληρωμή σας επεξεργάζεται αυτή τη στιγμή. Μπορεί να χρειαστούν 5 λεπτά για "
+"να ολοκληρωθεί."
+
+msgid "Payment for invoice received"
+msgstr "Πληρωμή για τιμολόγιο που ελήφθη"
+
+msgid "You will be automatically redirected to invoice page after 5 minutes."
+msgstr "Θα μεταφερθείτε αυτόματα στη σελίδα του τιμολογίου μετά από 5 λεπτά."
+
+msgid "Product Configuration"
+msgstr "Διαμόρφωση προϊόντος"
+
+msgid "FREE"
+msgstr ""
+
+msgid "New Addon"
+msgstr "Νέο πρόσθετο"
+
+msgid "After order is placed"
+msgstr "Μετά την τοποθέτηση της παραγγελίας"
+
+msgid "After payment is received"
+msgstr "Μετά την παραλαβή της πληρωμής"
+
+msgid "Manual activation"
+msgstr "Χειροκίνητη ενεργοποίηση"
+
+msgid "News"
+msgstr "Νέα"
+
+msgid "Post updated"
+msgstr "Δημοσίευση ενημερώθηκε"
+
+msgid "Image"
+msgstr "Εικόνα"
+
+msgid "http://www.yourdomain.com/image.jpg"
+msgstr ""
+
+msgid "Post created"
+msgstr "Δημοσίευση που δημιουργήθηκε"
+
+msgid "Last update"
+msgstr "Τελευταία ενημέρωση"
+
+msgid "Go back"
+msgstr "Πηγαίνετε πίσω"
+
+msgid "Setup:"
+msgstr "Εγκατάσταση:"
+
+msgid "Clients logins history"
+msgstr "Ιστορικό συνδέσεων πελατών"
+
+msgid "Public tickets"
+msgstr "Δημόσια εισιτήρια"
+
+msgid "Ticket ID"
+msgstr "Αναγνωριστικό εισιτηρίου"
+
+msgid "Author"
+msgstr "Συγγραφέας"
+
+msgid "Time opened"
+msgstr "Ώρα που άνοιξε"
+
+msgid "Last updated"
+msgstr "Τελευταία ενημέρωση"
+
+msgid "Reply as"
+msgstr "Απάντηση ως"
+
+msgid "Login or Register"
+msgstr "Σύνδεση ή Εγγραφή"
+
+msgid "You must fill in your password."
+msgstr "Πρέπει να συμπληρώσετε τον κωδικό πρόσβασής σας."
+
+msgid "Log in"
+msgstr "Συνδεθείτε"
+
+msgid "Or register"
+msgstr "Ή εγγραφείτε"
+
+msgid "Register"
+msgstr "Εγγραφή"
+
+msgid "Or Login"
+msgstr "Ή Είσοδος"
+
+msgid "Custom forms"
+msgstr "Προσαρμοσμένες φόρμες"
+
+msgid "Form"
+msgstr "Έντυπο"
+
+msgid "Orders using this form"
+msgstr "Παραγγελίες μέσω αυτής της φόρμας"
+
+msgid "Products using this form"
+msgstr "Προϊόντα που χρησιμοποιούν αυτή τη φόρμα"
+
+msgid "Create new form"
+msgstr "Δημιουργία νέας φόρμας"
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Form options"
+msgstr "Επιλογές φόρμας"
+
+msgid "New form name and options"
+msgstr "Νέο όνομα και επιλογές φόρμας"
+
+msgid "Labels on top"
+msgstr "Ετικέτες στην κορυφή"
+
+msgid "Labels on the left"
+msgstr "Ετικέτες στην κορυφή"
+
+msgid "Show form title"
+msgstr "Εμφάνιση τίτλου φόρμας"
+
+msgid "Do not show form title"
+msgstr "Μην εμφανίζετε τον τίτλο της φόρμας"
+
+msgid "Text"
+msgstr "Κείμενο"
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+msgid "Radio"
+msgstr ""
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Textarea"
+msgstr ""
+
+msgid "Form options were updated"
+msgstr "Οι επιλογές φόρμας ενημερώθηκαν"
+
+msgid "Select Product"
+msgstr "Επιλέξτε προϊόν"
+
+msgid "Items"
+msgstr "Στοιχεία"
+
+msgid "Choose products we offer for selling"
+msgstr "Επιλέξτε τα προϊόντα που προσφέρουμε προς πώληση"
+
+msgid "Domain type"
+msgstr "Τύπος τομέα"
+
+msgid "Host subdomain"
+msgstr "Υποτομέας υποδοχής"
+
+msgid "subdomain"
+msgstr "υποτομέας"
+
+msgid "Host domain"
+msgstr "Τομέας υποδοχής"
+
+msgid "domain.com"
+msgstr ""
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgid "Sent"
+msgstr "Αποστολή"
+
+msgid "Resend"
+msgstr "Επαναποστολή"
+
+msgid "Variables"
+msgstr "Μεταβλητές"
+
+msgid "Template Settings"
+msgstr "Ρυθμίσεις προτύπου"
+
+msgid "Reset template"
+msgstr "Επαναφορά προτύπου"
+
+msgid "Examples"
+msgstr "Παραδείγματα"
+
+msgid "Manage email template"
+msgstr "Διαχείριση προτύπου email"
+
+msgid ""
+"Most email templates receives parameters from BoxBilling. You can browse "
+"them on \"Variables\" tab. Copy variable name to email template and hit "
+"preview to see parsed content. Please note that values will be different "
+"when actual email is sent."
+msgstr ""
+"Τα περισσότερα πρότυπα email λαμβάνουν παραμέτρους από το BoxBilling. "
+"Μπορείτε να τις αναζητήσετε στην καρτέλα \"Μεταβλητές\". Αντιγράψτε το όνομα "
+"της μεταβλητής στο πρότυπο email και πατήστε προεπισκόπηση για να δείτε το "
+"περιεχόμενο που αναλύθηκε. Λάβετε υπόψη ότι οι τιμές θα είναι διαφορετικές "
+"όταν αποστέλλεται το πραγματικό μήνυμα ηλεκτρονικού ταχυδρομείου."
+
+msgid "Template updated"
+msgstr "Πρότυπο ενημερωμένο"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Preview mode is disabled until first event occurrence"
+msgstr ""
+"Η λειτουργία προεπισκόπησης είναι απενεργοποιημένη μέχρι την πρώτη εμφάνιση "
+"συμβάντος"
+
+msgid "Template settings"
+msgstr "Ρυθμίσεις προτύπου"
+
+msgid "Enable or disable this email template."
+msgstr "Ενεργοποίηση ή απενεργοποίηση αυτού του προτύπου email."
+
+msgid "List of variables used in this email"
+msgstr "Κατάλογος μεταβλητών που χρησιμοποιούνται σε αυτό το email"
+
+msgid ""
+"These values will change when real email is sent. You can pass these "
+"variables to admin or guest API to get additional information from database."
+msgstr ""
+"Αυτές οι τιμές θα αλλάξουν όταν αποστέλλεται πραγματικό email. Μπορείτε να "
+"περάσετε αυτές τις μεταβλητές στο admin ή στο guest API για να λάβετε "
+"πρόσθετες πληροφορίες από τη βάση δεδομένων."
+
+msgid "Variable"
+msgstr "Μεταβλητή"
+
+msgid "Example value"
+msgstr "Παράδειγμα τιμής"
+
+msgid "This template does not receive any parameters"
+msgstr "Αυτό το πρότυπο δεν λαμβάνει καμία παράμετρο"
+
+msgid "Reset email template to default"
+msgstr "Επαναφορά προτύπου email στην προεπιλογή"
+
+msgid "Reset to default"
+msgstr "Επαναφορά στην προεπιλογή"
+
+msgid "Email templates examples"
+msgstr "Παραδείγματα προτύπων email"
+
+msgid ""
+"Email template playground. Use this tool to try rendering email templates."
+msgstr ""
+"Παιδική χαρά προτύπου email. Χρησιμοποιήστε αυτό το εργαλείο για να "
+"δοκιμάσετε την απόδοση προτύπων email."
+
+msgid "Domain action"
+msgstr "Δράση τομέα"
+
+msgid "Register domain"
+msgstr "Καταχώρηση domain"
+
+msgid "Domain name to register"
+msgstr "Όνομα τομέα προς καταχώριση"
+
+msgid "Years"
+msgstr "Έτη"
+
+msgid "Transfer domain"
+msgstr "Τομέας μεταφοράς"
+
+msgid "Domain name to transfer"
+msgstr "Όνομα τομέα προς μεταφορά"
+
+msgid "Domain transfer code"
+msgstr "Κωδικός μεταφοράς τομέα"
+
+msgid "Themes"
+msgstr "Θέματα"
+
+msgid "Client area themes"
+msgstr "Θέματα περιοχής πελατών"
+
+msgid "Set as default"
+msgstr "Ορισμός ως προεπιλογή"
+
+msgid "New product"
+msgstr "Νέο προϊόν"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "Update priority"
+msgstr "Προτεραιότητα ενημέρωσης"
+
+msgid "Icon URL"
+msgstr "Εικονίδιο URL"
+
+msgid "Support tickets"
+msgstr "Εισιτήρια υποστήριξης"
+
+msgid "Need an answer? We are here to help!"
+msgstr "Χρειάζεστε απάντηση; Είμαστε εδώ για να σας βοηθήσουμε!"
+
+msgid "Submit new ticket"
+msgstr "Υποβολή νέου εισιτηρίου"
+
+msgid "View"
+msgstr "Προβολή"
+
+msgid "Submit new support ticket"
+msgstr "Υποβολή νέου εισιτηρίου υποστήριξης"
+
+msgid "Queues"
+msgstr "Ουρές"
+
+msgid "The list is empty."
+msgstr "Ο κατάλογος είναι άδειος."
+
+msgid "SpamChecker settings"
+msgstr "Ρυθμίσεις SpamChecker"
+
+msgid "Enable IP blocking"
+msgstr "Ενεργοποίηση αποκλεισμού IP"
+
+msgid ""
+"Blocked IPs are not allowed to login, register or open public ticket. One IP "
+"per line"
+msgstr ""
+"Οι αποκλεισμένες IP δεν επιτρέπεται να συνδεθούν, να εγγραφούν ή να ανοίξουν "
+"δημόσιο εισιτήριο. Μία IP ανά γραμμή"
+
+msgid "Recaptcha settings"
+msgstr "Ρυθμίσεις Recaptcha"
+
+msgid "Enable captcha for client registration and contact us forms"
+msgstr ""
+"Ενεργοποίηση captcha για την εγγραφή πελατών και τις φόρμες επικοινωνίας"
+
+msgid "Sign up for Recaptcha key for your domain at"
+msgstr "Εγγραφείτε για το κλειδί Recaptcha για τον τομέα σας στο"
+
+msgid "Recaptcha Enabled"
+msgstr "Ενεργοποιημένο Recaptcha"
+
+msgid "ReCaptcha Public key"
+msgstr "ReCaptcha Δημόσιο κλειδί"
+
+msgid "ReCaptcha Private key"
+msgstr "ReCaptcha Ιδιωτικό κλειδί"
+
+msgid "Akismet settings"
+msgstr "Ρυθμίσεις Akismet"
+
+msgid ""
+"Enable forum messages checking on <a href=\"http://www.akismet.com/\" target="
+"\"_blank\">http://www.akismet.com</a> database"
+msgstr ""
+"Ενεργοποίηση ελέγχου μηνυμάτων φόρουμ στη βάση δεδομένων <a href=\"http://"
+"www.akismet.com/\" target=\"_blank\">http://www.akismet.com</a>"
+
+msgid "Enable check"
+msgstr "Ενεργοποίηση ελέγχου"
+
+msgid "Akismet API key"
+msgstr "Κλειδί Akismet API"
+
+msgid "StopForumSpam.com settings"
+msgstr "Ρυθμίσεις StopForumSpam.com"
+
+msgid ""
+"If enabled, client ip will be checked on <a href=\"http://www.stopforumspam."
+"com/\" target=\"_blank\">http://www.stopforumspam.com</a> database before "
+"registration"
+msgstr ""
+"Εάν είναι ενεργοποιημένη, η ip του πελάτη θα ελέγχεται στη βάση δεδομένων <a "
+"href=\"http://www.stopforumspam.com/\" target=\"_blank\">http://www."
+"stopforumspam.com</a> πριν από την εγγραφή."
+
+msgid "Invoice management"
+msgstr "Διαχείριση τιμολογίων"
+
+msgid "List of invoices"
+msgstr "Κατάλογος τιμολογίων"
+
+msgid ""
+"All of your invoices can be found here. You can choose to see either paid or "
+"unpaid invoices by clicking corresponding button."
+msgstr ""
+"Όλα τα τιμολόγιά σας μπορείτε να τα βρείτε εδώ. Μπορείτε να επιλέξετε να "
+"δείτε είτε πληρωμένα είτε απλήρωτα τιμολόγια κάνοντας κλικ στο αντίστοιχο "
+"κουμπί."
+
+msgid "Issue Date"
+msgstr "Ημερομηνία έκδοσης"
+
+msgid "Due Date"
+msgstr "Ημερομηνία λήξης"
+
+msgid "Pay"
+msgstr "Πληρωμή"
+
+msgid "Paid at"
+msgstr "Πληρώθηκε στις"
+
+msgid "Download "
+msgstr "Λήψη "
+
+msgid "Download"
+msgstr "Λήψη"
+
+msgid "Membership details"
+msgstr "Λεπτομέρειες μέλους"
+
+msgid "Domain name"
+msgstr "Όνομα τομέα"
+
+msgid "Domain TLD"
+msgstr "Τομέας TLD"
+
+msgid "Domain management"
+msgstr "Διαχείριση τομέα"
+
+msgid "Protection"
+msgstr "Προστασία"
+
+msgid "Privacy"
+msgstr "Απόρρητο"
+
+msgid "Whois"
+msgstr "Whois"
+
+msgid "Domain details"
+msgstr "Λεπτομέρειες τομέα"
+
+msgid "Domain Protection"
+msgstr "Προστασία τομέα"
+
+msgid ""
+"Domain locking is a security enhancement to prevent unauthorized transfers "
+"of your domain to another registrar or web host by \"locking\" your domain "
+"name servers."
+msgstr ""
+"Το κλείδωμα του τομέα είναι μια βελτίωση της ασφάλειας για την αποτροπή μη "
+"εξουσιοδοτημένων μεταφορών του τομέα σας σε άλλον καταχωρητή ή web host, "
+"\"κλειδώνοντας\" τους διακομιστές ονομάτων του τομέα σας."
+
+msgid "Unlock"
+msgstr "Ξεκλειδώστε το"
+
+msgid "Lock"
+msgstr "Κλείδωμα"
+
+msgid "Domain Privacy Settings"
+msgstr "Ρυθμίσεις απορρήτου τομέα"
+
+msgid ""
+"If you would like to hide domain contact information which is shown on WHOIS "
+"you can enable privacy protection. Once domain privacy protection is enabled "
+"no one will know who registered this service. And once you decide to disable "
+"privacy protection, information that is listed above on \"Update Domain "
+"Contact Details\" section will be seen on domain WHOIS again."
+msgstr ""
+"Εάν θέλετε να αποκρύψετε τα στοιχεία επικοινωνίας του τομέα που εμφανίζονται "
+"στο WHOIS, μπορείτε να ενεργοποιήσετε την προστασία απορρήτου. Μόλις "
+"ενεργοποιηθεί η προστασία απορρήτου του τομέα, κανείς δεν θα γνωρίζει ποιος "
+"καταχώρησε αυτή την υπηρεσία. Και μόλις αποφασίσετε να απενεργοποιήσετε την "
+"προστασία απορρήτου, οι πληροφορίες που αναφέρονται παραπάνω στην ενότητα "
+"\"Ενημέρωση στοιχείων επικοινωνίας τομέα\" θα εμφανίζονται ξανά στο WHOIS "
+"τομέα."
+
+msgid "Disable Privacy protection"
+msgstr "Απενεργοποίηση προστασίας απορρήτου"
+
+msgid "Enable Privacy protection"
+msgstr "Ενεργοποίηση προστασίας απορρήτου"
+
+msgid "Update Nameservers"
+msgstr "Ενημέρωση διακομιστών ονομάτων"
+
+msgid ""
+"If you would like to host this domain with another company you can update "
+"nameservers."
+msgstr ""
+"Εάν θέλετε να φιλοξενήσετε αυτόν τον τομέα σε μια άλλη εταιρεία, μπορείτε να "
+"ενημερώσετε τους διακομιστές ονομάτων."
+
+msgid "Update domain contact details"
+msgstr "Ενημέρωση στοιχείων επικοινωνίας τομέα"
+
+msgid ""
+"Domain contact details will be displayed once someone will check WHOIS "
+"output (which is public) of your service. This will update Technical, "
+"Billing and Admin contacts for this service. You can enable domain privacy "
+"protection if you want to hide your public WHOIS information."
+msgstr ""
+"Τα στοιχεία επικοινωνίας του τομέα θα εμφανιστούν μόλις κάποιος ελέγξει την "
+"έξοδο WHOIS (η οποία είναι δημόσια) της υπηρεσίας σας. Αυτό θα ενημερώσει "
+"τις επαφές τεχνικών, τιμολόγησης και διαχείρισης για την υπηρεσία αυτή. "
+"Μπορείτε να ενεργοποιήσετε την προστασία απορρήτου του τομέα, εάν θέλετε να "
+"αποκρύψετε τις δημόσιες πληροφορίες WHOIS σας."
+
+msgid "Zip"
+msgstr "Zip"
+
+msgid "Phone Country Code"
+msgstr "Τηλέφωνο Κωδικός χώρας"
+
+msgid "Phone number"
+msgstr "Αριθμός τηλεφώνου"
+
+msgid "Domain Secret"
+msgstr "Μυστικό τομέα"
+
+msgid ""
+"All domain names (except a .EU, .UK domain name) have a Domain (Transfer) "
+"Secret Key/Authorization Code (EPP Code) associated with them. This would be "
+"required if you want to transfer service."
+msgstr ""
+"Domain SecΌλα τα ονόματα τομέα (εκτός από τα ονόματα τομέα .EU, .UK) έχουν "
+"ένα μυστικό κλειδί τομέα (μεταφοράς)/κωδικό εξουσιοδότησης (EPP Code) που "
+"συνδέεται με αυτά. Αυτός θα χρειαστεί εάν θέλετε να μεταφέρετε service.ret"
+
+msgid "Get EPP code"
+msgstr "Αποκτήστε τον κωδικό EPP"
+
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+msgid "Settings for"
+msgstr "Ρυθμίσεις για"
+
+msgid ""
+"Switch to a predefined set of theme settings from the dropdown. Adjust each "
+"section and apply the changes once you're done."
+msgstr ""
+"Μεταβείτε σε ένα προκαθορισμένο σύνολο ρυθμίσεων θέματος από το "
+"αναπτυσσόμενο μενού. Προσαρμόστε κάθε ενότητα και εφαρμόστε τις αλλαγές "
+"μόλις τελειώσετε."
+
+msgid "delete this preset"
+msgstr "διαγραφή αυτής της προεπιλογής"
+
+msgid "Save current settings as a new preset called"
+msgstr ""
+"Αποθηκεύστε τις τρέχουσες ρυθμίσεις ως μια νέα προεπιλογή με την ονομασία"
+
+msgid "Apply changes"
+msgstr "Εφαρμογή αλλαγών"
+
+msgid "Profile details"
+msgstr "Λεπτομέρειες προφίλ"
+
+msgid "User profile settings"
+msgstr "Ρυθμίσεις προφίλ χρήστη"
+
+msgid "Change Password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+msgid "Update details"
+msgstr "Λεπτομέρειες ενημέρωσης"
+
+msgid "Keep your personal data up to date."
+msgstr "Διατηρήστε τα προσωπικά σας δεδομένα ενημερωμένα."
+
+msgid "Please register with"
+msgstr "Παρακαλείστε να εγγραφείτε στο"
+
+msgid "at "
+msgstr "στο "
+
+msgid ""
+"to change your profile image. Gravatar image updates may not appear "
+"immediately."
+msgstr ""
+"για να αλλάξετε την εικόνα του προφίλ σας. Οι ενημερώσεις της εικόνας "
+"Gravatar ενδέχεται να μην εμφανιστούν αμέσως."
+
+msgid "Birth date"
+msgstr "Ημερομηνία γέννησης"
+
+msgid "Company Name"
+msgstr "Όνομα εταιρείας"
+
+msgid "Company VAT"
+msgstr "Εταιρεία ΦΠΑ"
+
+msgid "Company Number"
+msgstr "Αριθμός εταιρείας"
+
+msgid "Passport number"
+msgstr "Αριθμός διαβατηρίου"
+
+msgid "Please enter new password two times in order avoid mistypes"
+msgstr ""
+"Εισάγετε τον νέο κωδικό πρόσβασης δύο φορές για την αποφυγή λανθασμένων "
+"πληκτρολογήσεων."
+
+msgid "Update password"
+msgstr "Ενημέρωση κωδικού πρόσβασης"
+
+msgid "Warning! Resetting the key will break existing applications using it!"
+msgstr ""
+"Προειδοποίηση! Η επαναφορά του κλειδιού θα καταστρέψει τις υπάρχουσες "
+"εφαρμογές που το χρησιμοποιούν!"
+
+msgid "Your API key"
+msgstr "Το κλειδί σας API"
+
+msgid "Reset key"
+msgstr "Πλήκτρο επαναφοράς"
+
+msgid ""
+"Your profile currency is defined after your first order. Once your currency "
+"is set, all your profile accounting will be managed in that currency and can "
+"not be changed."
+msgstr ""
+"Το νόμισμα του προφίλ σας ορίζεται μετά την πρώτη σας παραγγελία. Μόλις "
+"οριστεί το νόμισμά σας, η διαχείριση όλων των λογαριασμών του προφίλ σας θα "
+"γίνεται σε αυτό το νόμισμα και δεν θα μπορεί να αλλάξει."
+
+msgid "Your profile currency is"
+msgstr "Το νόμισμα του προφίλ σας είναι"
+
+msgid ""
+"Create new client profile if you want to manage your money in other currency"
+msgstr ""
+"Δημιουργήστε νέο προφίλ πελάτη εάν θέλετε να διαχειριστείτε τα χρήματά σας "
+"σε άλλο νόμισμα"
+
+msgid "Ticket information"
+msgstr "Πληροφορίες εισιτηρίων"
+
+msgid "Close ticket"
+msgstr "Κλείσιμο εισιτηρίου"
+
+msgid "by "
+msgstr "από "
+
+msgid "Ticket was closed and cannot be reopened."
+msgstr "Το εισιτήριο έκλεισε και δεν μπορεί να ανοίξει ξανά."
+
+msgid "Example module settings"
+msgstr "Παράδειγμα ρυθμίσεων μονάδας"
+
+msgid "Example extension settings"
+msgstr "Παράδειγμα ρυθμίσεων επέκτασης"
+
+msgid ""
+"Every extension can have settings page. Only requirement is to have "
+"mod_example_settings.phtml page in html_admin folder"
+msgstr ""
+"Κάθε επέκταση μπορεί να έχει σελίδα ρυθμίσεων. Η μόνη απαίτηση είναι να "
+"υπάρχει η σελίδα mod_example_settings.phtml στο φάκελο html_admin."
+
+msgid "Parameter title"
+msgstr "Τίτλος παραμέτρου"
+
+msgid "Example custom value"
+msgstr "Παράδειγμα προσαρμοσμένης τιμής"
+
+msgid "Public Parameter title"
+msgstr "Δημόσια Παράμετρος title"
+
+msgid "This setting will be accessible by Guest API"
+msgstr "Αυτή η ρύθμιση θα είναι προσβάσιμη από το Guest API"
+
+msgid "Centova Cast product settings"
+msgstr "Ρυθμίσεις προϊόντος Centova Cast"
+
+msgid "Max clients"
+msgstr "Μέγιστοι πελάτες"
+
+msgid "Max bitrate"
+msgstr "Μέγιστο bitrate"
+
+msgid "Transfer limit"
+msgstr "Όριο μεταφοράς"
+
+msgid "Autostart"
+msgstr "Αυτόματη εκκίνηση"
+
+msgid "System settings"
+msgstr "Ρυθμίσεις συστήματος"
+
+msgid "Company details"
+msgstr "Λεπτομέρειες της εταιρείας"
+
+msgid "FTP layer"
+msgstr "Στρώμα FTP"
+
+msgid "Countries"
+msgstr "Χώρες"
+
+msgid "Cache"
+msgstr "Κρυφή μνήμη"
+
+msgid "Logo URL"
+msgstr "URL λογότυπου"
+
+msgid "Company number, chamber of commerce number"
+msgstr "Αριθμός εταιρείας, αριθμός εμπορικού επιμελητηρίου"
+
+msgid "VAT number"
+msgstr "Αριθμός ΦΠΑ"
+
+msgid "Bank Account number"
+msgstr "Αριθμός τραπεζικού λογαριασμού"
+
+msgid "Company terms of service, legal regulation"
+msgstr "Όροι παροχής υπηρεσιών της εταιρείας, νομική ρύθμιση"
+
+msgid "Company privacy policy"
+msgstr "Πολιτική απορρήτου της εταιρείας"
+
+msgid "Countries updated"
+msgstr "Ενημερωμένες χώρες"
+
+msgid "List of countries"
+msgstr "Κατάλογος χωρών"
+
+msgid "Cache folder cleared"
+msgstr "Εκκαθάριση φακέλου cache"
+
+msgid "Invalidate cache"
+msgstr "Ακυρώστε την κρυφή μνήμη cache"
+
+msgid "FTP layer for BoxBilling"
+msgstr "Επίπεδο FTP για το BoxBilling"
+
+msgid "FTP is used to manage BoxBilling modules and updates."
+msgstr ""
+"Το FTP χρησιμοποιείται για τη διαχείριση των ενοτήτων και των ενημερώσεων "
+"του BoxBilling."
+
+msgid "FTP settings updated"
+msgstr "Ενημέρωση ρυθμίσεων FTP"
+
+msgid ""
+"<strong>FTP Hostname</strong> - can be a numerical URL 127.0.0.1 is the "
+"default address for a locally hosted server, it might be this, it might be "
+"the full URL as my example above with the File Transfer Protocol (FTP) "
+"prefix, it might be the http:// protocol it might be SFTP (secure FTP) even "
+"secure http (https). Your host will be able to advise you on the correct "
+"format."
+msgstr ""
+"<strong>FTP Hostname</strong> - μπορεί να είναι μια αριθμητική διεύθυνση URL "
+"127.0.0.1 είναι η προεπιλεγμένη διεύθυνση για έναν τοπικά φιλοξενούμενο "
+"διακομιστή, μπορεί να είναι αυτή, μπορεί να είναι η πλήρης διεύθυνση URL "
+"όπως το παραπάνω παράδειγμά μου με το πρόθεμα File Transfer Protocol (FTP), "
+"μπορεί να είναι το πρωτόκολλο http:// μπορεί να είναι SFTP (secure FTP) "
+"ακόμα και ασφαλές http (https). Ο οικοδεσπότης σας θα είναι σε θέση να σας "
+"συμβουλεύσει σχετικά με τη σωστή μορφή."
+
+msgid ""
+"<strong>FTP port</strong> - is nearly always 21 unless the host has changed "
+"this they will have notified you of this. Secure FTP generally uses port 22."
+msgstr ""
+"<strong>Θύρα FTP</strong> - είναι σχεδόν πάντα 21, εκτός αν ο κεντρικός "
+"υπολογιστής το έχει αλλάξει και σας έχει ενημερώσει σχετικά. Το ασφαλές FTP "
+"χρησιμοποιεί γενικά τη θύρα 22."
+
+msgid ""
+"<strong>FTP user</strong> - In most cases, this is the specific user name "
+"your host has set up for you to access your Web site via FTP- It is the name "
+"you use in your FTP client. This could be an alphanumeric, it could be your "
+"name, even your e-mail address, If you don't know this speak to your host. "
+"You may have the facility on your Web account to set up additional FTP users "
+"if that is the case (and it's more secure) you are recommended to do this"
+msgstr ""
+"<strong>Χρήστης FTP</strong> - Στις περισσότερες περιπτώσεις, πρόκειται για "
+"το συγκεκριμένο όνομα χρήστη που έχει ορίσει ο κεντρικός σας υπολογιστής για "
+"να έχετε πρόσβαση στον ιστότοπό σας μέσω FTP. Αυτό μπορεί να είναι ένα "
+"αλφαριθμητικό, μπορεί να είναι το όνομά σας, ακόμη και η διεύθυνση "
+"ηλεκτρονικού ταχυδρομείου σας, Εάν δεν το γνωρίζετε αυτό μιλήστε με τον "
+"οικοδεσπότη σας. Μπορεί να έχετε τη δυνατότητα στο λογαριασμό σας στο Web να "
+"δημιουργήσετε επιπλέον χρήστες FTP, αν αυτό ισχύει (και είναι πιο ασφαλές), "
+"σας συνιστούμε να κάνετε αυτό."
+
+msgid ""
+"<strong>FTP password</strong> - this is the password you enter in your FTP "
+"client."
+msgstr ""
+"<strong>Κωδικός πρόσβασης FTP</strong> - αυτός είναι ο κωδικός πρόσβασης που "
+"εισάγετε στο πρόγραμμα-πελάτη FTP."
+
+msgid ""
+"<strong>FTP root</strong> - This is generally the directory in which "
+"BoxBilling is installed. This setting is very important to be setup "
+"correctly as it very specifically depends on the Host server settings. In "
+"can be just / BUT it might be htdocs/boxbilling, public_html/, /public_html/"
+"boxbilling or other. It is a variable that BoxBilling has absolutely no "
+"control over. You will need to clarify this with your host."
+msgstr ""
+"<strong>FTP root</strong> - Αυτός είναι γενικά ο κατάλογος στον οποίο είναι "
+"εγκατεστημένο το BoxBilling. Αυτή η ρύθμιση είναι πολύ σημαντικό να "
+"ρυθμιστεί σωστά, καθώς εξαρτάται πολύ συγκεκριμένα από τις ρυθμίσεις του "
+"κεντρικού υπολογιστή. Μπορεί να είναι απλά / ΑΛΛΑ μπορεί να είναι htdocs/"
+"boxbilling, public_html/, /public_html/boxbilling ή άλλο. Πρόκειται για μια "
+"μεταβλητή την οποία το BoxBilling δεν έχει απολύτως κανέναν έλεγχο. Θα "
+"πρέπει να το διευκρινίσετε αυτό με τον οικοδεσπότη σας."
+
+msgid "Staff members"
+msgstr "Μέλη του προσωπικού"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "Currently uploaded file"
+msgstr "Επί του παρόντος μεταφορτωμένο αρχείο"
+
+msgid "Upload new file"
+msgstr "Ανέβασμα νέου αρχείου"
+
+msgid "Upload"
+msgstr "Ανέβασμα"
+
+msgid "Select product"
+msgstr "Επιλέξτε προϊόν"
+
+msgid "Configure"
+msgstr "Ρύθμιση παραμέτρων"
+
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+msgid "Extensions"
+msgstr "Επεκτάσεις"
+
+msgid "Update BoxBilling"
+msgstr "Ενημέρωση BoxBilling"
+
+msgid "Learn more about extensions"
+msgstr "Μάθετε περισσότερα για τις επεκτάσεις"
+
+msgid "Hooks"
+msgstr "Άγκιστρα"
+
+msgid "Activate or deactivate extensions"
+msgstr "Ενεργοποίηση ή απενεργοποίηση επεκτάσεων"
+
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+msgid "Hook"
+msgstr "Άγκιστρο"
+
+msgid "Automatic update"
+msgstr "Αυτόματη ενημέρωση"
+
+msgid ""
+"Automatic updater is a tool to update BoxBilling to latest version in one "
+"click. Works on these hosting environments where PHP has permissions to "
+"overwrite files uploaded via FTP."
+msgstr ""
+"Το Automatic updater είναι ένα εργαλείο για την ενημέρωση του BoxBilling "
+"στην τελευταία έκδοση με ένα κλικ. Λειτουργεί σε αυτά τα περιβάλλοντα "
+"φιλοξενίας όπου η PHP έχει δικαιώματα αντικατάστασης αρχείων που "
+"μεταφορτώνονται μέσω FTP."
+
+msgid "Manual update"
+msgstr "Χειροκίνητη ενημέρωση"
+
+msgid ""
+"Manual update is a solution when auto updater can not work on current "
+"installation environment"
+msgstr ""
+"Η χειροκίνητη ενημέρωση είναι μια λύση όταν η αυτόματη ενημέρωση δεν μπορεί "
+"να λειτουργήσει στο τρέχον περιβάλλον εγκατάστασης"
+
+msgid "Extending BoxBilling"
+msgstr "Επέκταση του BoxBilling"
+
+msgid ""
+"BoxBilling gives developers all the capabilities to customize, integrate & "
+"extend the core system into your own website & applications."
+msgstr ""
+"Το BoxBilling παρέχει στους προγραμματιστές όλες τις δυνατότητες "
+"προσαρμογής, ενσωμάτωσης και επέκτασης του βασικού συστήματος στο δικό σας "
+"ιστότοπο και τις δικές σας εφαρμογές."
+
+msgid "Invoice settings"
+msgstr "Ρυθμίσεις τιμολογίου"
+
+msgid "Number of days to generate new invoice before order expiration"
+msgstr ""
+"Αριθμός ημερών για τη δημιουργία νέου τιμολογίου πριν από τη λήξη της "
+"παραγγελίας"
+
+msgid "Invoice due days"
+msgstr "Ημέρες λήξης τιμολογίου"
+
+msgid "Auto invoice approval"
+msgstr "Αυτόματη έγκριση τιμολογίου"
+
+msgid "Proforma Invoicing / Sequential Invoice Numbering"
+msgstr "Τιμολόγηση Proforma / Διαδοχική αρίθμηση τιμολογίων"
+
+msgid "Remove unpaid invoices after x days. Set 0 to keep invoices forever"
+msgstr ""
+"Αφαίρεση απλήρωτων τιμολογίων μετά από x ημέρες. Ορίστε 0 για να κρατήσετε "
+"τα τιμολόγια για πάντα"
+
+msgid "Proforma invoice prefix/series"
+msgstr "Πρόθεμα/σειρά τιμολογίου Proforma"
+
+msgid "Paid invoice prefix/series"
+msgstr "Πρόθεμα/σειρά εξοφλημένων τιμολογίων"
+
+msgid "Next paid invoice number"
+msgstr "Επόμενος αριθμός εξοφλημένου τιμολογίου"
+
+msgid "Refunds settings"
+msgstr "Ρυθμίσεις επιστροφών"
+
+msgid "Refunds logic"
+msgstr "Λογική επιστροφών"
+
+msgid "Add funds settings"
+msgstr "Προσθήκη ρυθμίσεων κεφαλαίων"
+
+msgid "Minimum amount for add funds invoice"
+msgstr "Ελάχιστο ποσό για τιμολόγιο προσθήκης κεφαλαίων"
+
+msgid "Unlimited"
+msgstr "Απεριόριστα"
+
+msgid "Maximum amount for add funds invoice"
+msgstr "Μέγιστο ποσό για τιμολόγιο προσθήκης κεφαλαίων"
+
+msgid "SolusVM"
+msgstr "SolusVM"
+
+msgid "API configuration"
+msgstr "Διαμόρφωση API"
+
+msgid "Getting started with SolusVM"
+msgstr "Ξεκινώντας με το SolusVM"
+
+msgid ""
+"This guide will help you to get started selling SolusVM virtual servers with "
+"BoxBilling."
+msgstr ""
+"Αυτός ο οδηγός θα σας βοηθήσει να ξεκινήσετε να πουλάτε εικονικούς "
+"διακομιστές SolusVM με το BoxBilling."
+
+msgid "1. Configure your SolusVm server"
+msgstr "1. Διαμορφώστε τον διακομιστή SolusVm"
+
+msgid "2. Configure API"
+msgstr "2. Ρύθμιση API"
+
+msgid "3. Create new product category"
+msgstr "3. Δημιουργία νέας κατηγορίας προϊόντων"
+
+msgid "4. Create SolusVM products"
+msgstr "4. Δημιουργία προϊόντων SolusVM"
+
+msgid "5. Import data from SolusVM server"
+msgstr "5. Εισαγωγή δεδομένων από το διακομιστή SolusVM"
+
+msgid "Connect to SolusVM master server via API"
+msgstr "Σύνδεση στον κύριο διακομιστή SolusVM μέσω API"
+
+msgid ""
+"To create an API user login to SolusVM admin area and click Configuration > "
+"API Access from the top menu then select Add API User."
+msgstr ""
+"Για να δημιουργήσετε έναν χρήστη API συνδεθείτε στην περιοχή διαχείρισης του "
+"SolusVM και κάντε κλικ στην επιλογή Διαμόρφωση > Πρόσβαση API από το επάνω "
+"μενού και, στη συνέχεια, επιλέξτε Προσθήκη χρήστη API."
+
+msgid "Master server IP"
+msgstr "Κύριος διακομιστής IP"
+
+msgid "Secure connection"
+msgstr "Ασφαλής σύνδεση"
+
+msgid "Custom port"
+msgstr "Προσαρμοσμένη θύρα"
+
+msgid "Leave blank to use default port 5353 and 5656 for secure connection"
+msgstr ""
+"Αφήστε κενό για να χρησιμοποιήσετε τις προεπιλεγμένες θύρες 5353 και 5656 "
+"για ασφαλή σύνδεση"
+
+msgid "Test connection"
+msgstr "Σύνδεση δοκιμής"
+
+msgid "Cron settings"
+msgstr "Ρυθμίσεις Cron"
+
+msgid "Setup scheduled tasks to be executed once a day"
+msgstr ""
+"Ρύθμιση προγραμματισμένων εργασιών που θα εκτελούνται μία φορά την ημέρα"
+
+msgid ""
+"Scheduled tasks must be enabled immediately after installation. Cron is "
+"responsible for sending your clients reminder about payments, domain renewal "
+"notices and many more."
+msgstr ""
+"Οι προγραμματισμένες εργασίες πρέπει να ενεργοποιηθούν αμέσως μετά την "
+"εγκατάσταση. Το Cron είναι υπεύθυνο για την αποστολή υπενθυμίσεων στους "
+"πελάτες σας σχετικά με πληρωμές, ειδοποιήσεις ανανέωσης domain και πολλά "
+"άλλα."
+
+msgid "Timezone"
+msgstr "Χρονοζώνη"
+
+msgid "Time on server"
+msgstr "Χρόνος στον διακομιστή"
+
+msgid "Last time scheduled tasks were executed"
+msgstr "Τελευταία φορά που εκτελέστηκαν προγραμματισμένες εργασίες"
+
+msgid "Scheduled tasks were never executed"
+msgstr "Οι προγραμματισμένες εργασίες δεν εκτελέστηκαν ποτέ"
+
+msgid "Unix crontab setup:"
+msgstr "Ρύθμιση της crontab του Unix:"
+
+msgid "Execute scheduled tasks from browser"
+msgstr "Εκτέλεση προγραμματισμένων εργασιών από το πρόγραμμα περιήγησης"
+
+msgid "Execute now"
+msgstr "Εκτέλεση τώρα"
+
+msgid "Redirects"
+msgstr "Αναδρομολογήσεις"
+
+msgid "Create new redirect"
+msgstr "Δημιουργία νέας ανακατεύθυνσης"
+
+msgid "Emails"
+msgstr ""
+
+msgid ""
+"Here you can find all the emails we sent you. Please click on email topic in "
+"left column and it will be displayed in right side."
+msgstr ""
+"Εδώ μπορείτε να βρείτε όλα τα email που σας στείλαμε. Κάντε κλικ στο θέμα "
+"του email στην αριστερή στήλη και θα εμφανιστεί στη δεξιά πλευρά."
+
+msgid "There are no emails to display"
+msgstr "Δεν υπάρχουν μηνύματα ηλεκτρονικού ταχυδρομείου προς εμφάνιση"
+
+msgid "From:"
+msgstr "Από:"
+
+msgid "To:"
+msgstr "Προς:"
+
+msgid "Created at:"
+msgstr "Δημιουργήθηκε στης:"
+
+msgid "Mass Mail Messages"
+msgstr "Μηνύματα μαζικής αλληλογραφίας"
+
+msgid "Create new mass mail message"
+msgstr "Δημιουργία νέου μηνύματος μαζικής αλληλογραφίας"
+
+msgid "Mass Mail Settings"
+msgstr "Ρυθμίσεις μαζικής αλληλογραφίας"
+
+msgid "Client ID to send test email while creating message"
+msgstr ""
+"Αναγνωριστικό πελάτη για αποστολή δοκιμαστικού email κατά τη δημιουργία "
+"μηνύματος"
+
+msgid "Paid support settings"
+msgstr "Ρυθμίσεις αμειβόμενης υποστήριξης"
+
+msgid "Ticket price:"
+msgstr "Τιμή εισιτηρίου:"
+
+msgid "Error message:"
+msgstr "Μήνυμα σφάλματος:"
+
+msgid "Set paid supoprt for helpdesks: "
+msgstr "Ορίστε πληρωμένο supoprt για τα helpdesks: "
+
+msgid "Create new helpdesk"
+msgstr "Δημιουργία νέου helpdesk"
+
+msgid "Back to emails list"
+msgstr "Επιστροφή στη λίστα emails"
+
+msgid "Centova Cast"
+msgstr ""
+
+msgid "Centova Cast settings"
+msgstr "Ρυθμίσεις Cast της Centova"
+
+msgid "Server URL"
+msgstr "URL διακομιστή"
+
+msgid "Register new server"
+msgstr "Εγγραφή νέου διακομιστή"
+
+msgid "Edit server"
+msgstr "Επεξεργασία διακομιστή"
+
+msgid "CentovaCast URL"
+msgstr "URL του CentovaCast"
+
+msgid "IP Address"
+msgstr "Διεύθυνση IP"
+
+msgid "Administrator password"
+msgstr "Κωδικός πρόσβασης διαχειριστή"
+
+msgid "Register Centova Cast server"
+msgstr "Εγγραφή διακομιστή Centova Cast"
+
+msgid "Server added"
+msgstr "Ο διακομιστής προστέθηκε"
+
+msgid "Back to settings"
+msgstr "Πίσω στις ρυθμίσεις"
+
+msgid "Create CentovaCast product"
+msgstr "Δημιουργία προϊόντος CentovaCast"
+
+msgid "My Products & Services"
+msgstr "Τα προϊόντα & οι υπηρεσίες μου"
+
+msgid ""
+"All of your orders are displayed here. Click on any order to get full "
+"information about it."
+msgstr ""
+"Όλες οι παραγγελίες σας εμφανίζονται εδώ. Κάντε κλικ σε οποιαδήποτε "
+"παραγγελία για να λάβετε πλήρεις πληροφορίες σχετικά με αυτήν."
+
+msgid "Product/Service"
+msgstr "Προϊόν/Υπηρεσία"
+
+msgid "Next due date"
+msgstr "Επόμενη ημερομηνία λήξης"
+
+msgid "Canned response"
+msgstr "Κονσερβοποιημένη απάντηση"
+
+msgid "CPU"
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "Monthly price"
+msgstr "Μηνιαία τιμή"
+
+msgid "Centova Cast order details"
+msgstr "Λεπτομέρειες παραγγελίας Centova Cast"
+
+msgid "Changing settings does not send actions to CentovaCast server."
+msgstr ""
+"Η αλλαγή των ρυθμίσεων δεν στέλνει ενέργειες στο διακομιστή CentovaCast."
+
+msgid "Reconfigure"
+msgstr "Επαναδιαμόρφωση"
+
+msgid "Changing CentovaCast server settings."
+msgstr "Αλλαγή των ρυθμίσεων του διακομιστή CentovaCast."
+
+msgid "Port"
+msgstr "Θύρα"
+
+msgid "Source password"
+msgstr "Πηγή κωδικού πρόσβασης"
+
+msgid "Max BitRate"
+msgstr "Max BitRate"
+
+msgid "Organization"
+msgstr "Οργανισμός"
+
+msgid "URL"
+msgstr ""
+
+msgid "Auto rebuild list"
+msgstr "Λίστα αυτόματης ανακατασκευής"
+
+msgid "Account details"
+msgstr "Στοιχεία λογαριασμού"
+
+msgid "Parameter"
+msgstr "Παράμετρος"
+
+msgid "Help desks"
+msgstr "Γραφεία βοήθειας"
+
+msgid "New help desk"
+msgstr "Νέο γραφείο βοήθειας"
+
+msgid "Auto responder settings"
+msgstr "Ρυθμίσεις αυτόματης απάντησης"
+
+msgid "Enable auto responder"
+msgstr "Ενεργοποίηση αυτόματης απάντησης"
+
+msgid "Auto respond message"
+msgstr "Μήνυμα αυτόματης απάντησης"
+
+msgid ""
+"Delay message - selected canned response message will be added to default "
+"reply message"
+msgstr ""
+"Μήνυμα καθυστέρησης - το επιλεγμένο κονσερβοποιημένο μήνυμα απάντησης θα "
+"προστεθεί στο προεπιλεγμένο μήνυμα απάντησης"
+
+msgid "Enable delay message"
+msgstr "Ενεργοποίηση μηνύματος καθυστέρησης"
+
+msgid "Delay hours"
+msgstr "Ώρες καθυστέρησης"
+
+msgid "Delay reply"
+msgstr "Καθυστέρηση απάντησης"
+
+msgid ""
+"Wait time - how many hours user needs to wait until consequent ticket "
+"submission"
+msgstr ""
+"Χρόνος αναμονής - πόσες ώρες πρέπει να περιμένει ο χρήστης μέχρι την υποβολή "
+"του εισιτηρίου."
+
+msgid "Wait time in hours"
+msgstr "Χρόνος αναμονής σε ώρες"
+
+msgid "Close tickets after"
+msgstr "Κλείστε τα εισιτήρια μετά"
+
+msgid "Currency management"
+msgstr "Διαχείριση συναλλάγματος"
+
+msgid "Edit currency information"
+msgstr "Επεξεργασία πληροφοριών νομίσματος"
+
+msgid "Price format"
+msgstr "Μορφή τιμής"
+
+msgid "Order confirm"
+msgstr "Επιβεβαίωση παραγγελίας"
+
+msgid "Order confirmation"
+msgstr "Επιβεβαίωση παραγγελίας"
+
+msgid "These are the products you have selected"
+msgstr "Αυτά είναι τα προϊόντα που έχετε επιλέξει"
+
+msgid "Have a promo code?"
+msgstr "Έχετε έναν κωδικό προσφοράς;"
+
+msgid "Sign in"
+msgstr "Συνδεθείτε"
+
+msgid "Login to client area"
+msgstr "Σύνδεση στην περιοχή πελατών"
+
+msgid "Do not have an account yet?"
+msgstr "Δεν έχετε ακόμη λογαριασμό;"
+
+msgid "Enter your details below"
+msgstr "Εισάγετε τα στοιχεία σας παρακάτω"
+
+msgid "Create new profile"
+msgstr "Δημιουργία νέου προφίλ"
+
+msgid "You have not selected any product"
+msgstr "Δεν έχετε επιλέξει κανένα προϊόν"
+
+msgid "Order new service"
+msgstr "Παραγγελία νέας υπηρεσίας"
+
+msgid "Subscription"
+msgstr "Συνδρομή"
+
+msgid "Subscription details"
+msgstr "Λεπτομέρειες συνδρομής"
+
+msgid "Send Email Message"
+msgstr "Στείλτε μήνυμα ηλεκτρονικού ταχυδρομείου"
+
+msgid "From name"
+msgstr "Από το όνομα"
+
+msgid "From email"
+msgstr "Από email"
+
+msgid "Recipients filter. Select none to send message to all clients"
+msgstr ""
+"Φίλτρο παραληπτών. Επιλέξτε none για να στείλετε το μήνυμα σε όλους τους "
+"πελάτες"
+
+msgid "Client status and group"
+msgstr "Κατάσταση και ομάδα πελατών"
+
+msgid "Has order"
+msgstr "Έχει διαταγή"
+
+msgid "Message content"
+msgstr "Περιεχόμενο μηνύματος"
+
+msgid "Update and preview"
+msgstr "Ενημέρωση και προεπισκόπηση"
+
+msgid "Send test message"
+msgstr "Αποστολή δοκιμαστικού μηνύματος"
+
+msgid "Send message to clients"
+msgstr "Αποστολή μηνύματος σε πελάτες"
+
+msgid "Back to list"
+msgstr "Πίσω στη λίστα"
+
+msgid "management"
+msgstr "διαχείριση"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Payments"
+msgstr "Πληρωμές"
+
+msgid "Logins"
+msgstr "Συνδέσεις"
+
+msgid "Client profile details"
+msgstr "Λεπτομέρειες προφίλ πελάτη"
+
+msgid "Client Profile updated"
+msgstr "Ενημέρωση προφίλ πελάτη"
+
+msgid "Individual"
+msgstr "Ατομικό"
+
+msgid "Other/Unknown"
+msgstr "Άλλο/Άγνωστο"
+
+msgid "Mail approved"
+msgstr "Εγκεκριμένο ταχυδρομείο"
+
+msgid "Date of birth"
+msgstr "Ημερομηνία γέννησης"
+
+msgid "Address and contact details"
+msgstr "Διεύθυνση και στοιχεία επικοινωνίας"
+
+msgid "Alternative ID"
+msgstr "Εναλλακτική ταυτότητα"
+
+msgid "Used to identify client on foreign system. Usually used by importers"
+msgstr ""
+"Χρησιμοποιείται για την ταυτοποίηση του πελάτη σε ξένο σύστημα. Συνήθως "
+"χρησιμοποιείται από εισαγωγείς."
+
+msgid "Exempt from tax"
+msgstr "Απαλλάσσεται από το φόρο"
+
+msgid "Signed up time"
+msgstr "Χρόνος εγγραφής"
+
+msgid "Custom fields"
+msgstr "Προσαρμοσμένα πεδία"
+
+msgid "Use these fields to define custom client details"
+msgstr ""
+"Χρησιμοποιήστε αυτά τα πεδία για να ορίσετε προσαρμοσμένες λεπτομέρειες "
+"πελάτη"
+
+msgid "Client Profile custom fields updated"
+msgstr "Ενημέρωση προσαρμοσμένων πεδίων προφίλ πελάτη"
+
+msgid "Custom field"
+msgstr "Προσαρμοσμένο πεδίο"
+
+msgid "Client payments history"
+msgstr "Ιστορικό πληρωμών πελατών"
+
+msgid "Add funds for client"
+msgstr "Προσθήκη κεφαλαίων για τον πελάτη"
+
+msgid "Funds added"
+msgstr "Προστιθέμενα κεφάλαια"
+
+msgid "Add funds"
+msgstr "Προσθήκη κεφαλαίων"
+
+msgid "Client orders"
+msgstr "Παραγγελίες πελατών"
+
+msgid "Client invoices"
+msgstr "Τιμολόγια πελατών"
+
+msgid "Client support tickets"
+msgstr "Εισιτήρια υποστήριξης πελατών"
+
+msgid "Logins history"
+msgstr "Ιστορικό συνδέσεων"
+
+msgid "Emails sent to client"
+msgstr "Ηλεκτρονικά μηνύματα που αποστέλλονται στον πελάτη"
+
+msgid "Email subject"
+msgstr "Θέμα ηλεκτρονικού ταχυδρομείου"
+
+msgid "Date sent"
+msgstr "Ημερομηνία αποστολής"
+
+msgid "Transactions received"
+msgstr "Λαμβανόμενες συναλλαγές"
+
+msgid "Hi,"
+msgstr "Γεια σας,"
+
+msgid "New"
+msgstr "Νέα"
+
+msgid "All settings"
+msgstr "Όλες οι ρυθμίσεις"
+
+msgid "Theme settings"
+msgstr "Ρυθμίσεις θέματος"
+
+msgid "Visit site"
+msgstr "Επισκεφθείτε τον ιστότοπο"
+
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+msgid "Inquiries"
+msgstr "Ερωτήσεις"
+
+msgid "Registrar configuration"
+msgstr "Διαμόρφωση καταχωρητή"
+
+msgid "Registrar title"
+msgstr "Τίτλος καταχωρητή"
+
+msgid "Service details"
+msgstr "Λεπτομέρειες υπηρεσίας"
+
+msgid "All information about your service"
+msgstr "Όλες οι πληροφορίες σχετικά με την υπηρεσία σας"
+
+msgid "Product name"
+msgstr "Όνομα προϊόντος"
+
+msgid "Payment amount"
+msgstr "Ποσό πληρωμής"
+
+msgid "Billing cycle"
+msgstr "Κύκλος χρέωσης"
+
+msgid "Order created"
+msgstr "Δημιουργία παραγγελίας"
+
+msgid "Activated at"
+msgstr "Ενεργοποιείται στο"
+
+msgid "Renewal date"
+msgstr "Ημερομηνία ανανέωσης"
+
+msgid "Order notes"
+msgstr "Σημειώσεις παραγγελίας"
+
+msgid "Active support tickets"
+msgstr "Ενεργά εισιτήρια υποστήριξης"
+
+msgid "Renew now"
+msgstr "Ανανεώστε τώρα"
+
+msgid "Request Upgrade"
+msgstr "Αίτηση αναβάθμισης"
+
+msgid "Open ticket"
+msgstr "Ανοιχτό εισιτήριο"
+
+msgid "Request Cancellation"
+msgstr "Αίτηση ακύρωσης"
+
+msgid "Back to services"
+msgstr "Επιστροφή στις υπηρεσίες"
+
+msgid "Addons you have ordered with this service"
+msgstr "Πρόσθετα που έχετε παραγγείλει με αυτή την υπηρεσία"
+
+msgid "Billing Cycle"
+msgstr "Κύκλος χρέωσης"
+
+msgid "Submit cancellation request"
+msgstr "Υποβολή αιτήματος ακύρωσης"
+
+msgid "I would like to cancel"
+msgstr "Θα ήθελα να ακυρώσω"
+
+msgid "Reason"
+msgstr "Λόγος"
+
+msgid "Submit upgrade request"
+msgstr "Υποβολή αιτήματος αναβάθμισης"
+
+msgid "I would like to upgrade"
+msgstr "Θα ήθελα να αναβαθμίσω"
+
+msgid "Upgrade to"
+msgstr "Αναβάθμιση σε"
+
+msgid "Request"
+msgstr "Αίτημα"
+
+msgid "Import SolusVM servers"
+msgstr "Εισαγωγή διακομιστών SolusVM"
+
+msgid "Read before importing servers"
+msgstr "Διαβάστε πριν από την εισαγωγή διακομιστών"
+
+msgid "VServer ID"
+msgstr "Αναγνωριστικό VServer"
+
+msgid "Client ID"
+msgstr "Αναγνωριστικό πελάτη"
+
+msgid "Import selected SolusVM virtual server to BoxBilling"
+msgstr "Εισαγωγή επιλεγμένου εικονικού διακομιστή SolusVM στο BoxBilling"
+
+msgid "Vps hostname"
+msgstr "Όνομα κεντρικού υπολογιστή Vps"
+
+msgid "mydomain.com"
+msgstr ""
+
+msgid "OS template"
+msgstr "Πρότυπο OS"
+
+msgid "Forum members"
+msgstr "Μέλη του φόρουμ"
+
+msgid ""
+"List of all forum members. You can filter the list by clicking on letter "
+"above to find usernames which start with this letter."
+msgstr ""
+"Λίστα όλων των μελών του φόρουμ. Μπορείτε να φιλτράρετε τη λίστα κάνοντας "
+"κλικ στο γράμμα παραπάνω για να βρείτε ονόματα χρηστών που ξεκινούν με αυτό "
+"το γράμμα."
+
+msgid "Joined"
+msgstr "Έγινε μέλος στο"
+
+msgid "No icons available"
+msgstr "Δεν υπάρχουν διαθέσιμα εικονίδια"
+
+msgid "Orders settings"
+msgstr "Ρυθμίσεις παραγγελιών"
+
+msgid "Expiration date"
+msgstr "Ημερομηνία λήξης"
+
+msgid ""
+"Show addon orders in orders list (if this is disabled they are shown in "
+"master order view \"Addons\" tab)"
+msgstr ""
+"Εμφάνιση παραγγελιών addon στη λίστα παραγγελιών (αν αυτό είναι "
+"απενεργοποιημένο, εμφανίζονται στην καρτέλα \"Addons\" της κύριας προβολής "
+"παραγγελιών)"
+
+msgid "Auto suspend reason"
+msgstr "Λόγος αυτόματης αναστολής"
+
+msgid "Auto Cancellation"
+msgstr "Αυτόματη ακύρωση"
+
+msgid "Suspension reasons"
+msgstr "Λόγοι αναστολής"
+
+msgid "Payment"
+msgstr "Πληρωμή"
+
+msgid "Powered by BoxBilling"
+msgstr ""
+
+msgid "You logged in successfully"
+msgstr "Συνδεθήκατε επιτυχώς"
+
+msgid "Product was added to shopping cart"
+msgstr "Το προϊόν προστέθηκε στο καλάθι αγορών"
+
+msgid "Promo code was applied for your order"
+msgstr "Ο κωδικός προσφοράς εφαρμόστηκε για την παραγγελία σας"
+
+msgid "YouHosting specifict settings"
+msgstr "YouHosting συγκεκριμένες ρυθμίσεις"
+
+msgid "Invoice number"
+msgstr "Αριθμός τιμολογίου"
+
+msgid "Invoice date"
+msgstr "Ημερομηνία τιμολογίου"
+
+msgid "Due date"
+msgstr "Ημερομηνία λήξης"
+
+msgid "Invoice status"
+msgstr "Κατάσταση τιμολογίου"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Billing & Delivery address"
+msgstr "Διεύθυνση χρέωσης & παράδοσης"
+
+msgid "Company number"
+msgstr "Αριθμός εταιρείας"
+
+msgid "System activity"
+msgstr "Δραστηριότητα συστήματος"
+
+msgid "Ip"
+msgstr ""
+
+msgid "Related to"
+msgstr "Σχετικά με"
+
+msgid "Service #"
+msgstr "Υπηρεσία #"
+
+msgid "Last tickets"
+msgstr "Τελευταία εισιτήρια"
+
+msgid "Back to tickets list"
+msgstr "Πίσω στη λίστα εισιτηρίων"
+
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+msgid "Canned category"
+msgstr "Κατηγορία κονσερβοποιημένων προϊόντων"
+
+msgid "News and announcements"
+msgstr "Νέα και ανακοινώσεις"
+
+msgid "New announcement"
+msgstr "Νέα ανακοίνωση"
+
+msgid "Product configuration"
+msgstr "Διαμόρφωση προϊόντος"
+
+msgid "General settings"
+msgstr "Γενικές ρυθμίσεις"
+
+msgid "Configuration"
+msgstr "Διαμόρφωση"
+
+msgid "Upgrades"
+msgstr "Αναβαθμίσεις"
+
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+msgid "Order Form"
+msgstr "Φόρμα παραγγελίας"
+
+msgid "Open Editor"
+msgstr "Ανοίξτε τον επεξεργαστή"
+
+msgid "Hidden"
+msgstr "Κρυφό"
+
+msgid "Icon/Image URL"
+msgstr "Εικονίδιο/Εικόνα URL"
+
+msgid "Product / service description"
+msgstr "Περιγραφή προϊόντος/υπηρεσίας"
+
+msgid "Choose which addons you would like to offer with"
+msgstr "Επιλέξτε ποια πρόσθετα θα θέλατε να προσφέρετε με"
+
+msgid "Create new addon"
+msgstr "Δημιουργία νέου πρόσθετου"
+
+msgid "Choose which products can client upgrade to"
+msgstr "Επιλέξτε ποια προϊόντα μπορεί να αναβαθμίσει ο πελάτης"
+
+msgid "Product Upgrades"
+msgstr "Αναβαθμίσεις προϊόντων"
+
+msgid "No additional configuration for this product is required"
+msgstr "Δεν απαιτείται πρόσθετη διαμόρφωση για αυτό το προϊόν"
+
+msgid "Product links"
+msgstr "Σύνδεσμοι προϊόντων"
+
+msgid "Product ID"
+msgstr "Αναγνωριστικό προϊόντος"
+
+msgid "Order page with ID"
+msgstr "Σελίδα παραγγελίας με ID"
+
+msgid "Order page with slug"
+msgstr "Σελίδα παραγγελίας με slug"
+
+msgid "View as client<"
+msgstr "Προβολή ως πελάτης<"
+
+msgid "Article updated"
+msgstr "Το άρθρο ενημερώθηκε"
+
+msgid "Article details"
+msgstr "Λεπτομέρειες άρθρου"
+
+msgid "Forgot password?"
+msgstr "Ξεχάσατε τον κωδικό πρόσβασης;"
+
+msgid "Max Addon domains"
+msgstr "Μέγιστοι τομείς Addon"
+
+msgid "Max FTP accounts"
+msgstr "Μέγιστοι λογαριασμοί FTP"
+
+msgid "Max SQL Databases"
+msgstr "Μέγιστες βάσεις δεδομένων SQL"
+
+msgid "Max Email Accounts"
+msgstr "Μέγιστοι λογαριασμοί email"
+
+msgid "Max Subdomains"
+msgstr "Ανώτατο όριο υποτομέων"
+
+msgid "Max Parked Domains"
+msgstr "Μέγιστα σταθμευμένα domains"
+
+msgid "Server manager specific parameters"
+msgstr "Ειδικές παράμετροι διαχειριστή διακομιστή"
+
+msgid "Update hosting plan"
+msgstr "Ενημέρωση πακέτου φιλοξενίας"
+
+msgid "Hosting plan additional parameters"
+msgstr "Πρόσθετες παράμετροι του πακέτου φιλοξενίας"
+
+msgid ""
+"Depending on server manager used to setup hosting account you may require "
+"provide additional parameters. List of parameters server managers requires "
+"you can find on extensions page."
+msgstr ""
+"Ανάλογα με τον διαχειριστή διακομιστή που χρησιμοποιείται για τη ρύθμιση του "
+"λογαριασμού φιλοξενίας, ενδέχεται να χρειαστεί να παρέχετε πρόσθετες "
+"παραμέτρους. Λίστα των παραμέτρων που απαιτούν οι διαχειριστές διακομιστών "
+"μπορείτε να βρείτε στη σελίδα επεκτάσεις."
+
+msgid "Add new configuration field"
+msgstr "Προσθήκη νέου πεδίου διαμόρφωσης"
+
+msgid "How to reset my password?"
+msgstr "Πώς μπορώ να επαναφέρω τον κωδικό πρόσβασής μου;"
+
+msgid "Please click on \"Edit\" in order to add new select box"
+msgstr ""
+"Κάντε κλικ στο \"Edit\" (Επεξεργασία) για να προσθέσετε νέο πλαίσιο επιλογής."
+
+msgid "Please click on \"Edit\" in order to add new checkbox"
+msgstr ""
+"Κάντε κλικ στο \"Edit\" (Επεξεργασία) για να προσθέσετε νέο πλαίσιο ελέγχου."
+
+msgid "Please click on \"Edit\" in order to add new radio box"
+msgstr ""
+"Κάντε κλικ στο \"Edit\" (Επεξεργασία) για να προσθέσετε νέο πλαίσιο επιλογής."
+
+msgid "Select currency"
+msgstr "Επιλέξτε νόμισμα"
+
+msgid "Top level domain management"
+msgstr "Διαχείριση τομέων ανωτάτου επιπέδου"
+
+msgid "Something went wrong here"
+msgstr "Κάτι πήγε στραβά εδώ"
+
+msgid "Back to Dashboard"
+msgstr "Πίσω στο ταμπλό"
+
+msgid "Staff Group management"
+msgstr "Διαχείριση της ομάδας προσωπικού"
+
+msgid "Staff group updated"
+msgstr "Ενημέρωση της ομάδας προσωπικού"
+
+msgid "Proforma invoice"
+msgstr "Τιμολόγιο Proforma"
+
+msgid "Payment methods"
+msgstr "Μέθοδοι πληρωμής"
+
+msgid "Please choose payment type and pay for your chosen products."
+msgstr "Επιλέξτε τύπο πληρωμής και πληρώστε για τα προϊόντα που επιλέξατε."
+
+msgid "Pay with"
+msgstr "Πληρώστε με"
+
+msgid ""
+"You can print this invoice or export it to PDF file by clicking on "
+"corresponding button."
+msgstr ""
+"Μπορείτε να εκτυπώσετε αυτό το τιμολόγιο ή να το εξάγετε σε αρχείο PDF "
+"κάνοντας κλικ στο αντίστοιχο κουμπί."
+
+msgid "PDF"
+msgstr ""
+
+msgid "Print"
+msgstr "Εκτύπωση"
+
+msgid "BoxBilling license"
+msgstr "Άδεια χρήσης BoxBilling"
+
+msgid "1. Configure API"
+msgstr "1. Διαμόρφωση API"
+
+msgid "Update API key"
+msgstr "Ενημέρωση κλειδιού API"
+
+msgid "2. Become partner"
+msgstr "2. Γίνετε εταίρος"
+
+msgid "3. Create license product"
+msgstr "3. Δημιουργία προϊόντος άδειας χρήσης"
+
+msgid "About us"
+msgstr "Σχετικά με εμάς"
+
+msgid "Tickets waiting for staff reply"
+msgstr "Εισιτήρια σε αναμονή της απάντησης του προσωπικού"
+
+msgid "Tickets waiting for client reply"
+msgstr "Εισιτήρια σε αναμονή της απάντησης του πελάτη"
+
+msgid "Solved tickets"
+msgstr "Λυμένα εισιτήρια"
+
+msgid ""
+"Payment gateway \"AlertPay\" is not configured properly. Please update "
+"configuration parameter \"AlertPay Email address\" at \"Configuration -> "
+"Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"AlertPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Διεύθυνση ηλεκτρονικού ταχυδρομείου "
+"AlertPay\" στο \"Διαμόρφωση -> Πληρωμές\"."
+
+msgid ""
+"Payment gateway \"AlertPay\" is not configured properly. Please update "
+"configuration parameter \"IPN Security Code\" at \"Configuration -> Payments"
+"\"."
+msgstr ""
+"Η πύλη πληρωμής \"AlertPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"IPN Security Code\" στο "
+"\"Configuration -> Payments\"."
+
+msgid "Not implemented yet"
+msgstr "Δεν έχει εφαρμοστεί ακόμη"
+
+msgid ""
+"Payment gateway \"AliPay\" is not configured properly. Please update "
+"configuration parameter \"Partner ID\" at \"Configuration -> Payment gateways"
+"\"."
+msgstr ""
+"Η πύλη πληρωμής \"AliPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε ενημερώστε "
+"την παράμετρο διαμόρφωσης \"Αναγνωριστικό συνεργάτη\" στο \"Διαμόρφωση -> "
+"Πύλες πληρωμών\"."
+
+msgid ""
+"Payment gateway \"AliPay\" is not configured properly. Please update "
+"configuration parameter \"Security Code\" at \"Configuration -> Payment "
+"gateways\"."
+msgstr ""
+"Η πύλη πληρωμής \"AliPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε ενημερώστε "
+"την παράμετρο διαμόρφωσης \"Κωδικός ασφαλείας\" στο \"Διαμόρφωση -> Πύλες "
+"πληρωμών\"."
+
+msgid ""
+"Payment gateway \"AliPay\" is not configured properly. Please update "
+"configuration parameter \"Seller email\" at \"Configuration -> Payment "
+"gateways\"."
+msgstr ""
+"Η πύλη πληρωμής \"AliPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε ενημερώστε "
+"την παράμετρο διαμόρφωσης \"Email του πωλητή\" στο \"Διαμόρφωση -> Πύλες "
+"πληρωμών\"."
+
+msgid "AliPay does not support recurrent payments"
+msgstr "Το AliPay δεν υποστηρίζει επαναλαμβανόμενες πληρωμές"
+
+msgid "cURL extension is not enabled"
+msgstr "Η επέκταση cURL δεν είναι ενεργοποιημένη"
+
+msgid "SimpleXml extension is not enabled"
+msgstr "Η επέκταση SimpleXml δεν είναι ενεργοποιημένη"
+
+msgid ""
+"Payment gateway \"Authorize.net\" is not configured properly. Please update "
+"configuration parameter \"API Login ID\" at \"Configuration -> Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"Authorize.net\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"API Login ID\" στο \"Διαμόρφωση -> "
+"Πληρωμές\"."
+
+msgid ""
+"Payment gateway \"Authorize.net\" is not configured properly. Please update "
+"configuration parameter \"Transaction Key\" at \"Configuration -> Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"Authorize.net\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Transaction Key\" στο \"Configuration "
+"-> Payments\"."
+
+msgid ""
+"Payment gateway \"Authorize.net\" is not configured properly. Please update "
+"configuration parameter \"MD5 Hash Value\" at \"Configuration -> Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"Authorize.net\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"MD5 Hash Value\" στο \"Configuration -"
+"> Payments\"."
+
+msgid "Authorize.net unknown x_response_code"
+msgstr "Authorize.net άγνωστος x_response_code"
+
+msgid "IPN is not valid"
+msgstr "Το IPN δεν είναι έγκυρο"
+
+msgid "Shop ID is missing in gateway configuration"
+msgstr "Το αναγνωριστικό καταστήματος λείπει από τη διαμόρφωση της πύλης"
+
+msgid "Secret key is missing in gateway configuration"
+msgstr "Το μυστικό κλειδί λείπει από τη διαμόρφωση της πύλης"
+
+msgid "Interkassa payment gateway do not support recurrent payments"
+msgstr "Η πύλη πληρωμών Interkassa δεν υποστηρίζει επαναλαμβανόμενες πληρωμές"
+
+msgid "PHP Curl extension must be enabled in order to use PayPal gateway"
+msgstr ""
+"Η επέκταση PHP Curl πρέπει να είναι ενεργοποιημένη για τη χρήση της πύλης "
+"PayPal"
+
+msgid ""
+"Payment gateway \"PayPal\" is not configured properly. Please update "
+"configuration parameter \"PayPal Email address\" at \"Configuration -> "
+"Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"PayPal\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε ενημερώστε "
+"την παράμετρο διαμόρφωσης \"Διεύθυνση ηλεκτρονικού ταχυδρομείου PayPal\" στο "
+"\"Διαμόρφωση -> Πληρωμές\"."
+
+msgid "PHP Curl extension must be enabled in order to use Payza gateway"
+msgstr "Η πύλη πληρωμής \"PayPal\" δεν έχει ρυθμιστεί σωστά"
+
+msgid ""
+"Payment gateway \"Payza\" is not configured properly. Please update "
+"configuration parameter \"Payza Email address\" at \"Configuration -> "
+"Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"Payza\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε ενημερώστε "
+"την παράμετρο διαμόρφωσης \"Διεύθυνση ηλεκτρονικού ταχυδρομείου Payza\" στο "
+"\"Διαμόρφωση -> Πληρωμές\"."
+
+msgid ""
+"Payment gateway \"Payza\" is not configured properly. Please update "
+"configuration parameter \"IPN Security Code\" at \"Configuration -> Payments"
+"\"."
+msgstr ""
+"Η πύλη πληρωμής \"Payza\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε ενημερώστε "
+"την παράμετρο διαμόρφωσης \"IPN Security Code\" στο \"Configuration -> "
+"Payments\"."
+
+msgid ""
+"Payment gateway \"2Checkout\" is not configured properly. Please update "
+"configuration parameter \"Vendor account number\" at \"Configuration -> "
+"Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"2Checkout\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Αριθμός λογαριασμού προμηθευτή\" στο "
+"\"Διαμόρφωση -> Πληρωμές\"."
+
+msgid ""
+"Payment gateway \"2Checkout\" is not configured properly. Please update "
+"configuration parameter \"Secret word\" at \"Configuration -> Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"2Checkout\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Μυστική λέξη\" στο \"Διαμόρφωση -> "
+"Πληρωμές\"."
+
+msgid "2Checkout IPN is not valid"
+msgstr "2Το IPN πληρωμής δεν είναι έγκυρο"
+
+msgid "Invoice id could not be determined for this transaction"
+msgstr ""
+"Το αναγνωριστικό του τιμολογίου δεν μπόρεσε να προσδιοριστεί για αυτή τη "
+"συναλλαγή"
+
+msgid ""
+"Payment gateway \"WebMoney\" is not configured properly. Please update "
+"configuration parameter \"Purse\" at \"Configuration -> Payment gateways > "
+"WebMoney\"."
+msgstr ""
+"Η πύλη πληρωμής \"WebMoney\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Πορτοφόλι\" στο \"Διαμόρφωση -> Πύλες "
+"πληρωμών > WebMoney\"."
+
+msgid "WebMoney IPN is not valid"
+msgstr "Το WebMoney IPN δεν είναι έγκυρο"
+
+msgid ""
+"Payment gateway \"WebToPay\" is not configured properly. Please update "
+"configuration parameter \"Project ID\" at \"Configuration -> Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"WebToPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Project ID\" στο \"Configuration -> "
+"Payments\"."
+
+msgid ""
+"Payment gateway \"WebToPay\" is not configured properly. Please update "
+"configuration parameter \"Sign Password\" at \"Configuration -> Payments\"."
+msgstr ""
+"Η πύλη πληρωμής \"WebToPay\" δεν έχει ρυθμιστεί σωστά. Παρακαλούμε "
+"ενημερώστε την παράμετρο διαμόρφωσης \"Sign Password\" στο \"Configuration -"
+"> Payments\"."
+
+msgid "WebToPay payment gateway do not support recurrent payments"
+msgstr "Η πύλη πληρωμών WebToPay δεν υποστηρίζει επαναλαμβανόμενες πληρωμές"
+
+msgid "Return URL for payment gateway was not set"
+msgstr "Η διεύθυνση URL επιστροφής για την πύλη πληρωμών δεν έχει οριστεί"
+
+msgid "Cancel URL for payment gateway was not set"
+msgstr "Η διεύθυνση URL ακύρωσης για την πύλη πληρωμών δεν έχει οριστεί"
+
+msgid "IPN Notification URL for payment gateway was not set"
+msgstr "Η διεύθυνση URL ειδοποίησης IPN για την πύλη πληρωμών δεν έχει οριστεί"
+
+msgid "IPN redirect URL for payment gateway was not set"
+msgstr ""
+"Η διεύθυνση URL ανακατεύθυνσης IPN για την πύλη πληρωμής δεν έχει οριστεί"
+
+msgid "Payment adapter class did not implement configuration options method"
+msgstr ""
+"Η κλάση προσαρμογέα πληρωμής δεν υλοποιεί τη μέθοδο επιλογών διαμόρφωσης"
